@@ -1,4 +1,5 @@
 import bach from './pieces/bach.generated.json';
+import extra from './pieces/extra.json';
 
 export type Style = 'classical' | 'jazz' | 'blues' | 'pop';
 
@@ -22,7 +23,7 @@ export interface Piece {
 	source: { name: string; url: string; license: string; edition: string };
 }
 
-export const PIECES: Piece[] = bach as Piece[];
+export const PIECES: Piece[] = [...(extra as Piece[]), ...(bach as Piece[])].sort((a, b) => a.level - b.level);
 export const pieceById = (id: string) => PIECES.find((p) => p.id === id);
 
 // the notes themselves are loaded only when a piece is opened

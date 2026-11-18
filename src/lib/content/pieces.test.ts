@@ -4,16 +4,17 @@ import abcjsModule from 'abcjs';
 import { PIECES, keyName } from './pieces.js';
 
 const abcjs = (abcjsModule as unknown as { default?: typeof abcjsModule }).default ?? abcjsModule;
-const dir = new URL('./pieces/bach/', import.meta.url).pathname;
+const root = new URL('./pieces/', import.meta.url).pathname;
+const fileOf = (id: string) => (id.startsWith('bach-') ? `${root}bach/${id}.abc` : `${root}siloti/${id}.abc`);
 
 describe('the pieces', () => {
 	it('every catalog entry has its notes and every file is in the catalog', () => {
-		const files = readdirSync(dir).map((f) => f.replace(/\.abc$/, ''));
+		const files = ['bach', 'siloti'].flatMap((d) => readdirSync(root + d).map((f) => f.replace(/\.abc$/, '')));
 		expect(files.sort()).toEqual(PIECES.map((p) => p.id).sort());
 	});
 	it('every piece parses, plays the number of notes of its source and has a source with a license', () => {
 		for (const p of PIECES) {
-			const abc = readFileSync(`${dir}${p.id}.abc`, 'utf8');
+			const abc = readFileSync(fileOf(p.id), 'utf8');
 			const tune = abcjs.parseOnly(abc)[0] as unknown as { warnings?: string[]; setUpAudio: () => { tracks: { cmd: string }[][] } };
 			expect(tune.warnings ?? [], p.id).toEqual([]);
 			const notes = tune.setUpAudio().tracks.flat().filter((e) => e.cmd === 'note').length;

@@ -1,0 +1,40 @@
+X:1
+T:Прелюдия си минор
+C:И. С. Бах — А. Зилоти (по BWV 855a)
+M:C
+L:1/16
+Q:1/2=50
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Bm
+V:RH1
+"^sempre legato"Bdef efed Bdef efed | Befg fgfe Befg fgfe | ^Acde dedc Acde dedc | Bdef efed Bdef efed |
+Gcde dedc Fcde dedc | FBcd cdcB EBcd cdcB | Ecde dedc Ddef efed | GBcd cdcB Gcde dedc |
+Gefg fgfe Ffga gagf | E^gab abag e^abc' bc'ba | dbc'd' c'd'c'b Bdef efed | Gefg fgfe =cfga gagf |
+Bgab abag GBcd cdcB | Ecde dedc A^def efed | Gefg fgfe =defg fgfe | cefg fgfe Adef efed |
+^Aefg fgfe Aefg fgfe |"^sempre ritenuto e diminuendo" =A^def efed ^GBc=d cdcB | =Gcde dedc FBcd cdcB | ^EBcd cdcB Fcd=e dedc |
+"^sempre più ritenuto al fine"FBcd cdcB B^def efed | Befg fgfe ^AEFG FGFE | !fermata![^DFB]16 |]
+V:RH2
+x16 | x16 | x16 | x16 |
+G8 F8 | F8 E8 | E8 D8 | G8 G8 |
+G8 F8 | E8 e8 | d8 B8 | G8 =c8 |
+B8 G8 | E8 A8 | G8 =d8 | c8 A8 |
+^A8 A8 | =A8 ^G8 | =G8 F8 | ^E8 F8 |
+F8 B8 | B8 ^A8 | x16 |]
+V:LH1
+B,8 D8 | C16 | C8 E8 | D16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 |]
+V:LH2
+[B,,D,F,]4 z4 [F,B,]4 z4 | [B,,E,G,]4 z4 z8 | [B,,F,]4 z4 [F,C]4 z4 | [B,,F,]4 z4 z8 |
+[B,,E,D]4 z4 [A,,E,C]4 z4 | [A,,D,C]4 z4 [G,,D,B,]4 z4 | [G,,C,A,]4 z4 [F,,D,A,]4 z4 | [E,,B,,G,]4 z4 [A,,E,C]4 z4 |
+[D,,A,,E,]4 z4 [D,F,A,D]4 z4 | [^D,E,^G,B,]4 z4 [C,F,^A,F]4 z4 | [B,,F,D]4 z4 [F,B,DF]4 z4 | [B,,E,G,=C]4 z4 [A,,D,F,D]4 z4 |
+[G,,D,B,]4 z4 [D,G,B,D]4 z4 | [G,,C,E,A,]4 z4 [F,,B,,^D,B,]4 z4 | [E,,B,,G,]4 z4 [B,,E,G,B,]4 z4 | [^A,,E,G,C]4 z4 [D,A,B,D]4 z4 |
+[C,=G,^A,E]4 z4 [F,,E,^A,]4 z4 | (3F,,^D,B, z2 z4 (3^E,,B,,^G, z2 z4 | (3=E,,B,,=G, z2 z4 (3F,,D,B, z2 z4 | F,,/D,/^G,/B,/ z2 z4 F,,/C,/F,/^A,/ z2 z4 |
+B,,,/B,,/F,/B,/ z2 z4 B,,/F,/=A,/^D/ z2 z4 | B,,/E,/G,/E/ z2 z4 B,,/E,/G,/C/ z2 z4 | !fermata![B,,F,B,]16 |]

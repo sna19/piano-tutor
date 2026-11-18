@@ -1,0 +1,30 @@
+[
+	{
+		"id": "siloti-prelude-b-minor",
+		"title": "Прелюдия си минор (Бах — Зилоти)",
+		"original": "Prélude in B minor, concert transcription by A. Siloti after BWV 855a",
+		"composer": "Johann Sebastian Bach / Alexander Siloti",
+		"catalog": "BWV 855a",
+		"collection": "Транскрипции",
+		"style": "classical",
+		"level": 4,
+		"key": "Bm",
+		"meter": "4/4",
+		"tempo": 100,
+		"bars": 23,
+		"notes": 541,
+		"voices": 4,
+		"remarks": [
+			"черновик: набрано со скана издания А. Гутхейля — сверить с нотами, особенно аккорды левой руки в тактах 10, 16 и 20",
+			"мелодия (первая нота каждой группы) звучит дважды — шестнадцатой и половинной, как в нотах; педаль, арпеджиато аккордов и динамика не переданы",
+			"арпеджио левой руки в тактах 18–22 записаны триолями и 32-ми — в нотах это быстрые «разломанные» аккорды"
+		],
+		"draft": true,
+		"source": {
+			"name": "IMSLP",
+			"url": "https://imslp.org/wiki/Prelude_and_Fughetta_in_E_minor,_BWV_855a_(Bach,_Johann_Sebastian)",
+			"license": "Public Domain",
+			"edition": "Москва: А. Гутхейль, [19--]; перепечатка Musical Scope Publishers, New York"
+		}
+	}
+]

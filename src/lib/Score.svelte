@@ -27,6 +27,19 @@
 	// eslint-disable-next-line @typescript-eslint/no-explicit-any
 	let ctrl: any;
 	let lit: Element[] = [];
+	// 0.1 s of silence, WAV 8 kHz mono
+	const SILENCE = (() => {
+		const n = 800;
+		const b = new Uint8Array(44 + n);
+		const v = new DataView(b.buffer);
+		const w = (o: number, t: string) => [...t].forEach((c, i) => v.setUint8(o + i, c.charCodeAt(0)));
+		w(0, 'RIFF'); v.setUint32(4, 36 + n, true); w(8, 'WAVEfmt '); v.setUint32(16, 16, true); v.setUint16(20, 1, true); v.setUint16(22, 1, true);
+		v.setUint32(24, 8000, true); v.setUint32(28, 8000, true); v.setUint16(32, 1, true); v.setUint16(34, 8, true); w(36, 'data'); v.setUint32(40, n, true);
+		b.fill(128, 44);
+		let s = '';
+		for (const x of b) s += String.fromCharCode(x);
+		return 'data:audio/wav;base64,' + btoa(s);
+	})();
 
 	/** V: lines of the header in order — abcjs numbers voices this way */
 	const voiceNames = $derived([...abc.matchAll(/^V:(\S+)\s+clef=/gm)].map((m) => m[1]));
@@ -103,7 +116,31 @@
 		}, 250);
 	}
 
+	/**
+	 * iPhone: Web Audio is silenced by the ring/silent switch. Safari 17+ lets the page say it plays media
+	 * (audioSession «playback»); older iOS switch to that mode once an <audio> element plays — a silent one,
+	 * on the first tap.
+	 */
+	function unmuteIos() {
+		try {
+			const s = (navigator as Navigator & { audioSession?: { type: string } }).audioSession;
+			if (s) s.type = 'playback';
+		} catch {
+			/* not supported */
+		}
+		const unlock = () => {
+			const a = new Audio(SILENCE);
+			a.setAttribute('playsinline', '');
+			a.play().catch(() => {});
+			window.removeEventListener('touchend', unlock, true);
+			window.removeEventListener('click', unlock, true);
+		};
+		window.addEventListener('touchend', unlock, true);
+		window.addEventListener('click', unlock, true);
+	}
+
 	onMount(async () => {
+		unmuteIos();
 		abcjs = (await import('abcjs')).default;
 		draw();
 		if (abcjs.synth.supportsAudio()) {
