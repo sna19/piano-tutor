@@ -1,4 +1,8 @@
-<svelte:head><title>Импровизация · Пианино</title></svelte:head>
+<script lang="ts">
+	import { t } from '#lib/i18n.js';
+</script>
 
-<h1>Импровизация</h1>
-<p class="muted">Аккорды и backing tracks: блюз, ii–V–I, rhythm changes, модальные и поп-сетки — этап 4.</p>
+<svelte:head><title>{t('tab.improv')} · {t('app.name')}</title></svelte:head>
+
+<h1>{t('tab.improv')}</h1>
+<p class="muted">{t('improv.text')}</p>

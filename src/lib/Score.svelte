@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onDestroy, onMount } from 'svelte';
 	import 'abcjs/abcjs-audio.css';
+	import { t } from './i18n.js';
 
 	/**
 	 * The notes of a piece on screen with sound (abcjs): drawn to the width of the screen, bars per line by the
@@ -103,7 +104,7 @@
 			ctrl.setWarp?.(warp);
 			ready = true;
 		} catch (e) {
-			problem = `Звук не загрузился: ${(e as Error).message ?? e}`;
+			problem = `${t('score.audioFail')}: ${(e as Error).message ?? e}`;
 		}
 	}
 
@@ -147,7 +148,7 @@
 			ctrl = new abcjs.synth.SynthController();
 			ctrl.load(audio, cursor, { displayLoop: true, displayRestart: true, displayPlay: true, displayProgress: true, displayWarp: true });
 			await load();
-		} else problem = 'Этот браузер не умеет проигрывать звук';
+		} else problem = t('score.noAudio');
 		window.addEventListener('resize', onResize);
 	});
 	onDestroy(() => {
@@ -169,20 +170,20 @@
 
 <div class="tools">
 	{#if hasHands}
-		<div class="seg" role="radiogroup" aria-label="Руки">
-			<button class="chip" class:on={hands === 'both'} role="radio" aria-checked={hands === 'both'} onclick={() => setHands('both')}>Обе руки</button>
-			<button class="chip" class:on={hands === 'rh'} role="radio" aria-checked={hands === 'rh'} onclick={() => setHands('rh')}>Правая</button>
-			<button class="chip" class:on={hands === 'lh'} role="radio" aria-checked={hands === 'lh'} onclick={() => setHands('lh')}>Левая</button>
+		<div class="seg" role="radiogroup" aria-label={t('score.hands')}>
+			<button class="chip" class:on={hands === 'both'} role="radio" aria-checked={hands === 'both'} onclick={() => setHands('both')}>{t('score.both')}</button>
+			<button class="chip" class:on={hands === 'rh'} role="radio" aria-checked={hands === 'rh'} onclick={() => setHands('rh')}>{t('score.rh')}</button>
+			<button class="chip" class:on={hands === 'lh'} role="radio" aria-checked={hands === 'lh'} onclick={() => setHands('lh')}>{t('score.lh')}</button>
 		</div>
 	{/if}
-	<div class="seg" aria-label="Масштаб">
-		<button class="chip" aria-label="Крупнее" onclick={() => setZoom(-1)}>A+</button>
-		<button class="chip" aria-label="Мельче" onclick={() => setZoom(1)}>A−</button>
+	<div class="seg" aria-label={t('score.zoom')}>
+		<button class="chip" aria-label={t('score.bigger')} onclick={() => setZoom(-1)}>A+</button>
+		<button class="chip" aria-label={t('score.smaller')} onclick={() => setZoom(1)}>A−</button>
 	</div>
 </div>
 <div class="audio" bind:this={audio}></div>
-{#if problem}<p class="err">{problem}</p>{:else if !ready}<p class="muted small">Загружаю звук фортепиано…</p>{/if}
-<p class="muted small hint">«Руки»: звучит только выбранная рука — вторую играете вы. Темп — поле с процентами в плеере, ⟳ — повтор.</p>
+{#if problem}<p class="err">{problem}</p>{:else if !ready}<p class="muted small">{t('score.loading')}</p>{/if}
+<p class="muted small hint">{t('score.hint')}</p>
 <div class="paper" bind:this={paper}></div>
 
 <style>

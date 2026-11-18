@@ -1,9 +1,12 @@
 <script lang="ts">
 	import Settings from '@lucide/svelte/icons/settings';
-	import { PIECES } from '#lib/content/pieces.js';
+	import { PIECES, pieceText } from '#lib/content/pieces.js';
 	import { levelOf } from '#lib/content/levels.js';
-	import { lessonsOf } from '#lib/content/program.js';
+	import { lessonsOf, lessonText } from '#lib/content/program.js';
 	import StatusButton from '#lib/StatusButton.svelte';
+	import LangSwitch from '#lib/LangSwitch.svelte';
+	import { lang, t, tr } from '#lib/i18n.js';
+
 	let { data } = $props();
 	const lv = $derived(levelOf(data.settings.level));
 	const mine = $derived(PIECES.filter((p) => p.level === data.settings.level && !p.draft));
@@ -15,29 +18,34 @@
 	const pick = $derived(mine.length ? mine[[...day].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7) % mine.length] : null);
 </script>
 
-<svelte:head><title>Сегодня · Пианино</title></svelte:head>
+<svelte:head><title>{t('today.title')} · {t('app.name')}</title></svelte:head>
 
 <header>
-	<h1>Сегодня</h1>
-	<a href="/settings" aria-label="Настройки" class="gear"><Settings size={22} /></a>
+	<h1>{t('today.title')}</h1>
+	<span class="tools">
+		<LangSwitch />
+		<a href="/settings" aria-label={t('settings')} class="gear"><Settings size={22} /></a>
+	</span>
 </header>
-<p class="muted">Уровень {lv.n} · {lv.title}. Занятие {data.settings.minutes} мин.</p>
+<p class="muted">{t('today.level', { n: lv.n, title: tr(lv.title), m: data.settings.minutes })}</p>
 
 {#if pick}
+	{@const pt = pieceText(pick, lang())}
 	<a class="card piece" href="/pieces/{pick.id}">
-		<span class="muted small">Пьеса дня</span>
-		<b>{pick.title}</b>
-		<span class="muted small">{pick.catalog} · {pick.collection}</span>
+		<span class="muted small">{t('today.piece')}</span>
+		<b>{pt.title}</b>
+		<span class="muted small">{pick.catalog} · {pt.collection}</span>
 	</a>
 {/if}
 
 {#if working.length || next}
-	<h2>Уроки</h2>
+	<h2>{t('today.lessons')}</h2>
 	<ul class="ls">
 		{#each [...working, ...(next ? [next] : [])] as l (l.id)}
+			{@const lt = lessonText(l, lang())}
 			<li>
 				<a class="card row" href="/program/{l.id}">
-					<span class="txt"><b>{l.title}</b><span class="muted small">{l.minutes} мин · {l.goal}</span></span>
+					<span class="txt"><b>{lt.title}</b><span class="muted small">{l.minutes} {t('min')} · {lt.goal}</span></span>
 					<StatusButton ref="lesson:{l.id}" status={data.progress[`lesson:${l.id}`]} />
 				</a>
 			</li>
@@ -46,8 +54,8 @@
 {/if}
 
 <section class="card soon">
-	<h2>Скоро здесь</h2>
-	<p class="small">План занятия на выбранное время с таймером: разминка и техника, теория, пьеса, импровизация под backing track, слух — из уроков вашего уровня (этап 3).</p>
+	<h2>{t('today.soon')}</h2>
+	<p class="small">{t('today.soonText')}</p>
 </section>
 
 <style>
@@ -55,6 +63,11 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+	}
+	.tools {
+		display: flex;
+		align-items: center;
+		gap: 4px;
 	}
 	.gear {
 		display: inline-flex;

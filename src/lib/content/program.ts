@@ -26,15 +26,30 @@ export interface Lesson {
 	minutes: number;
 }
 
-export const AREAS: { key: Area; title: string }[] = [
-	{ key: 'technique', title: 'Техника' },
-	{ key: 'theory', title: 'Теория и гармония' },
-	{ key: 'ear', title: 'Слух' },
-	{ key: 'repertoire', title: 'Репертуар' },
-	{ key: 'improv', title: 'Импровизация' }
+import type { L10n, Lang } from '../i18n.js';
+import { LESSONS_EN } from './program.en.js';
+
+export const AREAS: { key: Area; title: L10n }[] = [
+	{ key: 'technique', title: { ru: 'Техника', en: 'Technique' } },
+	{ key: 'theory', title: { ru: 'Теория и гармония', en: 'Theory and harmony' } },
+	{ key: 'ear', title: { ru: 'Слух', en: 'Ear training' } },
+	{ key: 'repertoire', title: { ru: 'Репертуар', en: 'Repertoire' } },
+	{ key: 'improv', title: { ru: 'Импровизация', en: 'Improvisation' } }
 ];
 
-export const TRACK_TITLE: Record<Track, string> = { core: 'для всех', classical: 'классика', jazz: 'джаз', blues: 'блюз', pop: 'поп' };
+export const TRACK_TITLE: Record<Track, L10n> = {
+	core: { ru: 'для всех', en: 'for everyone' },
+	classical: { ru: 'классика', en: 'classical' },
+	jazz: { ru: 'джаз', en: 'jazz' },
+	blues: { ru: 'блюз', en: 'blues' },
+	pop: { ru: 'поп', en: 'pop' }
+};
+
+/** the texts of a lesson in a language (Russian ones live in the lesson itself) */
+export function lessonText(l: Lesson, lang: Lang) {
+	if (lang === 'en' && LESSONS_EN[l.id]) return LESSONS_EN[l.id];
+	return { title: l.title, goal: l.goal, tasks: l.tasks, done: l.done };
+}
 
 const L = (
 	level: number,

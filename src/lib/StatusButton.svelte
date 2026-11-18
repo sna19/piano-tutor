@@ -1,10 +1,11 @@
 <script lang="ts">
 	import { invalidateAll } from '$app/navigation';
+	import { t } from './i18n.js';
 
 	/** The mark of a lesson or a piece: a tap goes none → в работе → готово → none. */
 	let { ref, status }: { ref: string; status: 'learning' | 'done' | undefined } = $props();
 	const NEXT = { none: 'learning', learning: 'done', done: null } as const;
-	const LABEL = { none: 'Начать', learning: 'В работе', done: 'Готово ✓' };
+	const LABEL = $derived({ none: t('st.none'), learning: t('st.learning'), done: t('st.done') });
 	let busy = $state(false);
 	async function tap(e: MouseEvent) {
 		e.preventDefault();
@@ -16,7 +17,7 @@
 	}
 </script>
 
-<button class="st {status ?? 'none'}" disabled={busy} onclick={tap} aria-label="Отметка: {LABEL[status ?? 'none']}">{LABEL[status ?? 'none']}</button>
+<button class="st {status ?? 'none'}" disabled={busy} onclick={tap} aria-label="{t('st.mark')}: {LABEL[status ?? 'none']}">{LABEL[status ?? 'none']}</button>
 
 <style>
 	.st {

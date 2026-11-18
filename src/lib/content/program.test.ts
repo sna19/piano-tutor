@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { LESSONS } from './program.js';
+import { LESSONS_EN } from './program.en.js';
 import { PIECES } from './pieces.js';
 import { exerciseAbc } from './exercises.js';
 
@@ -10,6 +11,10 @@ describe('the program', () => {
 			expect(ls.length, `level ${n}`).toBeGreaterThanOrEqual(3);
 			expect(ls.some((l) => l.area === 'repertoire' || l.area === 'technique'), `level ${n}`).toBe(true);
 		}
+	});
+	it('every lesson has its English text and no English text is orphaned', () => {
+		expect(Object.keys(LESSONS_EN).sort()).toEqual(LESSONS.map((l) => l.id).sort());
+		for (const l of LESSONS) expect(LESSONS_EN[l.id].tasks.length, l.id).toBe(l.tasks.length);
 	});
 	it('ids are unique and every material exists', () => {
 		expect(new Set(LESSONS.map((l) => l.id)).size).toBe(LESSONS.length);

@@ -1,8 +1,9 @@
 <script lang="ts">
 	import { page } from '$app/state';
 	import { LEVELS } from '#lib/content/levels.js';
-	import { AREAS, TRACK_TITLE, lessonsOf } from '#lib/content/program.js';
+	import { AREAS, TRACK_TITLE, lessonsOf, lessonText } from '#lib/content/program.js';
 	import StatusButton from '#lib/StatusButton.svelte';
+	import { lang, t, tr } from '#lib/i18n.js';
 
 	let { data } = $props();
 	// svelte-ignore state_referenced_locally
@@ -12,35 +13,36 @@
 	const done = $derived(lessons.filter((l) => data.progress[`lesson:${l.id}`] === 'done').length);
 </script>
 
-<svelte:head><title>Программа · Пианино</title></svelte:head>
+<svelte:head><title>{t('program.title')} · {t('app.name')}</title></svelte:head>
 
-<h1>Программа</h1>
-<p class="muted small">Восемь уровней, как семестры колледжа; в каждом — курсы техники, теории, слуха, репертуара и импровизации. Уроки направлений, которые не выбраны в настройках, скрыты.</p>
+<h1>{t('program.title')}</h1>
+<p class="muted small">{t('program.intro')}</p>
 
-<div class="chips" role="tablist" aria-label="Уровень">
+<div class="chips" role="tablist" aria-label={t('level')}>
 	{#each LEVELS as l (l.n)}
-		<button class="chip" class:on={level === l.n} role="tab" aria-selected={level === l.n} onclick={() => (level = l.n)}>{l.n}{l.n === data.settings.level ? ' · мой' : ''}</button>
+		<button class="chip" class:on={level === l.n} role="tab" aria-selected={level === l.n} onclick={() => (level = l.n)}>{l.n}{l.n === data.settings.level ? ` · ${t('pieces.mineLevel')}` : ''}</button>
 	{/each}
 </div>
 
 <section class="card head">
-	<b>{lv.n}. {lv.title}</b>
-	<span class="small">{lv.can}</span>
-	<span class="muted small">{lv.grade} · пройдено {done} из {lessons.length}</span>
+	<b>{lv.n}. {tr(lv.title)}</b>
+	<span class="small">{tr(lv.can)}</span>
+	<span class="muted small">{tr(lv.grade)} · {t('program.done', { d: done, n: lessons.length })}</span>
 	<div class="bar" style="--p:{lessons.length ? (done / lessons.length) * 100 : 0}%"></div>
 </section>
 
 {#each AREAS as a (a.key)}
 	{@const ls = lessons.filter((l) => l.area === a.key)}
 	{#if ls.length}
-		<h2>{a.title}</h2>
+		<h2>{tr(a.title)}</h2>
 		<ul class="list">
 			{#each ls as l (l.id)}
+				{@const lt = lessonText(l, lang())}
 				<li>
 					<a class="card row" href="/program/{l.id}">
 						<span class="txt">
-							<b>{l.title}</b>
-							<span class="muted small">{l.goal}{l.track !== 'core' ? ` · ${TRACK_TITLE[l.track]}` : ''} · {l.minutes} мин</span>
+							<b>{lt.title}</b>
+							<span class="muted small">{lt.goal}{l.track !== 'core' ? ` · ${tr(TRACK_TITLE[l.track])}` : ''} · {l.minutes} {t('min')}</span>
 						</span>
 						<StatusButton ref="lesson:{l.id}" status={data.progress[`lesson:${l.id}`]} />
 					</a>
@@ -50,7 +52,7 @@
 	{/if}
 {/each}
 
-<p class="muted small foot"><a href="/settings/level-check">Проверить свой уровень</a> · уровень меняется в <a href="/settings">настройках</a>.</p>
+<p class="muted small foot"><a href="/settings/level-check">{t('program.check')}</a> · {t('program.changeIn')} <a href="/settings">{t('program.settingsLink')}</a>.</p>
 
 <style>
 	.chips {

@@ -160,7 +160,27 @@ export function keyRu(k: string, mode: Mode): string {
 }
 
 /** `ex:scale:G:major:2`, `ex:arpeggio:D:minor:1`, `ex:cadence:F:major`, `ex:251:Bb`, `ex:blues:C` → ABC */
-export function exerciseAbc(id: string): string | null {
+export function exerciseAbc(id: string, lang: 'ru' | 'en' = 'ru'): string | null {
+	const abc = exerciseAbcRu(id);
+	if (!abc || lang === 'ru') return abc;
+	return abc.replace(/^T:(.+)$/m, (_, t) => `T:${titleEn(t)}`);
+}
+
+const NOTE_EN: Record<string, string> = { до: 'C', ре: 'D', ми: 'E', фа: 'F', соль: 'G', ля: 'A', си: 'B' };
+/** «Гамма соль мажор, 2 октавы» → «G major scale, 2 octaves» */
+function titleEn(t: string): string {
+	const key = (s: string) =>
+		s.replace(/(до|ре|ми|фа|соль|ля|си)(-диез|-бемоль)? (мажор|минор)/, (_, n, a, m) => `${NOTE_EN[n]}${a === '-диез' ? '♯' : a === '-бемоль' ? '♭' : ''} ${m === 'мажор' ? 'major' : 'minor'}`);
+	let m: RegExpMatchArray | null;
+	if ((m = t.match(/^Гамма (.+?)(, (\d) октав[ыа]?)?$/))) return `${key(m[1])} scale${m[3] ? `, ${m[3]} octaves` : ''}`;
+	if ((m = t.match(/^Арпеджио (.+)$/))) return `${key(m[1])} arpeggio`;
+	if ((m = t.match(/^Каденция (.+)$/))) return `Cadence in ${key(m[1])}`;
+	if ((m = t.match(/^ii–V–I в (.+)$/))) return `ii–V–I in ${key(m[1])}`;
+	if ((m = t.match(/^Блюзовая гамма от (.+)$/))) return `Blues scale on ${m[1] === 'си-бемоль' ? 'B♭' : NOTE_EN[m[1]] ?? m[1]}`;
+	return t;
+}
+
+function exerciseAbcRu(id: string): string | null {
 	const [, kind, k, mode, n] = id.split(':');
 	try {
 		if (kind === 'scale') return scale(k, mode as Mode, Number(n) || 1);
@@ -174,7 +194,7 @@ export function exerciseAbc(id: string): string | null {
 	return null;
 }
 
-export function exerciseTitle(id: string): string {
-	const abc = exerciseAbc(id);
+export function exerciseTitle(id: string, lang: 'ru' | 'en' = 'ru'): string {
+	const abc = exerciseAbc(id, lang);
 	return abc?.match(/^T:(.+)$/m)?.[1] ?? id;
 }

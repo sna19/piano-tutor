@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/state';
-	import { PIECES, keyName } from '#lib/content/pieces.js';
+	import { PIECES, keyName, pieceText } from '#lib/content/pieces.js';
+	import { lang, t } from '#lib/i18n.js';
 	import { LEVELS } from '#lib/content/levels.js';
 
 	let { data } = $props();
@@ -16,43 +17,44 @@
 			(p) =>
 				(level === null || p.level === level) &&
 				(collection === null || p.collection === collection) &&
-				(!q.trim() || `${p.title} ${p.original} ${p.catalog} ${p.collection}`.toLowerCase().includes(q.trim().toLowerCase()))
+				(!q.trim() || `${p.title} ${p.original} ${p.catalog} ${p.collection} ${pieceText(p, 'en').collection}`.toLowerCase().includes(q.trim().toLowerCase()))
 		)
 	);
 </script>
 
-<svelte:head><title>Ноты · Пианино</title></svelte:head>
+<svelte:head><title>{t('pieces.title')} · {t('app.name')}</title></svelte:head>
 
-<header class="hd"><h1>Ноты</h1><a class="chip" href="/pieces/mine">Мои ноты (PDF)</a></header>
-<p class="muted small">{PIECES.length} пьес Баха из изданий в общественном достоянии. Ваш уровень — {data.settings.level}; джаз, блюз и поп появятся в следующих этапах.</p>
+<header class="hd"><h1>{t('pieces.title')}</h1><a class="chip" href="/pieces/mine">{t('pieces.mine')}</a></header>
+<p class="muted small">{t('pieces.intro', { n: PIECES.length, lv: data.settings.level })}</p>
 
-<input class="search" type="search" placeholder="Название, BWV, сборник" bind:value={q} aria-label="Поиск" />
+<input class="search" type="search" placeholder={t('pieces.search')} bind:value={q} aria-label={t('search')} />
 
-<div class="chips" role="group" aria-label="Уровень">
-	<button class="chip" class:on={level === null} onclick={() => ((level = null), (collection = null))}>Все</button>
+<div class="chips" role="group" aria-label={t('level')}>
+	<button class="chip" class:on={level === null} onclick={() => ((level = null), (collection = null))}>{t('pieces.all')}</button>
 	{#each LEVELS as l (l.n)}
-		<button class="chip" class:on={level === l.n} onclick={() => ((level = l.n), (collection = null))}>{l.n}{l.n === data.settings.level ? ' · мой' : ''}</button>
+		<button class="chip" class:on={level === l.n} onclick={() => ((level = l.n), (collection = null))}>{l.n}{l.n === data.settings.level ? ` · ${t('pieces.mineLevel')}` : ''}</button>
 	{/each}
 </div>
 {#if collections.length > 1}
-	<div class="chips" role="group" aria-label="Сборник">
-		<button class="chip" class:on={collection === null} onclick={() => (collection = null)}>Все сборники</button>
+	<div class="chips" role="group" aria-label={t('collection')}>
+		<button class="chip" class:on={collection === null} onclick={() => (collection = null)}>{t('pieces.allCollections')}</button>
 		{#each collections as c (c)}
-			<button class="chip" class:on={collection === c} onclick={() => (collection = c)}>{c}</button>
+			<button class="chip" class:on={collection === c} onclick={() => (collection = c)}>{lang() === 'en' ? pieceText({ ...PIECES[0], collection: c }, 'en').collection : c}</button>
 		{/each}
 	</div>
 {/if}
 
 <ul class="list">
 	{#each list as p (p.id)}
+		{@const pt = pieceText(p, lang())}
 		<li>
 			<a href="/pieces/{p.id}" class="card">
-				<span class="top"><b>{p.title}</b><span class="lv">{p.level}</span></span>
-				<span class="muted small">{p.catalog} · {keyName(p.key)} · {p.meter} · {p.collection}{p.draft ? ' · черновик' : ''}</span>
+				<span class="top"><b>{pt.title}</b><span class="lv">{p.level}</span></span>
+				<span class="muted small">{p.catalog} · {keyName(p.key, lang())} · {p.meter} · {pt.collection}{p.draft ? ` · ${t('draft')}` : ''}</span>
 			</a>
 		</li>
 	{:else}
-		<li class="muted">Ничего не нашлось.</li>
+		<li class="muted">{t('pieces.none')}</li>
 	{/each}
 </ul>
 

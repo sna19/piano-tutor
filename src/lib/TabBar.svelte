@@ -5,22 +5,23 @@
 	import Music from '@lucide/svelte/icons/music';
 	import AudioLines from '@lucide/svelte/icons/audio-lines';
 	import BookOpen from '@lucide/svelte/icons/book-open';
+	import { t, type Key } from './i18n.js';
 
 	const TABS = [
-		{ href: '/', label: 'Сегодня', icon: Sun },
-		{ href: '/program', label: 'Программа', icon: GraduationCap },
-		{ href: '/pieces', label: 'Ноты', icon: Music },
-		{ href: '/improv', label: 'Импровизация', icon: AudioLines },
-		{ href: '/book', label: 'Учебник', icon: BookOpen }
+		{ href: '/', label: 'tab.today' as Key, icon: Sun },
+		{ href: '/program', label: 'tab.program' as Key, icon: GraduationCap },
+		{ href: '/pieces', label: 'tab.pieces' as Key, icon: Music },
+		{ href: '/improv', label: 'tab.improv' as Key, icon: AudioLines },
+		{ href: '/book', label: 'tab.book' as Key, icon: BookOpen }
 	];
 	const on = (href: string) => (href === '/' ? page.url.pathname === '/' : page.url.pathname.startsWith(href));
 </script>
 
-<nav aria-label="Разделы">
-	{#each TABS as t (t.href)}
-		<a href={t.href} class:on={on(t.href)} aria-current={on(t.href) ? 'page' : undefined}>
-			<t.icon size={22} />
-			<span>{t.label}</span>
+<nav aria-label={t('sections')}>
+	{#each TABS as tab (tab.href)}
+		<a href={tab.href} class:on={on(tab.href)} aria-current={on(tab.href) ? 'page' : undefined}>
+			<tab.icon size={22} />
+			<span>{t(tab.label)}</span>
 		</a>
 	{/each}
 </nav>

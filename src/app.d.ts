@@ -4,7 +4,9 @@ declare global {
 	const __BUILD_TIME__: string;
 	namespace App {
 		// interface Error {}
-		// interface Locals {}
+		interface Locals {
+			lang: 'ru' | 'en';
+		}
 		// interface PageData {}
 		// interface PageState {}
 		// interface Platform {}

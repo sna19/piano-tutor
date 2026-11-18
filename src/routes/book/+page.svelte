@@ -1,4 +1,8 @@
-<svelte:head><title>Учебник · Пианино</title></svelte:head>
+<script lang="ts">
+	import { t } from '#lib/i18n.js';
+</script>
 
-<h1>Учебник</h1>
-<p class="muted">Главы по направлениям — классика, поп, джаз и блюз — этап 5.</p>
+<svelte:head><title>{t('tab.book')} · {t('app.name')}</title></svelte:head>
+
+<h1>{t('tab.book')}</h1>
+<p class="muted">{t('book.text')}</p>
