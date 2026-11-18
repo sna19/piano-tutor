@@ -1,0 +1,48 @@
+X:1
+T:Гольдберг-вариации: вариация 26 · BWV 988
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=85
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=treble stem=up
+V:LH2 clef=treble stem=down
+K:G
+V:RH1
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+B4 x8 | g3e x8 | B3^d x8 | x12 |
+^c4 x8 | d4 x8 | A3G/F/ x8 | D4 x8 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x8 c4- | c3F G3x B4- | B3E F3G A3x | F/Gx2x/ x4 F3/2x2x/ |
+G3/2x2x/ x4 B3/2x2x/ | c3/2x2x/ x8 | x12 | x12 |]
+V:RH2
+G,/A,G,/D,/E,F,/ G,/F,G,/A,/G,A,/ B,/A,B,/C/B,^C/ | D/ED/A,/B,^C/ D/CD/E/DE/ F/EF/G/EF/ | G/AG/B,/EF/ G/FG/A/GA/ B/AB/^c/Bc/ | d/ed/A/B^c/ d/cd/e/de/ f/ef/g/ef/ |
+g/fg/d/cd/ B/GF/G/Bd/ =f/ef/d/Bd/ | e/de/c/Bc/ G/ED/E/Gc/ e/de/c/Ac/ | d/cd/A/GA/ F/D^C/D/FA/ c/Bc/A/FA/ | B/AB/G/FG/ D/B,A,/B,/DG/ B/GF/G/Bd/ |
+g3f/e/ [Bd]4 z2[gb]2 | a4 [fa]4 z2[ca]2 | a4 [eg]4 z2[eg]2 | [Ag]3[^ce] [EA]4 z2[cg]2 |
+g3e [df]4 z2[da]2 | b3f [eg]4 z2[eg]2 | g4 [E^c]4 z2[A,A]2 | A3E [DF]4 z4 |
+a/ga/d'/c'b/ a/ba/g/ag/ f/gf/e/fe/ | d/cd/g/fe/ d/ed/c/dc/ B/cB/A/BA/ | G/FG/B/AG/ F/GF/E/FE/ ^D/ED/^C/DC/ | B,/^A,B,/E/^D^C/ B,/=CB,/=A,/B,A,/ G,/A,G,/F,/G,F,/ |
+E,/^D,E,/B,/A,B,/ G,/F,G,/B,/EF/ G/FG/E/^DE/ | C/B,C/E/DE/ A,/^G,A,/C/=FA/ c/Bc/A/FA/ | ^D/^CD/F/EF/ B,/^A,B,/D/FG/ A/GA/F/DF/ | G/FG/B/AB/ E/^DE/G/B^d/ e/cB/A/GF/ |
+E2z^G A3[Bg] f3e | d7[A=f] e3d | c8-c3[Gc] | c3/2F/^C/DE/ F/EF/G/FG/ A/GA/B/GA/ |
+B/cB/F/GA/ B/AB/c/Bc/ d/cd/e/cd/ | e/=fe/B/cd/ e/de/^f/ef/ g/fg/a/fg/ | a/ba/f/ga/ b/ab/d'/c'b/ a/gf/e/dc/ | B/AG/F/GD/ B,3/2z2z/ z4 |]
+V:LH1
+x12 | G3E x8 | B3G x8 | D4 x8 |
+x12 | C4 x8 | x12 | G,4 x8 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+D4 x8 | x12 | ^c4 x8 | ^d4 x8 |
+e4 x8 | A3B x8 | B4 x8 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |]
+V:LH2
+[GB]4 [DB]4 z2[GB]2 | A4 [FA]4 z2[Ad]2 | d4 [E^c]4 z2[A,G]2 | G3E [DF]4 z2[CA]2 |
+[B,D]3[CE] [D=F]4 z2[G,G]2 | G3E [E,C]4 z2[G,E]2 | [F,A,]3[G,B,] [A,C]4 z2[D,D]2 | D3B, [G,,G,]4 z4 |
+G,,/A,,G,,/D,,/E,,F,,/ G,,/F,,G,,/A,,/G,,A,,/ B,,/A,,B,,/C,/B,,^C,/ | D,/E,D,/A,,/B,,^C,/ D,/C,D,/E,/D,E,/ F,/E,F,/G,/E,F,/ | G,/A,G,/B,,/E,F,/ G,/F,G,/A,/G,A,/ B,/A,B,/^C/A,B,/ | ^C/DC/E,/A,B,/ C/B,C/D/CD/ E/DE/F/DE/ |
+F/EF/A/GA/ D/^CD/F/AB/ c/Bc/A/FA/ | G/FG/B/AB/ E/^DE/G/B^c/ d/cd/B/GB/ | ^c/Bc/e/de/ A/^GA/c/ef/ g/fg/e/ce/ | f/ef/a/ga/ d/^cd/f/a^c'/ d'4 |
+F3E [CF]4 z2[CD]2 | [B,G]3[DA] [GB]4 z2[dg]2 | e3b [^da]4 z2[ea]2 | a3f [F^d]4 z2[df]2 |
+g3f [Be]4 z2[Bg]2 | g4 [c=f]4 z2[ca]2 | a3f [A^d]4 z2[Af]2 | [Af]3[F^d] [Ge]4 z/E,F,/G,/A,B,/ |
+C/B,C/=F/ED/ C/DC/B,/CB,/ A,/B,A,/G,/A,F,/ | B,/A,B,/E/DC/ B,/CB,/A,/B,A,/ G,/A,G,/F,/G,E,/ | A,/G,A,/D/CB,/ A,/B,A,/G,/A,G,/ F,/G,F,/E,/F,E,/ | D,/^C,D,/G,/F,E,/ D,/E,D,/=C,/D,C,/ B,,/C,B,,/A,,/B,,A,,/ |
+G,,/F,,G,,/C,/B,,A,,/ G,,/A,,G,,/=F,,/G,,F,,/ E,,/F,,E,,/D,,/E,,D,,/ | C,,2G,,/A,,B,,/ C,/B,,C,/D,/C,D,/ E,/D,C,/B,,/A,,G,,/ | F,,/E,,F,,/D,,/E,,F,,/ G,,/F,,G,,/A,,/B,,C,/ D,/^C,D,/E,/F,D,/ | G,3/2z3A,G,/F,/G,D,/ G,,4 |]

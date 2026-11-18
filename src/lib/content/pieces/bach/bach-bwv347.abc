@@ -1,0 +1,32 @@
+X:1
+T:Ich dank dir, lieber Herre · BWV 347
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=72
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:A
+V:RH1
+[EA]4 | [FA]4 [EA]4 [FA]4 [FB]4 | [E=G]4 [^DF]4 [B,E]4 [^GB]4 | [Ac]4 B4 A4 G2F2 |
+G4 [^DF]4 [B,E]4 e4 | [Ad]4 [Ac]4 [GB]4 A4 | [FA]2[GB]2 [Ac]4 [GB]4 [^Ac]4 | d4 [=Gc]4 B4 [F^A]4 |
+[FB]12 E4 | [CA]4 [DB]4 [Ec]4 d4 | e4 d2c2 [EB]4 [Bd]4 | c4 [FB]4 e6[Gd]2 |
+c2B2 A4 [Ac]4 [GB]4 | [EA]12 z4 |]
+V:RH2
+x4 | x16 | x16 | x4 G2F2 E8- |
+E4 x8 c2B2 | x14=G2 | x16 | B2A2 x4 F2E2 x4 |
+x14D2 | x12 F2G2 | A8 x8 | A2G2 x4 E4 F2x2 |
+A4 x2B2 x8 | x16 |]
+V:LH1
+C4 | [F,C]4 C2B,2 A,2G,2 [^D,F,]4 | B,6A,2 [E,,G,]4 [E,E]4 | [A,E]4 [B,^D]4 C8 |
+B,6A,2 [E,G,]4 [C,G,]4 | [F,A,]2[G,B,]2 C2D2 [E,E]4 E4 | [D,D]4 E4 [E,E]4 [C,E]4 | F2B,4^A,2 B,4 [F,C]4 |
+[B,,D]12 [C,G,]4 | [F,A,]4 [E,G,]2[D,F,]2 E,2E2 [B,,D]4 | [A,,C]2[B,,D]2 [C,E]2[D,F]2 [E,G]4 [B,,F]4 | [F,F]2[G,E]2 D2C2 B,4 C2D2 |
+E6D2 [E,C]2[D,F]2 B,2ED | [A,,C]12 z4 |]
+V:LH2
+A,2G,2 | x4 C,4 D,4 x4 | E,4 B,,4 x8 | x12 B,2A,2 |
+x4 B,,4 x8 | x4 A,4 x4 C,2A,,2 | x4 C,2D,2 x8 | B,,4 C,4 D,2=G,2 x4 |
+x16 | x8 C,4 x4 | x16 | x4 A,4 G,2E,2 A,4- |
+A,2G,2 F,4 x4 E,4 | x16 |]

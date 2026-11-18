@@ -1,0 +1,24 @@
+X:1
+T:Ermuntre dich, mein schwacher Geist · Schmellis Gesangbuch, No. 16
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=70
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:F
+V:RH1
+A4 F4 G4 | A4 =B4 c4 | c8 =B4 | c12 |
+A4 B4 A4 | G8 F4 | A8 G4 | F12 |
+G4 G4 A4 | B4 A4 B4 | A4 G4 A4 | G12 |
+A4 A4 A4 | B4 c4 d4 | d4 e4 _d4 | d8 e4 |
+f8 A4 | B8 A4 | G8 G4 | c4 d4 c4 |
+B12 | A2G2 G8 | F12 |]
+V:LH1
+F,,4 A,,4 C,4 | F,4 E,2D,2 E,2F,2 | G,4 F,4 G,4 | C,12 |
+F,4 E,4 F,4 | B,,4 A,,2G,,2 A,,2B,,2 | C,4 B,,4 C,4 | F,,12 |
+C,4 B,,4 A,,4 | G,,4 D,4 G,4 | D,8 D,,4 | G,,12 |
+D,4 _G,4 D,4 | G,4 F,2E,2 F,2G,2 | A,4 G,4 A,4 | D,8 C,4 |
+A,4 B,2A,2 G,2F,2 | E,4 C,4 F,4 | C,8 C,,4 | A,,4 B,,2A,,2 B,,2C,2 |
+D,4 D,,2C,,2 D,,2E,,2 | F,,4 C,4 C,,4 | F,,12 |]

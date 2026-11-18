@@ -1,0 +1,128 @@
+X:1
+T:Дуэт II · BWV 803
+C:И. С. Бах
+M:2/4
+L:1/16
+Q:1/4=106
+%%score {(RH1 RH2) | LH1}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass
+K:F
+V:RH1
+F4 A4 | c6BA | B2c2 d2e2 | f2c2 f2a2 |
+gfed cBAG | AcFA d4- | d2c=B cedf | edc=B AcGc |
+Fedc =BdGB | c4-ceAc | F4-FADF | B4-BdGB |
+E4-EGCE | AcFA DFB,D | GBEG CEA,C | FADF BdGB |
+C4 E4 | F6FE | F2G2 A2B2 | c2F2 B2d2 |
+cBAG F_EDC | DB,FD B4- | BdGB E4- | ECGE c4- |
+ceAc F4- | FDAF dAfd | BGdB gdbg | ecge bgec' |
+ac'fa cf_ed | _egce Aedc | dBeB fBgB | Agfe dfcf |
+Bagf egce | fcaf cAfc | AFcA FCAF | C4 g4 |
+f4 z2A2 | B2_d2 =d4- | d_d=de f4- | f2_ed e2_G2 |
+G4 z2F2 | _A2=A4G_G | G2eG FEDF | E2A2 d_d=d2- |
+d2_d=B AGFE | D4 F4 | A6GF | G2A2 =B2_d2 |
+d6_d=B | _d2=d2 e2f3/2a/ | g2fe f2d2 | e4 _d4 |
+d2=B2 c2_e2 | e4-e_e=e_g | g6fe | f2_A2 =A4 |
+z2G2 B2=B2- | =B2A_A =A2_gA | G_GE=G _G2_e2 | e_e=e2 z4 |
+z4 E4 | _A4 =B4- | =B2A_A =A2B2 | c2d2 e4- |
+e2dc d2e2 | _g2_a2 =a4- | a2_a_g edc=B | A4-AEcA |
+fcaf c'2f2 | e2_e2 d2_d2- | _d2c2 =B2_B2 | AGFG ABcd |
+edcd efg2 | c4 _A4 | F6G_A | G2F2 _E2_D2 |
+C2F2 C2_A,2 | B,C_D_E FG_AB | GFEF G_ABc | _AGFG ABc_d |
+E_dcB _AGFE | F2G2 _A2=B2 | c4-c=Bcd | _e6_dc |
+_d2E2 F4 | z2_E2 _G2=G2- | G2FE F2dF | _EDCE D2=B2 |
+c=Bc2 z4 | z4 C4 | E4 G4- | G2FE F2G2 |
+_A2B2 c4- | c2B_A B2c2 | d2e2 f4- | f2ed cB_AG |
+_A2=B2 c4- | c=Bcd _e4- | _e2_dc d2E2 | F4 z2_E2 |
+_G2=G4FE | F2dF _EDCE | D2G2 c=Bc2- | c2=BA GF_ED |
+C4 _E4 | G6F_E | F2G2 A2=B2 | c6=BA |
+=B2c2 d2_e3/2g/ | f2_ed e2c2 | d4 =B4 | c4 Ez3 |
+F4 A4 | c6BA | B2c2 d2e2 | f2c2 f2a2 |
+gfed cBAG | AcFA d4- | d2c=B cedf | edc=B AcGc |
+Fedc =BdGB | c4-ceAc | F4-FADF | B4-BdGB |
+E4-EGCE | AcFA DFB,D | GBEG CEA,C | FADF BdGB |
+C4 E4 | F6FE | F2G2 A2B2 | c2F2 B2d2 |
+cBAG F_EDC | DB,FD B4- | BdGB E4- | ECGE c4- |
+ceAc F4- | FDAF dAfd | BGdB gdbg | ecge bgec' |
+ac'fa cf_ed | _egce Aedc | dBeB fBgB | Agfe dfcf |
+Bagf egce | fcaf cAfc | AFcA FCAF | C4 g4 |
+f4 z4 |]
+V:RH2
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | xAGF x4 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 |]
+V:LH1
+z8 | z8 | z8 | z8 |
+C,4 E,4 | F,6F,E, | F,2G,2 A,2=B,2 | C2G,2 C2E2 |
+DC=B,A, G,F,E,D, | E,G,C,E, A,4- | A,CF,A, D,4- | D,F,B,,D, G,4- |
+G,B,E,G, C,4- | C,E,A,,C, F,A,D,F, | B,,D,G,,B,, E,G,C,E, | A,,C,F,,A,, D,F,B,,D, |
+E,G,C,E, G,B,E,G, | A,CF,A, D4- | D2CB, C_EDF | _EDEC DFB,D |
+_E,DCB, A,CF,A, | B,,4-B,,G,,D,B,, | G,4-G,B,E,G, | C,4-C,A,,E,C, |
+A,4-A,CF,A, | D,4-D,F,D,F, | G,B,D,G, B,,D,G,,B,, | C,E,G,,C, E,,G,,C,,E,, |
+F,,4 A,,4 | C,6B,,A,, | B,,2C,2 D,2E,2 | F,2C,2 F,2A,2 |
+G,F,E,D, C,B,,A,,G,, | A,,C,F,,A,, C,F,A,,C, | F,A,C,F, A,CF,A, | C4 C,4 |
+F,C,A,,C, F,,2z2 | z2E,2 F,2_A,2 | A,4-A,_A,=A,=B, | C6B,A, |
+B,2_D,2 =D,4 | z2C,2 _E,2=E,2- | E,2D,_D, =D,2=B,D, | C,=B,,A,,C, B,,2E,2 |
+A,_A,=A,2 z4 | z4 A,,4 | _D,4 E,4- | E,2D,_D, =D,2E,2 |
+F,2G,2 A,4- | A,2G,F, G,2A,2 | =B,2_D2 =D2_B,3/2A,/ | G,2F,G, A,2E,2 |
+F,2_A,2 =A,4- | A,_A,=A,=B, C4- | C2B,A, B,2_D,2 | D,4 z2C,2 |
+_E,2=E,4D,_D, | D,2=B,D, C,=B,,A,,C, | =B,,2E,2 A,_A,=A,2- | A,2_A,_G, E,D,C,=B,, |
+A,,4 C,4 | E,6D,C, | D,2E,2 _G,2_A,2 | A,6_A,_G, |
+_A,2=A,2 =B,2C3/2E/ | D2C=B, C2F2 | D2=B,2 E2E,2 | A,CE,A, C,E,A,,C, |
+F,,4 A,,4 | C,6B,,A,, | B,,2C,2 D,2E,2 | F,2C,2 F,2A,2 |
+G,F,E,D, C,B,,A,,G,, | _A,,C,F,,A,, C,,2C,2 | _D,2=D,2 _E,2=E,2- | E,2F,2 _G,2=G,2 |
+_A,B,CB, A,G,F,_E, | _D,_E,F,E, D,C,B,,2 | E,F,G,F, E,D,C,2 | F,G,_A,G, F,_E,_D,2 |
+C,2C,,2 z2C,2 | _D,2E,2 F,4- | F,E,F,G, _A,4- | _A,2_G,F, G,2A,,2 |
+B,,6_A,,2 | =B,,2C,4_B,,A,, | B,,2G,B,, _A,,G,,F,,A,, | G,,2C,2 F,E,F,2- |
+F,2E,D, C,B,,_A,,G,, | F,,4 _A,,4 | C,6B,,_A,, | B,,2C,2 D,2E,2 |
+F,6E,D, | E,2F,2 G,2_A,3/2C/ | B,2_A,G, A,2_D2 | B,2G,2 C2C,2 |
+F,2D,2 _E,2_G,2 | G,4-G,_G,=G,A, | B,6_A,G, | _A,2=B,,2 C,4 |
+z2B,,2 _D,2=D,2- | D,2C,=B,, C,2A,C, | B,,A,,G,,B,, A,,2D,2 | G,_G,=G,2 z4 |
+z4 G,,4 | =B,,4 D,4- | D,2C,=B,, C,2D,2 | _E,2F,2 G,4- |
+G,2F,_E, F,2G,2 | A,2=B,2 C2_A,3/2G,/ | F,2_E,F, G,2G,,2 | C,z4DCB, |
+A,FED CB,A,G, | F,B,A,G, F,_E,D,C, | D,F,E,D, C,B,,A,,G,, | A,,2F,,2 z4 |
+C,4 E,4 | F,6F,E, | F,2G,2 A,2=B,2 | C2G,2 C2E2 |
+DC=B,A, G,F,E,D, | E,G,C,E, A,4- | A,CF,A, D,4- | D,F,B,,D, G,4- |
+G,B,E,G, C,4- | C,E,A,,C, F,A,D,F, | B,,D,G,,B,, E,G,C,E, | A,,C,F,,A,, D,F,B,,D, |
+E,G,C,E, G,B,E,G, | A,CF,A, D4- | D2CB, C_EDF | _EDEC DFB,D |
+_E,DCB, A,CF,A, | B,,4-B,,G,,D,B,, | G,4-G,B,E,G, | C,4-C,A,,E,C, |
+A,4-A,CF,A, | D,4-D,F,D,F, | G,B,D,G, B,,D,G,,B,, | C,E,G,,C, E,,G,,C,,E,, |
+F,,4 A,,4 | C,6B,,A,, | B,,2C,2 D,2E,2 | F,2C,2 F,2A,2 |
+G,F,E,D, C,B,,A,,G,, | A,,C,F,,A,, C,F,A,,C, | F,A,C,F, A,CF,A, | C4 C,4 |
+F,4 z4 |]

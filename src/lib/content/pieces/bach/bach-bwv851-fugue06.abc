@@ -1,0 +1,60 @@
+X:1
+T:Фуга № 6 (ХТК I) · BWV 851
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=82
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Dm
+V:RH1
+z2D2 E2F2 G2E2 | FD^CD B4 G4 | A4-AGFE GFED | E2c3=BAB BA_A=A |
+AG_G=G e4 G4 | F2d3cBA cBAG | A4 G8- | G2E2 [DF]2[EG]2 [^CA]2[DF]2 |
+BG_G=G [G_e]4 [E^c]4 | d4 [Fd]4 [D=B]4 | c4 [_Ec]4 [CA]4 | B12- |
+B2A2 [D=B]2[E^c]2 d2B2 | ^cA_A=A f4 d4 | e2a3g_ge =g_ged | [B,_e][Dc']b2 =B,4 a_a_g=e |
+dc=Bc cBAB BA_A=A | G4-GFEF FEDA | A12- | A4-A_e=eA c=BA_A |
+A4-AGFE GFED | E2e2 d2^c2 =B2d2 | ^cefe G4 B4- | BAGA AGFG GFEF |
+F4-FE_G=G _G=GAG | GABA A=BcB B^cdc | ^c2a2 g2f2 e2g2 | faba ^c4 e4- |
+e2A2 [Bd]4 c4- | c2_e3dcd dcBc | cBAB dcBc cBAB | BAGA cBAB BAGA |
+AGFG e4 ^c4 | d4-dcBA cBAG | A2_G2 =G2A2 B2G2 | Ac_e3dcB dcBA |
+Bdf3ed^c edc=B | ^ceb3agf agfe | gfef fede ed^cd | c4-cBAB BAGd |
+d12- | d4-d_a=ad fed^c | d12 | [_GAd]12 |]
+V:RH2
+x12 | x12 | x12 | x4 F4 D4 |
+E4-ED^C=B, DCB,A, | D4 x8 | x2F3EDE ED^CD | ^C4 x8 |
+_E2D2 x8 | xAGA x8 | xGFG x8 | x2A2 G2F2 E2G2 |
+^C4 x8 | x2E2 D2^C2 =B,2D2 | ^CEFE x4 =C4 | x2_ED xa_a_g =E4- |
+E2x2 x8 | x12 | x4 F4 D4 | E2F2 x8 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x2D2 E2F2 G2E2 |
+FD^CD x4 G4 | A4 x8 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x2D2 E2_G2 =G2E2 |
+F_E^CD B4 G4 | A2B2 E8 | x2[Ac]2 [GB]2[_GA]2 [E=G]2[GB]2 | x12 |]
+V:LH1
+z12 | z12 | z2A,2 =B,2C2 D2B,2 | CA,_A,=A, z8 |
+z12 | z2D,2 E,2F,2 G,2E,2 | F,D,^C,D, B,4 G,4 | A,4-A,G,F,E, G,F,E,D, |
+G,2B,3A,G,A, A,G,F,G, | G,F,E,F, A,G,F,G, G,F,E,F, | F,E,D,E, G,F,_E,F, F,E,D,E, | _E,D,^C,D, B,4 G,4 |
+A,4-A,G,F,E, A,4 | E,2^C,2 D,2E,2 F,2D,2 | A,4 A,4 D,2_G,2 | G,4 _A,2_G,2 E,2A,2 |
+A,2A,,2 =B,,2C,2 D,2B,,2 | ^C,A,,A,2 =B,2^C2 D2B,2 | CA,_A,=A, E,D,C,D, D,C,=B,,C, | C,2D,2 =B,8 |
+A,4 =B,,2^C,2 D,2B,,2 | ^C,A,,_A,,=A,, F,4 D,4 | A,2F,2 E,2D,2 ^C,2E,2 | D,F,G,F, A,,4 ^C,4 |
+D,12 | B,4 D8 | G,4 zD,^C,=B,, D,C,B,,A,, | D,4 z8 |
+z2A,2 G,2F,2 E,2G,2 | _G,A,B,A, [D,G,]4 [G,A,]4 | G,,4 [C,E,]4 [E,G,]4 | F,,4 [B,,D,]4 [D,F,]4 |
+E,12 | [F,A,]2[D,F,]2 [E,G,]2[_G,A,]2 =G,4 | _G,D,A,2 [=G,B,]2[F,A,]2 [E,G,]2[G,B,]2 | [_G,A,]2[=G,B,]2 [_G,A,]2[E,=G,]2 [D,_G,]2[G,A,]2 |
+[A,,G,]2[A,C]2 [_A,=B,]2[_G,=A,]2 [E,_A,]2[A,B,]2 | [A,,A,]2[DF]2 [^CE]2[=B,D]2 [A,C]2[CE]2 | D2D,2 E,2F,2 G,2E,2 | _G,D,^C,D, B,4 =G,4 |
+A,2B,2 A,G,F,G, G,F,E,F, | F,2G,2 A,2G,2 A,4 | D,12 | [D,_G,A,]12 |]
+V:LH2
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x8 G,F,E,D, | x12 | x4 _G,2E,2 x4 | x12 |
+x12 | x2_A,,=A,, F,4 D,4 | E,2F,2 x8 | x4 E,2D,2 E,4 |
+x2A,,2 x8 | x12 | x12 | x12 |
+x2D2 C2B,2 A,2C2 | x2G,2 _G,2E,2 D,2F,2 | E,4-E,x7 | x12 |
+x12 | x12 | xG,_G,=G, x8 | xF,E,F, x8 |
+x2F,2 G,2A,2 B,2G,2 | x8x2E,2 | x2^C,D, x8 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x2_G,2 [E,=G,]2[_G,A,]2 [=G,B,]2[E,G,]2 | x12 |]

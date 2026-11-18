@@ -1,0 +1,40 @@
+X:1
+T:Синфония № 14 · BWV 800
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=80
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Bb
+V:RH1
+B4-BBAG F2G2 DEF2 | B,F,f3edc B2d2 ABc2 | F4 [Ge]2g3ecA [Ac]2f2 | d4 =e4 [Af]2B4A2- |
+A2G4F4E4D2- | DGEC A2c3FBd c2e2- | e2d4c2 [_Gd]2=G2 DEF2 | =B,4 C6[_Af]2 [D=B][Ec][Fd]2 |
+[=B,G]2[D=B]2 c8 B4 | c16- | c6f3=ede e3f | f2a3agf =e2g2 _d=d[Ge]2 |
+A3=B cBcd BzB_d =d4- | d4 _d4 =d2f3edc | =B2d2 GAB2 E4 e4- | e2dc B2[FA]2 d3e dcB_A |
+G3_A B2[DF]2 [EG]2g3fe[Bd] | [Ac]G[Ff]2 Bc[Bd]2 G2e3dcB | A2d2 GAB2 E2c3BAG | F4 zBAG F2f3[Ee]dc |
+B2d2 ABc3FBd c2e2- | eABd f4-fBce g4 | bagz ba/g/f/e/d/c/ B4-BB2A | [DB]16 |]
+V:RH2
+x16 | x2B,D C2E4D=E E3D/E/ | xfdB x2B2 E2G2 x2c2- | cFBx G2B2 x2DE FGEF |
+DFB,C DECD B,Dx6 | x16 | B4-BBAG x8 | x2g3gfe d2x6 |
+x4 GB_AG F2A2 DEF2- | FF=ED E2B3AGF GABG | =EGEC F2A2 G8 | A4 B4-BAGF =E2x2 |
+_D=D=E2 A,2A4G3FGA | BGAB =EBAG F4 x4 | x8x2c3BAG | F2A2 DEx2 B,2F6- |
+FDE4x6 c3x | x4 G2x2 EFG2 C2F2- | FEDx x12 | x2B3x3 x2A2 DxF2 |
+B,A,B,D C2E4D2 xBAG | F4 xdB_A G4 xecB | f4 x4x/A/G/F/GE D2C2 | x16 |]
+V:LH1
+B,2D2 C2B,2 A,2G,2 F,2E,2 | D,4 F,4 G,4 C4 | D4-DDB,G, C2E3CA,F, | B,4-B,B,A,G, F,2G,2 D,E,F,2 |
+B,,2E,2 B,,C,D,2 G,,2G,A, [G,,B,][A,,C]_A,B, | G,4 F,2A,F, D,2G,2 E,C,F,A, | B,,B,G,D, E,4 D,CB,A, G,B,_A,G, | F,_A,G,F, E,2C,2 F,E,F,G, A,G,F,E, |
+F,_A,G,F, E,D,C,B,, _A,,C,F,A, G,2G,,2 | C,2C3B,A,G, F,2A,2 =E,F,G,2 | A,,4-A,,A,F,D, B,,D,B,,G,, C,2C,,2 | F,,G,F,=E, D,2E,F, G,8- |
+G,B,A,G, _G,D,=E,G, =G,_G,=G,A, B,2A,2 | G,=E,F,G, A,2A,,2 D,A,F,D, D2F2- | FEDC =B,2G,2 CG,E,C, _B,DCB, | A,G,F,E, F,3G, _A,B,A,G, F,E,D,C, |
+B,,2C,2 G,,_A,,B,,2 E,,4 z2E2- | E2D3DCB, CDCB, A,B,A,G, | F,2B,,2 B,2D2 [C,A,][B,,B,]C2 F,4- | F,2D,C, B,,G,F,E, D,EDC B,3A, |
+G,2F,3E,D,C, B,,2D,2 A,,B,,C,2 | D,,2D,2 B,,2D,2 E,,2E,2 C,2E,2- | E,2E2 D2B,2 G,2E,2 F,2F,,2 | B,,16 |]
+V:LH2
+x16 | x16 | x16 | x16 |
+x8x2C,2 x2B,,2 | E,,2E,3Cx2 x8 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x3C E,D,C,B,, x2A,,G,, A,,G,,F,,E,, | D,,E,x2 x12 |
+x16 | x16 | x16 | x16 |]

@@ -1,0 +1,44 @@
+X:1
+T:Синфония № 3 · BWV 789
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=70
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:D
+V:RH1
+z2fg a2=c2 B2ef g2B2 | A2de f2A2 Gfed cbag | fede fef^g a4 e4- | e4 d8 c4- |
+c[ce][Bd][Ac] B2^g2 a8- | acze fgfe ^dBcd efe=d | cABc dedc B4 e4- | e2A2 d3[Be] cBAB cBc^d |
+e2B2 e3[cf] dcBc dcde | f[^A,e][B,d][Ce] f2A2 ^G2cd e2=G2 | F2Bc d2F2 EdcB ^Agfe | dcBc dBcd =F^GAB c4- |
+cF^GA B4-B=F^FG A4- | AA^GF =F4 [A,^F]2fg a2=c2 | B4 f4-fgfe ^d=c'ba | ga[Eg][Ff] efge c2ef g2B2 |
+A8 AGzG AGAB | =cB[Ac][Bd] edcB [FA]G3- G2cd | BAzA B=cd6 c4- | =c4 B6g2 A2f2 |
+gdef gbag fe[Fd][Ge] fgfe | ^dB[Ec][Fd] efe=d cA[DB][Ec] dedc | [G,B][FA][EG][DF] E2c2 [Fd]2fg a2=c2 | B2ef g2B2 A2de f2A2 |
+G[Af][Ge][Fd] c4 [Fd]8 |]
+V:RH2
+x16 | x16 | x8x2cd x2G2 | F2Bc x2F2 E2AB x2E2 |
+Dx3 ^Gfed cBAB cABc | d4 A8 G4- | G4 F4-FAGF EdcB | AGFG A^GAx E8- |
+E2GA BABx F4 B,4- | B,x3 DEDx x8 | x16 | x12x^GFE |
+^D4-DFE=D C4-CEDC | B,4-B,DCB, x8 | x2FG A2=C2 B,8- | B,2x2 G2B,2 A,4 E4- |
+EFED CBxG F4 x4 | x4 =c2E2 x2AB cBF2 | G4 x2BA ^GEFG ABA=G | FDEF GAGF E2x6 |
+x12 A2=C2 | B,2x2 G2B,2 A,2x2 F2A,2 | x4 CBAG x2A6- | A4 G8 F4- |
+Fx3 EBAG x8 |]
+V:LH1
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x7C B,^G,^A,B, E,4- | E,4 xD,E,F, G,4 F,4 | B,,12 A,,4- |
+A,,4-A,,x3 x8 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 |]
+V:LH2
+D4 z2F,2 G,4 z2E,2 | F,4 z2D,2 B,2G,2 A,2A,,2 | D,2D2 C2B,2 A,^G,A,B, CDCB, | ^A,F,^G,A, B,CB,=A, G,E,F,G, A,B,A,=G, |
+F,2D,2 E,2E,,2 A,,B,,C,D, E,F,G,E, | F,E,F,G, A,2=C,2 B,,2E,F, G,2B,,2 | A,,2D,E, F,2A,,2 G,,F,E,D, C,B,A,G, | F,E,D,E, F,E,F,^G, A,2E,2 A,3B, |
+G,F,E,F, G,F,G,A, B,2A,2 G,4 | F,12 CDCB, | ^A,F,^G,A, B,4-B,B,CD E2A,2 | B,2A,2 ^G,2F,2 G,4-G,z3 |
+z4zA,^G,F, =F,C,^D,F, ^F,2B,,C, | D,2B,,2 C,2C,,2 F,,4 z2F,G, | A,G,A,B, =CF,G,A, ^D,2F,G, A,2D,2 | E,4 z2E,F, G,F,G,A, B,E,F,G, |
+C,2E,F, G,2C,2 D,2A,,B,, =C,2E,,2 | D,,16 | G,,2B,=C D2=F,2 E,2A,B, C2E,2 | D,2G,A, B,2D,2 =C,B,A,G, F,ED=C |
+B,A,G,A, B,A,B,C D4 A,4- | A,4 G,8 F,4- | F,E,F,G, A,G,F,E, D,C,D,E, F,G,F,E, | ^D,B,,C,D, E,F,E,=D, C,A,,B,,C, D,E,D,C, |
+B,,2G,2 A,2A,,2 D,,8 |]

@@ -1,0 +1,24 @@
+X:1
+T:Инвенция № 1 · BWV 772
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=80
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=treble
+K:C
+V:RH1
+zCDE FDEC G2c2 B2c2 | dGAB cABG d2g2 f2g2 | eagf egfa gfed cedf | edcB AcBd cBAG ^FAGB |
+A2D2 c3d BAG^F EGFA | GBAc Bdce dB/c/dg B2AG | G2z7GAB cABG | ^F2z7ABc dBcA |
+B2z7dcB AcBd | c2z7edc Bd^ce | d2^c2 d2e2 f2A2 B2c2 | d2^F2 ^G2A2 B2c2 d4- |
+dE^F^G AFGE edce dcBd | ca^gb aefd ^Gfed c2BA | Aagf egfa g8- | gefg afge f8- |
+fgfe dfeg f8- | fdef gefd e8- | ecde fdec defg afge | fgab c'abg c'2g2 e2dc |
+c_BAG FAGB A=BcE DcFB | [EGc]16 |]
+V:LH1
+z8zC,D,E, F,D,E,C, | G,2G,,2 z4zG,A,B, CA,B,G, | C2B,2 C2D2 E2G,2 A,2B,2 | C2E,2 ^F,2G,2 A,2B,2 C4- |
+CD,E,^F, G,E,F,D, G,2B,,2 C,2D,2 | E,2^F,2 G,2E,2 B,,3C, D,2D,,2 | zG,,A,,B,, C,A,,B,,G,, D,2G,2 ^F,2G,2 | A,D,E,^F, G,E,F,D, A,2D2 C2D2 |
+G,GFE DFEG F2E2 F2D2 | EAGF EGFA G2F2 G2E2 | F_BAG FAGB AGFE DFEG | FEDC B,DCE DCB,A, ^G,B,A,C |
+B,2E,2 D3E CB,A,G, ^F,A,^G,B, | A,CB,D CEDF E2A,2 E2E,2 | A,2A,,2 z4zEDC B,D^CE | D8-DA,B,C DB,CA, |
+B,8-B,DCB, A,CB,D | C8-CG,A,_B, CA,B,G, | A,2_B,2 A,2G,2 F,2D2 C2B,2 | A,2F2 E2D2 ED,E,F, G,E,F,D, |
+E,2C,2 D,2E,2 F,D,E,F, G,2G,,2 | [C,,C,]16 |]

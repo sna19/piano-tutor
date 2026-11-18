@@ -1,0 +1,26 @@
+X:1
+T:Инвенция № 13 · BWV 784
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=100
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:C
+V:RH1
+zEAc BEBd c2e2 ^G2e2 | AEAc BEBd c2A2 z4 | zece AcEG F2A2 d2f2- | fdBd GBDF E2G2 c2e2- |
+ecAc F2d3BGB E2c2- | cAFA D2B2 c2z6 | zGce dGdf e2g2 B2g2 | cGce dGdf e2c2 g2e2 |
+c'aea ceAc d2^f2 a2c'2 | bgdg BdGB c2e2 g2b2 | a^f^df Bd^FA G2g3ece | A2^f3dBd G2e3cAc |
+^Fg^fe ^dfBd e2z6 | zg_bg eg^ce gece Az3 | zfaf dfBd fdBd Gz3 | zege ceAc ^dcAc ^Fz3 |
+zdfd Bd^GB dBGB Ez3 | zEAc BEBd c2A2 ^G2E2 | Acec Ac^FA cAFA ^DcBA | ^GBdB GBDF GFDF B,FED |
+CEAE CEA,C ^DCA,C ^F,CB,A, | ^G,2B2 ^G2E2 zEAc BEBd | cAce dBdf eceg fedc | Bcde fd^gd bdca fdBd |
+^GBcA EABG AECE A,4 |]
+V:LH1
+A,,2A,4^G,2 A,E,A,C B,E,B,D | C2A,2 ^G,2E,2 A,E,A,C B,E,B,D | C2A,2 C2A,2 DA,F,A, D,F,A,,C, | B,,2D,2 G,2B,3G,E,G, C,E,G,,B,, |
+A,,2C,2 D,F,B,,D, G,,2B,,2 C,E,A,,C, | F,,2D,,2 G,,G,F,G, C,G,CE DG,DF | E2C2 B,2G,2 CG,CE DG,DF | E2C2 z4zGEG CEG,B, |
+A,2C2 E2G2 ^FADF A,D^F,A, | G,2B,2 D2^F2 EGCE G,CE,G, | ^F,2A,2 B,2^D2 zECE A,CEG | ^FDB,D G,B,DF ECA,C ^F,A,C2- |
+CB,CA, B,2B,,2 E,EB,G, E,B,,G,,B,, | E,,2E,2 G,2_B,2 ^C,2z3GFE | D2D,2 F,2^G,2 B,,2z3FED | C2C,2 E,2^F,2 A,,2z3E^D^C |
+B,2B,,2 D,2F,2 ^G,,2z3DCB, | C2A,2 ^G,2E,2 A,E,A,C B,E,B,D | CEAE CEA,C ^F,A,CA, F,A,^D,F, | E,2^G,2 B,2G,2 E,2B,,2 ^G,,2E,,2 |
+A,,2C,2 E,2C,2 A,,2C,2 ^D,,2z2 | zB,^G,E, D,B,G,D, C,2E,2 ^G,,2E,2 | A,,2^F,2 B,,2^G,2 C,2A,2 D,2_B,2 | ^G,2F,2 D,2B,,2 ^G,,2A,,2 D,,2E,,2 |
+F,,2^D,,2 E,,2E,2 A,,8 |]

@@ -1,0 +1,58 @@
+X:1
+T:Гольдберг-вариации: вариация 16 · BWV 988
+C:И. С. Бах
+M:2/2
+L:1/16
+Q:1/4=60
+%%score {(RH1 RH2 RH3) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:RH3 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:G
+V:RH1
+z4z/G/A/B/c/d/e/f/ g3dB3G | d6e2 c7B/d/ | G3g/f/g3e/d/ ^c3ba3g | f6g3/2g/ a8- |
+a3a/f/g3d =f6g2 | e3d/B/c3B/G/ A3Ag3g | g4-g/b/a/g/f/e/d/c/ a3ca3c | B7A/F/ Gdefgfga |
+b3a/f/g3f/^d/ e3B^c3=d/d/ | ^c3za3a a7a/z/ | z4e3b d6^cB | ^c3d/d/d3c/d/ e4-e/d/c/B/A/G/F/E/ |
+D3FA3B c7c/A/ | B3^c/e/d3c/e/ A3e/g/a3c | d6e2 e6d2 | [FAd]16 |
+d2agfef2 g2a2dfeg | fag2f2g2 e2^d2e2a2- | a6[Eg][Ge] [Ff][A^d]b6- | bc'bagfgz azbzc'bag |
+fedzezfz gza3g/z/[gb]2- | [gb]2[dg]2[Ge]2[Af]2 [F^d]2e4zF/^G/ | A4cB[Ac]2 d2e2AzBz | ^czd/z/ff3e/f/ g2fed=cBd |
+ced=fe7dcBc^f | adcBcABe dcd^gbedc | dBc7BABcAzF | EG[FB]2G2A2 F2G4z2 |
+z2agfe[DG]2- [DG]8- | [DG]6z2 z8 |]
+V:RH2
+x16 | x16 | x16 | d7/2x4x/ x8 |
+x7x/e/ d8 | c2x14 | [Bd]4x12 | x16 |
+x14xB | A4x8B4- | B4x4 B7x | A4B4 ^c4x4 |
+x8 [FA]4x4 | x16 | x16 | x16 |
+x8x3Ax4 | x2GxAx3 x2AGFEF2 | G2A2B7^c^defd | e2x4xe xexex4 |
+x3fxgxa xax7/2a/x2 | x16 | x2edx4 x4xcxd | xex/e/x4x x8 |
+x16 | x16 | x14d2- | d2x14 |
+x16 | x16 |]
+V:RH3
+x16 | x16 | x16 | x16 |
+x14x3/2=f/ | x16 | x16 | x16 |
+x16 | x3e/g/x4 ^d3fx7/2f/ | g3f/^d/x12 | x16 |
+x16 | x16 | x8 ^c8 | x16 |
+x8 dcBxB2c2 | d2xBxcBd c7g | fe^de^DFx4G2F2x2 | x2E2^D2E2- E8 |
+x2A2B2c2 d2e2f2x2 | x8x2G2^G3x | x4^G2x2 =G4F2G2 | E2Fx4x x8 |
+x6F2 G2A2x4 | x16 | x3GFGAF D7x | x16 |
+x16 | x16 |]
+V:LH1
+[G,,B,,D,G,]4z4 z7[G,B,] | A,4z/D,/E,/F,/G,/A,/B,/C/ D3A,F,3D, | E,6G,2 E,7D,/F,/ | D,3C/B,/C3A, F,3ED3C |
+B,6B,2 B,3C/A,/B,3G, | C7D/B,/ C3B,/G,/A,3G,/E,/ | D,8-D,C,/B,,/A,,/G,,/F,,/E,,/D,,F,,A,,D, | G,,D,E,F,G,F,G,A, B,7A,/F,/ |
+G,B,^C^DEDEF G3G,G3G | G7G/E/ F3B,/^D/E3E | E7C/A,/ ^G,3B,E,3G, | A,4-A,A,,/B,,/^C,/D,/E,/F,/ G,3E,C,3A,, |
+F,7G,/E,/ D,3C,/A,,/G,,3D,/F,/ | G,3G,,G,3[G,B,] ^C4z3G,/E,/ | F,3/2D,/E,/F,/G,/A,/B,3G, A,4A,,4 | D,,4-D,,D,/E,/F,/G,/A,/B,/ C3A,F,3D, |
+D,,4z12 | z16 | z12B,A,G,F, | G,2A,2B,2E,G, F,A,G,B,A,2B,2 |
+C2F,A,G,B,A,C B,2C2D2G,B, | A,CA,DC2A,2 B,2E,2EDCB, | C2D2E2A,C B,D^CED4- | D4D,C,B,,A,, B,,2[C,G,]2[D,F,]2G,2- |
+G,6A,,G,, F,,E,,F,,2G,,2A,,2 | D,,F,,E,,G,,F,,A,,G,,2 A,,2B,,2E,,^G,,F,,A,, | ^G,,B,,A,,E,A,G,F,E, F,G,F,E,D,C,B,,D, | C,E,D,F,[E,B,]2[C,C]2 [D,A,]2B,4B,,C, |
+D,2D,,2z2[G,,B,]2- [G,,B,]8- | [G,,B,]6z2 z8 |]
+V:LH2
+x16 | F,4-F,/x7/2 x8 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x8 G,7x | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x14G,,B,, |
+A,,C,B,,D,C,B,,x2 x8 | x16 | x16 | x8x2G,,F,,G,,A,,x2 |
+x16 | x16 |]

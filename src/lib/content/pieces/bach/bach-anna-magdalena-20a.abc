@@ -1,0 +1,20 @@
+X:1
+T:Ария · BWV 515
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=105
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:Dm
+V:RH1
+D4 D4 D4 | G6AB A4 | G4 F2E2 A4 | F4 E2F2 D4 |
+F4 F4 F4 | A6Bc F4 | G4 E8 | F12 |
+G4 G4 G4 | G8 E4 | A4 G2F2 E2D2 | ^C12 |
+A,4 ^C4 E4 | G6AB A4 | F4 D4 ^C4 | D12 |]
+V:LH1
+D,4 D4 C4 | B,4 E,4 F,4 | G,4 A,4 A,,4 | D,4 A,,4 F,,4 |
+D,,4 D,4 B,,4 | F,4 C,4 D,4 | B,,4 C,4 C,,4 | F,,12 |
+C4 E,4 G,4 | =B,4 G,4 C4 | F,8 G,4 | A,4 G,2F,2 E,2D,2 |
+^C,2=B,,2 A,,2B,,2 C,2D,2 | E,4 D,4 ^C,4 | D,4 F,4 A,4 | D,4 A,,4 D,,4 |]

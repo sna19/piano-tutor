@@ -1,0 +1,22 @@
+X:1
+T:Инвенция № 14 · BWV 785
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=65
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:Bb
+V:RH1
+zB/c/d/c/B fdbf df/e/d/e/f BdF_A | GE/F/G/F/E BGeB GB/_A/G/A/B EGCE | A,C/D/E/D/C AFcA eF/G/A/G/F cAfc | d2z3g/f/e/f/g c2z3f/e/d/e/f |
+B2z3e/d/c/d/e Ac/B/A/B/c F2z2 | f2F2 A2c2 f4 z4 | z2F2 B2d2 f4 z4 | z2G2 B2c2 =e4 z4 |
+zF/G/A/G/F cAfc ae/d/c/d/e Ac_GA | B2d2 B2G2 _A2f2 A2F2 | GC/D/E/D/C GEcG d_A/G/F/G/A DF=B,G | E2z3C/D/E/D/C c3B AF/G/A/G/F |
+f3e dB/c/d/c/B b3_a gb/a/g/a/b | eg/f/e/f/g ce/d/c/d/e Ac/d/e/d/c f_A/G/F/G/A | GB/c/d/c/B eG/F/E/F/G FA/B/c/B/A dF/E/D/E/F | EG/A/B/A/G cE/D/C/D/E D4 zB/c/d/c/B |
+fdbf df/e/d/e/f BeBe GE/F/G/F/E | BGeB GB/_A/G/A/B E2e3e/d/c/d/e | F2e3c/d/e/d/c fd/c/B/c/d FBcA | B16 |]
+V:LH1
+B,2B,,2 D,2F,2 B,4 z4 | z2B,,2 E,2G,2 B,4 z4 | z2B,,2 C,2E,2 A,4 z4 | zB,/C/D/C/B, E2z3A,/B,/C/B,/A, D2z2 |
+zG,/A,/B,/A,/G, CC,/D,/E,/D,/C, F,2F,,2 zCA,F, | zF,/G,/A,/G,/F, CA,FC A,C/B,/A,/B,/C F,A,C,E, | D,B,,/C,/D,/C,/B,, F,D,B,F, D,F,/E,/D,/E,/F, B,,D,G,,B,, | =E,,G,,/A,,/B,,/A,,/G,, =E,C,G,E, B,C,/D,/E,/D,/C, G,E,CG, |
+A,2C2 A,2F,2 _G,2A,2 G,2D,2 | G,G,,/A,,/B,,/A,,/G,, D,B,,G,D, B,_A,/G,/F,/G,/A, D,F,B,,D, | E,2G,2 E,2C,2 =B,,2D,2 B,,2G,,2 | C,C,,/D,,/E,,/D,,/C,, C,3B,, A,,F,,/G,,/A,,/G,,/F,, F,3E, |
+D,B,,/C,/D,/C,/B,, B,3_A, G,E,/F,/G,/F,/E, E3D | CE/D/C/D/E A,C/B,/A,/B,/C F,A,/B,/C/B,/A, DF,/E,/D,/E,/F, | E,G,/A,/B,/A,/G, CE,/D,/C,/D,/E, D,F,/G,/A,/G,/F, B,D,/C,/B,,/C,/D, | C,E,/F,/G,/F,/E, A,C,/B,,/A,,/B,,/C, B,,B,/C/D/C/B, FDBF |
+DF/E/D/E/F B,DF,_A, G,E,/F,/G,/F,/E, B,G,EB, | G,B,/_A,/G,/A,/B, E,G,B,,D, C,F,,/G,,/A,,/G,,/F,, C,A,,E,C, | A,,C,/B,,/A,,/B,,/C, F,,A,,C,,E,, D,,B,,/C,/D,/C,/B,, F,2F,,2 | B,,16 |]

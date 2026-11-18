@@ -1,0 +1,28 @@
+X:1
+T:Гольдберг-вариации: вариация 29 · BWV 988
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=84
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=treble
+K:G
+V:RH1
+z3[B,DG] z[B,DG]z[B,DG] z[B,DG]z[B,DG] | z3[FAd] z[FAd]z[FAd] z[FAd]z[FAd] | z3[Beg] z[Beg]z[Beg] z[Beg]z[^ceg] | [Adf]z7/2c'b/c/ba/ B/ag/A/gf/ |
+[Bdg]2z[Bdg] z[Bdg]z[Bdg] z[Bdg]z[Bd=f] | z3[Gce] z[Gce]z[Gce] z[Gce]z[Gce] | z3[FAd] z[FAd]z[FAd] z[FAd]z[FAc] | [DGB]z7/2AB/c/BA/ B/AG/e/dc/ |
+d/zG/F/Cz2G/A/Fz2B/^c/Az/ | z3/2d/^c/Gz2d/e/cz2f/d/Bz/ | z3/2c/B/Gz2A/G/Ez2F/E/^Cz/ | z3/2F/E/^Cz2D/C/A,z2B,/A,/F,z/ |
+z3/2B,/A,/F,z2G,/F,/D,z2E,/D,/B,,z/ | z3/2E,/D,/B,,z2C,/B,,/G,,z2A,,/F,,/E,,z/ | z/G,A,/E/A,G,/ z/F,A,/D/A,F,/ z/E,G,/^C/G,E,/ | z3[F,A,D] z[F,A,D]z[F,A,D] z4 |
+z3/2b/a/fz2g/f/dz2e/d/Bz/ | z3/2e/d/Bz2c/B/Gz2A/G/Ez/ | z3/2=F/E/Cz2D/C/A,z2B,/A,/F,z/ | z3/2G,/F,/^D,z2E,/D,/B,,z2C,/B,,/G,,z/ |
+z3[GBe] z[GBe]z[GBe] z[GBe]z[GBe] | z3[GBe] z[GBe]z[GBe] z[GBe]z[GBe] | z/fg/a/bc'ba/g/fe/ ^d/cB/A/GF/ | E[GBe]z[GBe] z[EGc]z[EGc] z[B,EG]z[B,EG] |
+z/E,=F,/^F,/G,^G,/ z/B,C/D/CB,/ C/DE/F/GA/ | z/D,^D,/E,/=F,^F,/ z/A,B,/C/B,A,/ B,/CD/E/FG/ | C/z=F/E/Cz2D/C/A,z2B,/A,/F,z/ | z3/2B/A/Fz2G/F/Dz2E/D/B,z/ |
+z3/2e/d/Bz2c/B/Gz2A/G/Ez/ | z3/2a/g/ez2=f/e/cz2d/c/Az/ | z/AB/c/dedc/B/AGFG/A/Bc/ | B2z[Bdg] z[Bdg]z[Bdg] z4 |]
+V:LH1
+G,2G,,2 [A,CF]z[A,CF]z [A,CF]z[A,CF]z | F,2F,,2 [EG^c]z[EGc]z [EGc]z[EGc]z | E,2E,,2 [Adf]z[G^ce]z [Adf]z[Gce]z | zDA,F, D,3/2D/E,3/2C/ D,3/2B,/C,3/2A,/ |
+B,,2B,2 [Acf]z[Acf]z [Acf]z[GBd]z | C,2C2 [=FBd]z[FBd]z [FBd]z[EAc]z | D,2D2 [EG^c]z[EGc]z [EGc]z[DFA]z | zG,D,B,, G,,3/2G,/F,3/2D/ G,3/2E/A,3/2F/ |
+B,/Dz2A,/ B,/Dz2C/ D/Gz2E/ | F/Az2E/ F/Az2G/ A/dz2A/ | G/Bz2F/ E/Gz2D/ ^C/Dz2B,/ | A,/^Cz2B,/ A,/Cz2G,/ F,/A,z2E,/ |
+D,/F,z2E,/ D,/F,z2C,/ B,,/D,z2A,,/ | F,,/B,,z2A,,/ G,,/B,,z2F,,/ E,,/G,,z2D,,/ | ^C,,2^C,2 D,2F,,2 G,,2A,,2 | D,,2D,2 [E,G,^C]z[E,G,C]z D,,4 |
+d/fz2e/ d/fz2c/ B/dz2A/ | G/Bz2A/ G/Bz2F/ E/Gz2D/ | C/Ez2B,/ A,/Cz2G,/ F,/A,z2E,/ | ^D,/F,z2^C,/ B,,/D,z2A,,/ G,,/B,,z2F,,/ |
+E,,2E,2 [FA^d]z[FAd]z [G,G]z[FAd]z | C,2C2 [FA^d]z[FAd]z [B,B]z[FAd]z | A,2^D,2 E,2A,2 B,2B,,2 | E,2[FA^d]z [^DFB]z[DFB]z [A,DF]z[A,DF]z |
+C,2B,2 A,2^G,2 A,2C,2 | B,,2A,2 G,2F,2 G,2B,,2 | A,,/A,z2B,/ A,/Cz2G,/ F,/A,z2E,/ | D,/Dz2E/ D/Fz2C/ B,/Dz2A,/ |
+G,/Gz2A/ G/Bz2=F/ E/Gz2D/ | C/cz2d/ c/ez2B/ A/cz2G/ | F2A,2 B,2C2 D2D,2 | G,2G,,2 [Acf]z[Acf]z G,4 |]

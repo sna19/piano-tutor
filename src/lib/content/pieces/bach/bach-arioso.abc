@@ -1,0 +1,48 @@
+X:1
+T:Ариозо · BWV 1056
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=31
+%%score {RH1 | (LH1 LH2) | (S21 S22)}
+V:RH1 clef=treble
+V:LH1 clef=treble stem=up
+V:LH2 clef=treble stem=down
+V:S21 clef=bass stem=up
+V:S22 clef=bass stem=down
+K:G
+V:RH1
+B,4-B,CDE A,4-A,B,CD | G,2GE C4-CAFD C2B,D | B,2A,G, z4 G4-GEFG | A,4-A,^CEG F4-FDB,A, |
+G,4-G,B,DF E4-E^CA,G, | F,G,^CD D4-DEGB C3D | D6z2 D6z2 | =F4-FDB,A, ^G,4-G,A,B,C |
+DE=F^G B2D2 C2B,A, c4- | cBAB/^G/ A4-A=G=FE DCB,^G | AB/A/^G/AB/ B3A A6z2 | C4-CB,A,C B,4-B,G,A,B, |
+CDE=F GF/E/F2 F2E2 zA,B,C | F,/E,F,/G,/F,G,/ A,/G,A,/B,/A,B,/ C/B,C/A3B,CA, | B,DGE DCFG B,2A,2 z4 | B,4-B,CDE A,4-A,B,CD |
+G,2GE C4-CAFD C2B,C | B,DB,G, =F,2E,F, E,4-E,^F,F,G, | G,F,G,E, F,3G, G,4-G,B,,E,^C, | D,G,CB,/A,/ A,3G, G,6z2 |
+G,4-G,B,,E,^C, E,G,=C,B,,/A,,/ A,,3G,, | G,,16 |]
+V:LH1
+z2[DGB]2 [GBd]2z4[DA]2 [FAd]2z2 | z2[DG]2 [CGc]2z4[FAc]2 [cfa]2z2 | z2[Bdg]2 [DGB]2z4[EGB]2 [GBe]2z2 | z2[GAe]2 [EGA]2z4[DFA]2 [FAd]2z2 |
+z2[DG]2 [G,DF]2z4[EA]2 [A,EG]2z2 | z2[GA]2 [FAd]2[DA^d]2 [DGB]2[GBeg]2 c4 | z2[GA]2 [Fd]2[DAc]2 z2[DGA]2 [DFd]2z2 | z2[Ad=f]2 [=FAd]2z4[DFB]2 [FBd]2z2 |
+z2[=FBd]2 [B,DE]2z4[EAc]2 [CEA]4- | [CEA]2[Ace]2 [CEA]6[Bda]2 [=FAB]2[D^Gd]2 | [EAc]2[=FB]2 E4 z2[G,CE]2 [CEA]2z2 | z2[EAc]2 [G,CD]2z4[B,D]2 [B,DG]2z2 |
+z2[G,CG]2 [CGA]2[DGB]2 z2[EGc]2 [Gce]2z2 | z2[G,CG]2 [A,CF]2[B,CE]2 [A,CD]2[CAe]2 [DAd]2[FAc]2 | [DGB]2[Gdg]2 [Gcg]2[G,EG]2 z2[A,DG]2 [A,DF]2z2 | z2[DGB]2 [GBd]2z4[DA]2 [FAd]2z2 |
+z2[DG]2 [CGc]2z4[FAc]2 [cfa]2z2 | z2[DGB]2 [B,D=F]2z4[G,CE]2 [A,EA]2z2 | z2[A,G]2 [D=F]4 z2[B,G]2 [DGd]2[EG^c]2 | [DGd]2[EG]2 D4 z2[G,B,D]2 [B,DG]2z2 |
+z2[B,G]2 [DGd]2[EG^c]2 [DGd]2[EG]2 D4 | z2[CE][B,D] [A,C][B,D][CE]2 [G,B,D]8 |]
+V:LH2
+x16 | x16 | x16 | x16 |
+x16 | x12 [FA]2[EG]2 | x2D4x2 x8 | x16 |
+x16 | x16 | x4 [A,B,]2[^G,D]2 x8 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x4 B,2C2 x8 | x4 [G,C]2F,2 x8 |
+x12 [G,C]2A,2 | x2G,6 x8 |]
+V:S21
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x2[B,D]2 [A,B,]2x4[^G,B,]2 [B,D]2x2 |
+x2[^G,B,]2 [E,G,]2x4[A,C]2 [E,A,]2x2 | x2[CE]2 [E,A,]2x4[B,DA]2 [F,A,B,]2x2 | x8x2[C,E,]2 [E,A,]2x2 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 |]
+V:S22
+[G,,G,]6[G,,G,]2 [F,,F,]6[F,,F,]2 | [E,,E,]6[E,,E,]2 [D,,D,]6[D,,D,]2 | [G,,G,]6[F,,F,]2 [E,,E,]6[D,,D,]2 | [^C,,^C,]6[C,,C,]2 [D,,D,]6[C,,C,]2 |
+[B,,,B,,]6[B,,,B,,]2 [^C,,^C,]6[C,,C,]2 | [D,,D,]6[F,,F,]2 [G,,G,]2[E,,E,]2 [A,,A,]2[A,,,A,,]2 | D,,8 [D,,D,]6[C,,C,]2 | [B,,,B,,]6[B,,,B,,]2 [E,,E,]6[=F,,=F,]2 |
+[^G,,,^G,,]6[E,,,E,,]2 [A,,,A,,]6[A,,A,]2 | [G,,G,]6[G,,G,]2 [=F,,=F,]6[F,,F,]2 | [E,,E,]2[D,,D,]2 [E,,E,]2E,,2 [A,,,A,,]6[G,,G,]2 | [F,,F,]6[D,,D,]2 [G,,G,]6[=F,,=F,]2 |
+[E,,E,]6[G,,G,]2 [C,,C,]6[B,,,B,,]2 | [A,,,A,,]6[G,,,G,,]2 [F,,,F,,]6D,,2 | [G,,,G,,]2[B,,,B,,]2 [E,,E,]2[C,,C,]2 [D,,D,]6[F,,F,]2 | [G,,G,]6[G,,G,]2 [F,,F,]6[F,,F,]2 |
+[E,,E,]6[E,,E,]2 [D,,D,]6[D,,D,]2 | [G,,G,]6[G,,,G,,]2 [C,,C,]6[A,,,A,,]2 | [D,,D,]6[D,,D,]2 [E,,E,]6[A,,,A,,]2 | [B,,,B,,]2[C,,C,]2 [D,,D,]2D,,2 [G,,,G,,]6[C,,C,]2 |
+[E,,E,]6[A,,,A,,]2 [B,,,B,,]2[C,,C,]2 [D,,D,]2D,,2 | [G,,,G,,]16 |]

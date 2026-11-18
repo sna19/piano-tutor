@@ -1,0 +1,28 @@
+X:1
+T:Гольдберг-вариации: вариация 8 · BWV 988
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=95
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:G
+V:RH1
+DGBA GBdc Bdgz | DFAG FAcB Adfz | B,EGF EGBA G^cez | A,DFE DFAG FAd2- |
+dBGA BGDE =FDB,z | ecAB cAEF GECz | afde fdAB cAFc | BGDF GDB,C DB,G,A, |
+B,2ba gfed ^cede | A2ag fed^c Bdcd | G2gf ed^cB AcBd | ^ceAB cAEF GE^CE |
+D2F2 A2d2 zcAF | G2B2 d2g2 zgfg | A2^c2 e2g2 zgac | dfa^c' d'c'/b/a/g/f/e/ d4 |
+Adfe dfag fac'z | DGBA GBdc Bd=fz | ecAB cAFG AF^DE | F^DB,^C DB,F,G, A,F,^D,F, |
+G,B,E^D EGBA GBez | EAcB Aced ceaz | zcBf g^deG Feda | gfe2 zAGF/F/ E4- |
+E2ed cBAG F^A^ce | dFdc BA^GF EGBd | cEcB Aced ceag | fac'b agfe dfac' |
+bd'ga bgde =fdBd | egcd ecAB cAEG | FADE FDA,B, CA,F,A, | B,DG,A, B,G,B,D G4 |]
+V:LH1
+G,2D,2 B,,2G,,2 zG,F,E, | F,2D,2 A,,2F,,2 zF,E,D, | E,2B,,2 G,,2E,,2 zE,D,^C, | D,2A,,2 F,,2D,,2 zC,B,,A,, |
+B,,2D,2 G,2B,2 zG,=F,G, | C,2E,2 A,2C2 zA,G,A, | D,2F,2 A,2D2 zD,C,D, | G,,2G,2 B,,2D,2 G,,2z2 |
+G,B,DC B,DGF EGBz | F,A,^CB, A,CFE DFAz | E,G,B,A, G,B,ED ^CEGF | EG^cB Aced ceag |
+fade fdAB cAFA | BdGA BGEF GEB,D | ^CEA,B, CA,E,F, G,E,^C,E, | F,A,D,E, F,D,F,A, D4 |
+D2A,2 F,2D,2 zCB,A, | G,2D,2 B,,2G,,2 z=F,E,D, | C,E,A,G, F,A,CB, A,C^DC | B,^DFE DFAG FAcA |
+BGEF GEB,^D EB,G,B, | CA,E,^G, A,E,C,D, E,C,A,,C, | ^D,,2^D,2 E,2C,2 A,,2B,,2 | E,,2G,,2 B,,2E,2 zD,C,B,, |
+C,E,G,=F, E,G,CB, ^A,^CFz | B,,D,F,E, D,F,B,A, ^G,B,Ez | A,,C,E,D, C,A,,C,E, A,CF,G, | A,F,D,E, F,D,A,,B,, C,A,,F,,D,, |
+G,,2B,,2 D,2=F,2 zF,E,D, | C,2E,2 G,2C2 zCB,C | D,2F,2 A,2C2 zCDF, | G,B,DF GF/E/D/C/B,/A,/ G,4 |]

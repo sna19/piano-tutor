@@ -1,0 +1,30 @@
+X:1
+T:Инвенция № 9 · BWV 780
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=94
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:Fm
+V:RH1
+cBAG A2F2 d4- | dcB=A B2G2 =e4- | =efga b2ge d2c2 | BAGA BdcB AGF=E |
+A2f3gag fedc | B2g3aba gf=e=d | c=d=ef gabg fefe | f2c3BAG F=EAG |
+cBAG A2F2 a4- | agf=e f2=d2 =B4- | =Bc=de f2dB A2G2- | GFE=D E2C2 e4- |
+e=dc=B c2=A2 _g4- | _g=g=ab c'2a_g e2=d2 | =B6B2 c4- | c3=d d6c2 |
+c4-c=ded cBAG | F2=d3efe dc=B=A | G=A=Bc =defd cBcB | g4-gfe=d c4- |
+cB=AG A2F2 e4- | edcd e_gfe dcBA | G2b3agf edcB | A2c2 e2g2 a4- |
+agfe dBa2 g4- | gfed cA_g2 f4- | fedc BAGA B4- | BAGF =EFGA BcdB |
+cBAG A2F2 d4- | dcB=A B2G2 =e4- | =efga b2ge d2c2 | BAGA BdcB AGF=E |
+c3d G6F2 | F12 |]
+V:LH1
+F,,2F,3G,A,G, F,E,D,C, | B,,2G,3A,B,A, G,F,=E,=D, | C,=D,=E,F, G,A,B,G, F,E,F,E, | F,4 zC,=D,=E, F,G,A,B, |
+CB,A,G, A,2F,2 D4- | DCB,=A, B,2G,2 =E4- | =EFGA B2GE D2C2 | B,A,G,A, B,DCB, A,G,F,=E, |
+A,2F,3G,A,G, F,E,=D,C, | =B,,2A,3G,F,E, =D,C,B,,=A,, | G,,=A,,=B,,C, =D,E,F,D, C,B,,C,B,, | E,2C3=DED CB,=A,G, |
+_G,2E3=DCB, =A,=G,_G,=E, | =D,=E,_G,=G, =A,B,CA, G,_G,=G,_G, | G,=A,=B,C =DEFD ECDE | FGAF G=DEF G,FED |
+EF,E,=D, E,2C,2 A,4- | A,G,F,=E, F,2=D,2 =B,4- | =B,C=DE F2DB, A,2G,2 | F,E,=D,E, F,A,G,F, E,D,C,B,, |
+=A,,2C3B,=A,G, F,E,D,C, | B,,2D,2 F,2=A,2 B,4- | B,A,G,F, G,2E,2 D4- | DCB,C DFED CB,A,G, |
+F,2F3EDC B,A,G,B, | E,2E3DCB, A,_G,F,A, | D,2D3CB,A, G,F,=E,G, | C,4-C,=D,=E,F, G,A,B,G, |
+A,B,C3B,A,G, F,E,D,C, | B,,C,D,3C,B,,A,, G,,F,,=E,,=D,, | C,,=D,,=E,,F,, G,,A,,B,,G,, F,,E,,F,,E,, | F,,4 zC,=D,=E, F,E,F,G, |
+A,G,A,B, C2B,2 C2C,2 | F,,12 |]

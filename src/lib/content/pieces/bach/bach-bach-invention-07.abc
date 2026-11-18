@@ -1,0 +1,24 @@
+X:1
+T:Инвенция № 7 · BWV 778
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=90
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:Em
+V:RH1
+z2BA GFGE B2B2 e3f | ^d2fe d^cdB b2ag f3e/f/ | g2ba gfge c'3b agfe | f2ag fefd b3a gfed |
+efed cBAG cBAB cdef | gfed g3g gfef f3g | g2dc BABG d8- | d16- |
+d3e ^c3d d2AG FEFD | c3B c3d B2B2 e3e | egfe d^cdB ^A2fe dcdB | e2ba gfge ^a2^c2 f2^A2 |
+B3^c c3B B2d2 E2d2 | c2A2 D2c2 B2d2 g2B2 | A2f2 G2e2 ^d2fe d^cBA | GFGB eBAG FEFA dAGF |
+E^DEG cGFE D^CDF B2B2 | B4-B^deg A4-A^cdf | G4-GB^de FABc ^DFGA | B,2A3FBF G2E2 c3c |
+c2B2 g3g gagf f3e | edcB AGAF ^d2F2 B3c | A3G F3E E8 |]
+V:LH1
+E,2E,,2 z6B,A, G,F,G,E, | B,2B,,2 z6FE ^D^CDB, | E2E,2 z6ED CB,CA, | D2D,2 z6DC B,A,B,G, |
+C3B, A,G,F,E, A,3G, F,E,D,C, | B,,3C, B,,A,,G,,F,, E,,2C,2 D,2D,,2 | G,,4 z6G,,A,, B,,A,,B,,G,, | D,^C,D,E, F,E,F,D, G,F,G,A, B,A,B,F, |
+G,F,G,E, A,2A,,2 D,2D,,2 z4 | z2A,G, F,E,F,D, G,A,G,F, E,D,E,^C, | F,2^A,,2 B,,2G,,2 F,,4 z2B,A, | G,F,G,E, D3E ^C2GF EDEC |
+D^CDB, F2F,2 B,=CB,A, ^G,F,G,E, | A,B,A,G, F,E,F,D, G,A,G,F, E,D,E,^C, | ^D,^C,D,B,, E,D,E,E,, B,,8- | B,,16- |
+B,,12-B,,CB,A, | G,F,G,B, EB,A,G, F,E,F,A, ^DA,G,F, | E,^D,E,G, CG,F,E, D,2B,,2 z4 | zG,F,E, ^D,^C,D,B,, E,=D,=C,B,, A,,G,,A,,F,, |
+G,,A,,G,,F,, E,,D,,E,,C,, A,,G,,A,,F,, B,,A,,B,,G,, | C,8-C,CB,A, G,F,G,E, | ^D,2E,2 B,2B,,2 E,,8 |]

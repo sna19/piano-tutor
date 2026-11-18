@@ -1,0 +1,48 @@
+X:1
+T:Гольдберг-вариации: вариация 1 · BWV 988
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=60
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:G
+V:RH1
+GFG3DEF GAB^c | d^cd3ABc defd | gfg3fed ^ceAG | FED^C DFz6 |
+z2dc d2G2 B,2d2 | z2ed e2A2 C2e2 | z2fe f2d2 a2c2- | c2B2 zGBd gdga |
+bgdB GBdg bgfe | ae^cA FAce afed | gdBG EGBd gfed | ^cGE^C A,CEG cedc |
+d2F,2 F,2A2 d2f2 | B2G,2 G,2B2 e2g2 | ^ceAG FAdf gedc | fd^cB AGFE z4 |
+fga3bag fedc | Bcd3edc BAGF | E^GAB AEAB cA^de | fe^d^c B8- |
+B^de3^DE3z3 | z^ga3^GA3z3 | zB,CF B,^DEG FEDA | GFE^D EGz6 |
+z2e2 c2e2 a2A2 | z2d2 B2d2 g2G2 | cAEC A,CEA cAce | fcAF DFAc fcfa |
+bgdB GBdg b=fbd' | ed'c'e dc'bd cefg | acBA BdBG cAGF | BGFE DCB,A, G,4 |]
+V:RH2
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x8x^DFA |
+G3F G3x x4 | x3B c3x x4 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |]
+V:LH1
+G,,2B,A, B,2G,2 G,,2G,2 | F,,2F,E, F,2D,2 F,,2D,2 | E,,2E,D, E,2G,2 A,,2^C2 | D,2F,E, F,2A,G, F,A,D,2 |
+B,,A,,B,,3D,E,F, G,A,B,G, | C,B,,C,3E,F,G, A,B,CA, | D,^C,D,3A,B,C DEFD | GFGD B,DG,B, D,G,B,,D, |
+G,,2G,2 B,2G,2 G,,2G,2 | F,,2F,2 A,2F,2 F,,2F,2 | E,,2E,2 G,2E,2 E,,2G,2 | A,,2E,2 G,2E,2 A,,2G,2 |
+F,A,DF AFDA, F,A,D,F, | G,B,DG BGDB, G,B,E,G, | A,2^C2 DA,F,D, A,2A,,2 | D,,D,E,F, G,A,B,^C D4 |
+D,,2F,E, F,2D,2 D,,2F,2 | G,,2B,A, B,2G,2 G,,2B,2 | C,2CB, C2F,2 A,2C2 | A,2F,2 ^D,B,,D,F, B,z3 |
+z7F, G,3B,, | C,3z4B, C3E, | ^D,2A,2 G,2^A,,2 B,,2F,2 | E,2G,F, G,2B,A, G,B,E,2 |
+C,E,A,C ECA,E, C,E,D,C, | B,,D,G,B, DB,G,D, B,,D,C,B,, | A,,2C,2 E,2G,2 F,2E,2 | D,2F,2 A,2C2 B,2A,2 |
+G,2B,2 D2=F2 E2D2 | C2E2 F2^G2 A2=G2 | F2D2 G2G,2 D2D,2 | G,G,,A,,B,, C,D,E,F, G,4 |]
+V:LH2
+x12 | x12 | x12 | x6D,2 D,,2xC, |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x8x^D,E,2 | x8x^G,A,2- | A,x3 x8 | x6E,2 E,,2xD, |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |]

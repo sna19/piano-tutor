@@ -1,0 +1,68 @@
+X:1
+T:Прелюдия № 2 (ХТК I) · BWV 847
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=120
+%%score {(RH1 RH2) | (LH1 LH2 LH3)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+V:LH3 clef=bass stem=down
+K:Cm
+V:RH1
+cEDE CEDE cEDE CEDE | AF=EF CFEF AFEF CFEF | =BFEF DFEF BFEF DFEF | cGFG EGFG cGFG EGFG |
+eAGA EAGA eAGA EAGA | d_G=EG DGEG dGEG DGEG | dG_G=G DG_G=G dG_G=G DG_G=G | c=EDE CEDE cEDE CEDE |
+cF=EF CFEF cFEF CFEF | BFEF DFEF BFEF DFEF | BGFG EGFG BGFG EGFG | AGFG EGFG AGFG EGFG |
+ADCD B,DCD ADCD B,DCD | GB,A,B, EB,A,B, GB,A,B, EB,A,B, | FCB,C =A,CB,C FCB,C A,CB,C | FDCD =B,DCD FDCD B,DCD |
+FDCD =B,DCD FDCD B,DCD | EC=B,C G,CB,C ECB,C G,CB,C | F,EDE FEDE F,EDE FEDE | _G,C=B,C ECB,C G,CB,C ECB,C |
+EC=B,C G,CB,C ECB,C G,CB,C | _GC=B,C =A,CB,C GCB,C A,CB,C | GC=B,C DCB,C GCB,C DCB,C | AC=B,C DCB,C ACB,C DCB,C |
+z16 | z8 ECGE z4 | z3C EC=B,C _GC=AG ECB,C | zdcd ec=Bc =AcBc dBAB |
+G=B=AB cAGA _GA=GA BG_G=G | Dgfg afef dfef gede | c[Ge][Fd][Ge] [Af][Fd][Ec][Fd] [D=B][Fd][Ec][Fd] [Ge][Ec][DB][Ec] | [CG][Ec][D=B][Ec] [FA][Df][Ce][Df] [EG][Ce][=B,d][Ce] [DF]dcd |
+Ec=Bc AFEF GEDE FDCD | =E2-E/z/D/E/ F/A/c/A/FG/E/ F2-F/G/F/E/ F/G/A/G/F/D/F/_E/ | z16 | z16 |
+z16 | zCFD FAc=B cGFD =E4 |]
+V:RH2
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | C4 x4 C4 x4 | x16 | x16 |
+x16 | x16 |]
+V:LH1
+C,G,F,G, E,G,F,G, C,G,F,G, E,G,F,G, | C,A,G,A, F,A,G,A, C,A,G,A, F,A,G,A, | C,A,G,A, F,A,G,A, C,A,G,A, F,A,G,A, | C,E,D,E, G,E,D,E, C,E,D,E, G,E,D,E, |
+C,CB,C A,CB,C C,CB,C A,CB,C | C,=A,G,A, _G,A,=G,A, C,A,G,A, _G,A,=G,A, | B,,B,=A,B, G,B,A,B, B,,B,A,B, G,B,A,B, | B,,G,F,G, =E,G,F,G, B,,G,F,G, E,G,F,G, |
+A,,A,G,A, F,A,G,A, A,,A,G,A, F,A,G,A, | A,,D,C,D, F,D,C,D, A,,D,C,D, F,D,C,D, | G,,E,D,E, G,E,D,E, G,,E,D,E, G,E,D,E, | C,E,D,E, A,E,D,E, C,E,D,E, A,E,D,E, |
+D,F,E,F, A,F,E,F, D,F,E,F, A,F,E,F, | E,G,F,G, A,G,F,G, E,G,F,G, A,G,F,G, | E,=A,G,A, F,A,G,A, E,A,G,A, F,A,G,A, | D,F,E,F, A,F,E,F, D,F,E,F, A,F,E,F, |
+C,F,=E,F, A,F,E,F, C,F,E,F, A,F,E,F, | C,E,D,E, F,E,D,E, B,,E,D,E, F,E,D,E, | A,,C,=B,,C, D,C,B,,C, A,,C,B,,C, D,C,B,,C, | =A,,E,D,E, C,E,D,E, A,,E,D,E, C,E,D,E, |
+G,,E,D,E, F,E,D,E, G,,E,D,E, F,E,D,E, | G,,E,D,E, C,E,D,E, G,,E,D,E, C,E,D,E, | G,,E,D,E, F,E,D,E, G,,E,D,E, F,E,D,E, | G,,E,D,E, F,E,D,E, G,,E,D,E, F,E,D,E, |
+G,,=B,,D,F, A,F,=E,F, =B,F,DB, A,F,E,F, | G,,C,E,G, CG,_G,=G, z4 CA,G,A, | G,,=A,,_G,z z12 | G,,16- |
+G,,DCD EC=B,C =A,CB,C DB,A,B, | G,=B,=A,B, C_A,G,=A, F,A,G,A, B,G,F,G, | E,z3 z12 | z12z=B,=A,B, |
+CEDE F,DCD E,C=B,C D,B,=A,B, | [C,G,B,]4 z4 [C,F,A,]4 z4 | =B,3D, F,A,G,F, B,F,DF, B,A,G,F, | =E,_DB,G, CA,F,A, G,B,G,E, A,F,D,F, |
+=E,G,E,C, F,D,=B,,D, C,,8- | C,,16 |]
+V:LH2
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | xC,,3- C,,12 | x16 |
+x8x3D, =E,G,B,G, | A,x3 x12 |]
+V:LH3
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x2=B,,2- B,,12 | x16 |
+x8xG,,C,6- | C,16 |]

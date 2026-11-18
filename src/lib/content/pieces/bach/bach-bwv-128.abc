@@ -1,0 +1,22 @@
+X:1
+T:Полонез · BWV Anh. 128
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=72
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:Dm
+V:RH1
+d2d^c d4 d/e/f3 | ede2 A8 | e2ed e4 e/f/g3 | f2fe f2fe d4 |
+f2f/ga/ g2e3/2d/ c4 | g2ga b2a2 b4 | a2gf g4 e4 | f2fe f4 F4 |
+a2ag a4 a/b/c'3 | a2ag a2ag f4 | c2BA d2c2 B2A2 | G2g3/2f/ e8 |
+Gcec Gcec Gced | c2e/fg/ B8 | BABG A8 | A3d/d/ ^c8 |
+d3e f2a2 d'2a2 | gfef d4 D4 |]
+V:LH1
+D,4 F,4 D,4 | A,,4 A,4 E,4 | ^C,4 A,,4 C,4 | D,4 A,,4 D,,4 |
+D,4 E,4 E,4 | C,4 C,4 E,4 | F,4 B,,4 C,4 | F,,12 |
+F,,4 F,4 E,4 | F,4 C,4 F,,4 | A,4 B,4 G,4 | B,4 C4 C,4 |
+C,4 C,4 C,4 | C,4 E,4 D,4 | C,4 F,4 E,4 | D,4 A,4 G,4 |
+F,4 D,4 F,4 | A,4 D,8 |]

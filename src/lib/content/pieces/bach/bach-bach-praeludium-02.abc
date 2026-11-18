@@ -1,0 +1,50 @@
+X:1
+T:Маленькая прелюдия · BWV 926
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=140
+%%score {(RH1 RH2) | LH1}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass
+K:Dm
+V:RH1
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+A4 x8 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x8 [Ad]4 | x4 ^c8 |
+x12 | x12 | x12 | x12 |]
+V:RH2
+D2A2 F2D2 A2F2 | D2A2 F2D2 A2F2 | D2B2 G2D2 B2G2 | D2B2 G2D2 B2G2 |
+^C2G2 E2C2 G2E2 | ^C2B2 G2E2 A2G2 | F2D2 F2A2 F2A2 | d2A2 d2f2 d2f2 |
+=b2f2 e2d2 c2=B2 | A2_A2 _G2E2 d2=B2 | [Ac]4 z8 | [Ac]4 z8 |
+a2_e2 d2c2 B2A2 | G2_G2 E2D2 c2A2 | B2d2 B2G2 g4 | z2d2 c2B2 A2G2 |
+A2c2 A2F2 f4 | z2c2 B2A2 G2F2 | G2B2 A2G2 F2E2 | F2D2 F2A2 d2G2 |
+^c2e2 c2A2 e2c2 | A2e2 ^c2A2 B2A2 | G2e2 ^c2G2 e2c2 | G2e2 ^c2G2 A2G2 |
+F2d2 B2F2 d2B2 | F2d2 B2F2 d2B2 | _G2c2 A2G2 c2A2 | _G2c2 A2G2 c2A2 |
+B2G2 _G2=G2 D2G2 | B2G2 D2B2 G2D2 | _E2G2 _G2=G2 B2G2 | _E2B2 G2E2 B2G2 |
+^C2B2 G2C2 B2G2 | ^C2B2 G2C2 A2G2 | F2A2 F2D2 A2F2 | D2A2 F2D2 ^C2D2 |
+E2G2 E2B,2 G2E2 | B,2G2 E2^C2 A,2G2 | FDCB, z8 | z12 |
+z4zDFA DFAd | fafd fd=Bd _AB=A_A | [Aeg]6a2 f4- | f2e2 e6d2 |
+d2c2 A2d2 B2G2 | c2A2 _G2B2 =G2E2 | A2_G2 D2=G2 E2^C2 | [A,D_G]12 |]
+V:LH1
+D,4 z8 | D,,4 z8 | D,4 z8 | D,,4 z8 |
+D,4 z8 | D,,4 z8 | D,2A,,2 D,2F,2 D,2F,2 | A,2F,2 A,2D2 A,2D2 |
+_A,4 z8 | E,4 _A,4 E,4 | A,2E2 C2A,2 E2C2 | G,2_E2 C2G,2 E2C2 |
+_G,4 z8 | D,4 _G,4 D,4 | G,4 z6F,2 | E,4 z8 |
+F,4 z6E,2 | D,4 z2F,2 E,2D,2 | E,2D,2 ^C,2E,2 D,2C,2 | D,4 C,4 B,,4 |
+A,,4 A,4 A,,4 | A,,4 A,4 A,,4 | A,,4 A,4 A,,4 | A,,4 A,4 A,,4 |
+B,,4 z8 | B,,4 B,4 B,,4 | A,,4 z8 | A,,4 D,4 D,,4 |
+G,,4 z8 | G,,4 G,4 G,,4 | G,,4 z8 | G,,4 G,4 G,,4 |
+A,,4 z8 | A,,4 A,4 A,,4 | A,,4 z8 | A,,4 A,4 A,,4 |
+^C,,4 z8 | ^C,,4 ^C,4 C,4 | D,4 A,G,F,E, F,A,D,F, | A,,D,C,B,, A,,G,,F,,E,, D,,F,,A,,D, |
+F,A,D,F, A,z7 | z12 | ^C,2E,2 C,2A,,2 D,2=B,,2 | G,,2G,2 A,2G,2 A,2G,,2 |
+D,4 D4 D,4 | D,4 z8 | D,,4 D,4 D,,4 | D,,12 |]

@@ -1,0 +1,41 @@
+X:1
+T:Прелюдия № 1 (ХТК I) · BWV 846
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=60
+%%score {(RH1 RH2) | LH1}
+V:RH1 clef=bass stem=up
+V:RH2 clef=bass stem=down
+V:LH1 clef=treble
+K:C
+V:RH1
+xE7 xE7 | xD7 xD7 | xD7 xD7 | xE7 xE7 |
+xE7 xE7 | xD7 xD7 | xD7 xD7 | xC7 xC7 |
+xC7 xC7 | xA,7 xA,7 | xB,7 xB,7 | x_B,7 xB,7 |
+xA,7 xA,7 | x^G,7 xG,7 | xG,7 xG,7 | xF,7 xF,7 |
+xF,7 xF,7 | xD,7 xD,7 | xE,7 xE,7 | xG,7 xG,7 |
+xF,7 xF,7 | xC,7 xC,7 | xF,7 xF,7 | xF,7 xF,7 |
+xE,7 xE,7 | xD,7 xD,7 | xD,7 xD,7 | x^D,7 xD,7 |
+xE,7 xE,7 | xD,7 xD,7 | xD,7 xD,7 | xC,7 xC,7 |
+xC,3- C,12 | xB,,3- B,,12 | x16 |]
+V:RH2
+C8 C8 | C8 C8 | B,8 B,8 | C8 C8 |
+C8 C8 | C8 C8 | B,8 B,8 | B,8 B,8 |
+A,8 A,8 | D,8 D,8 | G,8 G,8 | G,8 G,8 |
+F,8 F,8 | F,8 F,8 | E,8 E,8 | E,8 E,8 |
+D,8 D,8 | G,,8 G,,8 | C,8 C,8 | C,8 C,8 |
+F,,8 F,,8 | ^F,,8 F,,8 | ^G,,8 G,,8 | G,,8 G,,8 |
+G,,8 G,,8 | G,,8 G,,8 | G,,8 G,,8 | G,,8 G,,8 |
+G,,8 G,,8 | G,,8 G,,8 | G,,8 G,,8 | C,,8 C,,8 |
+C,,16 | C,,16 | [C,,C,]16 |]
+V:LH1
+z2Gc eGce z2Gc eGce | z2Ad fAdf z2Ad fAdf | z2Gd fGdf z2Gd fGdf | z2Gc eGce z2Gc eGce |
+z2Ae aAea z2Ae aAea | z2^FA dFAd z2FA dFAd | z2Gd gGdg z2Gd gGdg | z2EG cEGc z2EG cEGc |
+z2EG cEGc z2EG cEGc | z2D^F cDFc z2DF cDFc | z2DG BDGB z2DG BDGB | z2EG ^cEGc z2EG cEGc |
+z2DA dDAd z2DA dDAd | z2DF BDFB z2DF BDFB | z2CG cCGc z2CG cCGc | z2A,C FA,CF z2A,C FA,CF |
+z2A,C FA,CF z2A,C FA,CF | z2G,B, FG,B,F z2G,B, FG,B,F | z2G,C EG,CE z2G,C EG,CE | z2_B,C EB,CE z2B,C EB,CE |
+z2A,C EA,CE z2A,C EA,CE | z2A,C ^DA,CD z2A,C DA,CD | z2B,C DB,CD z2B,C DB,CD | z2G,B, DG,B,D z2G,B, DG,B,D |
+z2G,C EG,CE z2G,C EG,CE | z2G,C FG,CF z2G,C FG,CF | z2G,B, FG,B,F z2G,B, FG,B,F | z2A,C ^FA,CF z2A,C FA,CF |
+z2G,C GG,CG z2G,C GG,CG | z2G,C FG,CF z2G,C FG,CF | z2G,B, FG,B,F z2G,B, FG,B,F | z2G,_B, EG,B,E z2G,B, EG,B,E |
+z2F,A, CFCA, CA,F,A, F,D,F,D, | z2GB dfdB dBGB DFED | [EGc]16 |]

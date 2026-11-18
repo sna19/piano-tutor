@@ -1,0 +1,32 @@
+X:1
+T:Applicatio (аппликатурное упражнение) · BWV 994
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=85
+%%score {(RH1 RH2 RH3) | (LH1 LH2 LH3)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:RH3 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+V:LH3 clef=bass stem=down
+K:C
+V:RH1
+x16 | x16 | x16 | x4 d2c2 x8 |
+x16 | x12 A2B2 | x16 | x16 |]
+V:RH2
+C2D2 E2F2 G2A2 B2G2 | c2d2 e2f2 g4 G4 | [ce]8 [Bd]8 | ^F8 [FAc]2[GB]6 |
+g2f2 e2d2 c2B2 A2a2 | a6^g2 a8 | [Ec]2[_Bc]2 [Ac]2[Gc]2 [Ac]2[Gc]2 [Fc]2[Ec]2 | [Dc]6B2 c8 |]
+V:RH3
+x16 | x16 | x4 G4 x4 G4 | x2A6 x4 D4 |
+x16 | x16 | x16 | x6F4ED E4 |]
+V:LH1
+[C,E,]8 [B,,D,]8 | [A,,C,]8 [G,,B,,]8 | C,2D,2 E,2F,2 G,2A,2 B,2C2 | D4 D,4 G,8 |
+[G,B,]8 [A,C]8 | D8-D2CB, C2D2 | A,2G,2 F,2E,2 F,2G,2 A,2G,2 | F,2D,2 G,2G,,2 C,8 |]
+V:LH2
+x16 | x16 | x16 | x12 G,,4 |
+x16 | B,8 A,8 | x16 | x16 |]
+V:LH3
+x16 | x16 | x16 | x16 |
+x16 | x4 E,4 x8 | x16 | x12 C,,4 |]

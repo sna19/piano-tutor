@@ -1,0 +1,52 @@
+X:1
+T:Синфония № 10 · BWV 796
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=70
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:G
+V:RH1
+z2G3FGA BcdB | edcB AGFE DcBA | B4-B[^CA][DB][E^c] d4- | d8 ^c4 |
+d4-d[E^c][Fd][Ge] [Af][Bg][=ca][Af] | bagf edcB c4- | ccBA B4-BABG | c8 f4- |
+f2d2 z2G2 e4- | e2c2 z2F2 ^d4 | e4 E^DEF e4- | e4 d2c2 d4- |
+ddcB A^GAB cdec | =fedc BA^GF EdcB | A^GAB cdef gabg | c'bag fe^d^c Bagf |
+bagf ed^cB Agfe | agfe d^cBA Gfed | gfed ^cB^A^G Fedc | fed^c B8- |
+B8 ^A4 | B6[ce]2 [Bd]2[Ac]2 | B2=f2 e2d2 c2B2 | c6[Bd]2 [Ac]2[GB]2 |
+A2e2 d2c2 B2A2 | B4 GFGA g4- | g4-g[Gb][Fa][Eg] f4 | =f4-f[=Fa][Eg][Df] e4- |
+e4-e[Eg][Df][Ce] d4- | d4-d[D=f][Ce][B,d] c4- | ccBA GFGA BcdB | edcB AzFE F4 |
+[GB]12 |]
+V:RH2
+x12 | x12 | x2D3x3 FGAF | BAGF ED^CB, A,GFE |
+FA,B,^C Dx7 | d2B2 G2E2 Agfe | d4-ddef g4- | g2e2 x2A2 cedc |
+B8 BdcB | A8 AcBA | GAGF x4 GABG | cBAG FEDC B,A^GF |
+E12 | D12 | C2B,2 A,2C2 B,2E2- | E2C2 x8 |
+x12 | x12 | x12 | x7^C DEFD |
+GFED ^Cx4EDC | DF^G^A x8 | ^G12 | xEF^G A2x6 |
+F12 | xDEF x4 BcdB | edcB Ax3 DcBA | dcBA Gx3 CBAG |
+cBAG Fx3 B,AGF | BAGF Ex3 A,GFE | D4 x4 G4- | G8 DcBA |
+x12 |]
+V:LH1
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x6F,2 A,CB,A, |
+G,8 G,B,A,G, | F,8 F,A,G,F, | E,8 E,G,F,E, | D,4 G,4 x4 |
+x4xB,^A,^G, F,,4 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 |]
+V:LH2
+G,,4 B,,4 G,,4 | C,4 D,4 D,,4 | G,,4 G,4 F,4 | G,4 A,4 A,,4 |
+D,4 z8 | z12 | z2G,3F,G,A, B,CDB, | EDCB, A,G,F,E, D,CB,A, |
+DCB,A, G,F,E,D, C,B,A,G, | CB,A,G, F,E,^D,^C, B,,A,G,F, | E,3^D, E,F,G,A, B,2E,2 | A,2F,2 B,6A,2 |
+^G,2A,B, C2B,2 A,2C2- | C2B,A, ^G,2B,2 G,2E,2 | F,2^G,2 A,2^D,2 E,2=G,2 | A,8 ^D4- |
+^D2B,2 z2E,2 ^C4- | ^C2A,2 z2D,2 B,4- | B,2G,2 z2^C,2 ^A,4 | B,4-B,^A,B,z F,4 |
+E,4 F,4 F,z3 | B,,4-B,,A,,B,,C, D,E,=F,C, | D,E,D,C, B,,A,,^G,,F,, E,,D,C,B,, | A,,4-A,,G,,A,,B,, C,D,E,B,, |
+C,D,C,B,, A,,G,,F,,E,, D,,C,B,,A,, | G,,2B,,2 D,2F,2 G,2B,2 | C2A,2 D4-DEDC | B,2G,2 C4-CDCB, |
+A,2F,2 B,4-B,CB,A, | G,2E,2 A,4-A,B,A,G, | F,E,D,C, B,,A,,G,,F,, G,,A,,B,,G,, | C,A,,B,,C, D,2C,2 D,2D,,2 |
+G,,12 |]

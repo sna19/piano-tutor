@@ -1,0 +1,52 @@
+X:1
+T:Гольдберг-вариации: вариация 6 · BWV 988
+C:И. С. Бах
+M:3/8
+L:1/16
+Q:1/4=60
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:G
+V:RH1
+g6 | a6 | a2gfed | c6 |
+c2BAGF | E6 | E2DCB,A, | B,6 |
+B,zG4 | G2A4 | A2G[FA]^A2- | ^A2=A[GB]c2 |
+c2BAGF | E6 | ED^CEDC | DCz4 |
+g6 | D6 | a6- | a2gfed |
+^c2agfe | ^d2=d4 | d2cBAG | F6 |
+[^DF][^CE]DFED | EDCz3 | C6- | CA,B,G,B,D- |
+DB,CA,CE- | E^CDB,DF | G4-GG | A6- |
+A[EG][DF][CA]GF | GFEDCz | a6 | G6 |]
+V:RH2
+x6 | g2fedc | B6 | B2AGFE |
+D6 | D2x4 | x6 | x6 |
+x6 | x2FEDC | xDx2ED | ^CEx2FE |
+D6 | Dx4x | x6 | x6 |
+x6 | x6 | x6 | b6- |
+b2c4- | c2BA^GF | E6- | E^D^CEDC |
+x6 | x6 | x6 | D4-Dx |
+E4-Ex | F4-Fx | F^DECEx | GFEGFE |
+Fx4x | x6 | x6 | x6 |]
+V:LH1
+G,,F,,G,,A,,B,,G,, | D,C,D,E,F,D, | G,F,E,F,G,E, | A,G,F,G,A,F, |
+B,A,G,A,B,G, | CB,[A,C][G,B,][F,A,][E,G,] | A,6 | [G,A,][E,G,][D,B,][C,A,][B,,G,][A,,F,] |
+G,2[E,C][D,B,][C,A,][B,,G,] | A,2D,E,F,D, | [G,B,]F,E,F,G,E, | A,G,F,G,A,F, |
+B,A,G,A,B,A, | ^G,2B,D^CB, | ^CB,A,G,F,E, | [D,,F,]2[D,B,][C,A,][B,,G,][A,,F,] |
+G,2G,,A,,B,,G,, | F,6 | D,^C,D,E,F,D, | G,F,E,F,G,E, |
+A,G,F,G,A,F, | B,A,^G,A,B,G, | CB,A,B,CB, | ^A,2^A,,2z2 |
+B,,2B,A,G,F, | [E,,G,]2E,[D,B,][C,A,][B,,^G,] | A,2E,G,F,E, | F,2G,,2z2 |
+G,2A,,2z2 | A,2B,,2z2 | B,2C,2z2 | ^C,2^C,,2C,2 |
+D,2D,,2B,A, | [G,,G,]2G,F,E,[G,B,] | A,2D,E,F,D, | B,6 |]
+V:LH2
+x6 | x6 | x6 | x6 |
+x6 | x6 | F,E,F,D,E,F, | x6 |
+G,,[F,A,]x4 | ^C,A,,x4 | x6 | x6 |
+x6 | x^C^G,,2x2 | A,,2A,,,2x2 | x6 |
+G,,F,,x4 | D,,2G,,2B,,2 | x6 | x6 |
+x6 | x6 | x6 | x6 |
+x2B,,,2x2 | x6 | A,,C,x4 | x6 |
+x6 | x6 | x6 | x6 |
+x4D,2 | x6 | F,E,x4 | G,,2D,2G,2 |]

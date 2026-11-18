@@ -1,0 +1,36 @@
+X:1
+T:Прелюдия № 16 (ХТК I) · BWV 861
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=27
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Gm
+V:RH1
+g16- | gde/d/c dgc/B/A Bgc/B/A BgA/G/^F | G16- | G=eB/A/G AeG/^F/=E F3G FAd/c/B |
+ced/c/B cac/B/A Bdc/B/A BgB/A/G | AFB/c/d cFd/e/f ecg/a/b a/b/c'f/g/e | d2gb fbeb fbgb fbea | b12 f4- |
+fg/f/e/f/d e4-ef/e/d/e/c d4- | de/d/c/d/=B c4-cd/c/B/c/A B4 | E2_Ac GcFc GcAc GcF=B | c4 e4-ea/g/^f/g/a de3 |
+[Bd]2[^Fc]2 B4-Be/d/c/d/e _Ac/B/A/B/c | ^F4 D4 c4 B4 | A4 G4 [D^F]4 zgf/e/d | ec'd/c/B caB/A/G Ae/d/c/B/A B4- |
+Bc/B/_A/c/^F G8 F4 | B,2F/E/D [CE]2[=B,D]2 C8- | C4-CD/E/D/E/C2C/=B,/A,/B,/C B,4 |]
+V:RH2
+x16 | x16 | x16 | x16 |
+x16 | x16 | xbe2 d2c2 d2e2 d2c2 | d2e2 f2g2 d2e3d=Bd |
+G4-Gc/B/_A/B/c F4-FB/A/G/A/B | E4-E_A/G/F/G/A D4-DE/F/E/F/D | xcF2 E2D2 E2F2 E2D2 | E2G4c2- c4-c3/2c/A/B/c |
+x4 G2D2 E8- | E4 xG/A/B/A/G x^F/G/A/G/F x=E/F/G/F/E | xD/=E/^F/E/D x_D/=D/E/D/_D x8 | x12xA/G/F/E/D |
+E4 =E4 xA,/B,/C/B,/A, xC/D/_E/D/C | xD/G/=B,2 x4xG/c/B/A/G Ac/A/G/^F/=E | ^F8 G8 |]
+V:LH1
+B,DCE B,DA,C B,DCE B,DA,C | B,2C2 B,2E2 D2E2 D2C2 | B,CD3C2B,2A,2B,2C2B, | A,2G,2 =E,2A,3CB,3A,2G,- |
+G,2G,2 ^F,4 G,,6C,2 | F,2G,2 A,2B,2 C2B,2 C2A,2 | B,16- | B,B,,C,/D,/E, D,B,,E,/F,/G, F,B,,G,/_A,/B, A,/B,/A,G,/A,/F, |
+=B,2G,2 C2_B,2 _A,2F,2 B,2A,2 | G,2E,2 _A,2G,2 F,2D,2 G,2G,,2 | C,16- | C,G,,/F,,/E,,/F,,/G, C,,C/B,/A,/B,/C ^F,8 |
+G,D,/C,/B,,/C,/D, G,,G,/F,/E,/F,/G, C,8 | D,A,/B,/C/B,/A, B,2D,2 A,2D,2 G,2D,2 | ^F,2D,2 =E,2D,2 C,A,/G,/F,/G,/A, B,,2=B,,2 | C,A,B,,G, A,,^F,G,,E, ^F,,2D,,2 G,,2G,2 |
+C,4 B,4 D,8 | G,,16- | G,,4 G,,12 |]
+V:LH2
+G,2G,2 G,2G,2 G,2G,2 G,2G,2 | G,16- | G,3F, E,2D,2 C,2D,2 E,2D,2 | _D,8 =D,3D, C,2B,,2 |
+A,,6D,2 x2D,2 =E,4 | F,,4 x12 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x2C2 x_D,/=D,/=E,/D,/_D, x4 D,,4 | x4xC,/G,/F,/E,/D, E,8- | E,E,/D,/C,/D,/E,- E,4 D,8 |]

@@ -1,0 +1,26 @@
+X:1
+T:Инвенция № 2 · BWV 773
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=64
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=treble
+K:Cm
+V:RH1
+z2c=B cdeG A_BAF fedc | =Bagf edcB cdcd d3c/d/ | edcd efg2 g2f2 z2f2 | f2e2 z2d2 e2A3FBF |
+G2e3deB ceag fedc | Bdgf edcB Acfc d3d | eBcB g4-gBcB a4- | aBed gfag c'bag fbab |
+gbab egfg cdef defg | efga bac'b agfa d4- | ddgd ecdB c4-cg_g=a | cBc3_g=ed b3e g3=g |
+g2G_G =G=ABD EFEC cBAG | _Gedc B=A=G_G =GAGA A3G/A/ | B=AGA Bcd2 d2c2 z2c2 | c2B2 z2=A2 B2E3CFC |
+D2B3=ABF GBed cBAG | F=Adc BAGF EGcG A3A | BFGF d4-dFGF e4- | eFB=A dced gfed cfef |
+dcB=A dced cBAc f4- | fGc=B edfe agfe dgfg | edc=B cdeG A_BAF fedc | =Bagf edcB cdcd d3c/d/ |
+edcd efg2 g2f2 z2f2 | f2ed gfag g3a d3c | c16 |]
+V:LH1
+z16 | z16 | z2C=B, CDEG, A,_B,A,F, FEDC | =B,AGF EDCB, CDCD D3C/D/ |
+EDCD EFG2 G2F2 z2F2 | F2E2 z2D2 E2A,3F,B,F, | G,2E3DEB, CEAG FEDC | B,DGF EDCB, A,CFC D3D |
+EB,CB, G4-GB,CB, A4- | AB,ED GFAG cBAG FBAB | G2E,F, G,=A,B,D, E,F,E,C, CB,A,G, | _G,EDC B,=A,=G,_G, =G,A,G,A, A,3G,/A,/ |
+B,=A,G,A, B,CD2 D2C2 z2C2 | C2B,2 z2=A,2 B,2E,3C,F,C, | D,2B,3=A,B,F, G,B,ED CB,A,G, | F,=A,DC B,A,G,F, E,G,CG, A,3A, |
+B,F,G,F, D4-DF,G,F, E4- | EF,B,=A, DCED GFED CFEF | DFEF B,DCD G,=A,B,C A,B,CD | B,CDE FEGF EDCE =A,4- |
+=A,D,G,_G, B,A,CB, EDCB, A,DCD | =B,FED C_B,A,G, F,E,D,C, G,2G,,2 | C,3D, E,F,G,2 G,2F,2 z2F,2 | F,2E,3F,E,D, C,B,,A,,G,, F,,E,,F,,G,, |
+C,,2C,=B,, C,D,E,G,, A,,_B,,A,,F,, F,E,D,C, | =B,,A,G,F, E,D,C,B,, C,G,,A,,F,, G,,2G,,2 | C,,16 |]

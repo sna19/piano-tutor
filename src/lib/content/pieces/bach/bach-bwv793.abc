@@ -1,0 +1,60 @@
+X:1
+T:Синфония № 7 · BWV 793
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=80
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Em
+V:RH1
+z2B2 e2f2 g4- | g2f2 a2g2 f2e2 | ^d^cBc [B=d]2[ce]2 [df]4- | [df]2[^ce]2 [eg]2[df]2 [ce]2[Bd]2 |
+^c2c2 [Af]2[Bg]2 [=ca]4- | [ca]2[Af]2 [ca]2[Bg]2 [Af]2[Ge]2 | ^d2f2 g2[Ba]2 [eb]2[=dg]2 | [^ce]6[ce]2 [^df]2[eg]2 |
+a4 g8- | g2e2 g2[df]2 [^ce]2[Bd]2 | [^A^c]6[Bd]2 [ce]2[df]2 | g4 f2e2 d4- |
+d2^c2 e2d2 c2B2 | B4 E2F2 G4- | G2F2 A2G2 F2E2 | ^D4 B2[F^c]2 d4- |
+d2^c2 e2[Fd]2 [Gc]2[EB]2 | ^Afed ^cfcB AcA^G | F4 DFD^C f4- | fbgf eged ^cgcB |
+A4 ^CECB, e4- | eafe dfd^c BfBA | G12- | G12 |
+[DF]2A2 d2e2 f4- | f2e2 g2f2 e2d2 | ^ceag fafe dadc | Bdgf eged ^cgcB |
+A8-AAGF | GE^AB ^cFcd efge | fgfe dfd^c B=fBA | ^GFGA BGBc dGde |
+=fbed cecB AeAG | FEFG AFAB cFcd | ^dad=d c^dc^A =AcAG | FE^DE FDFG ADAB |
+c2B2 e2f2 g4- | g2[df]2 [ca]2[Bg]2 [Af]2[Ge]2 | ^d4 =d8- | d2^G2 [FA]2[GB]2 c4- |
+c2[Be]2 [ca]2[eb]2 c'4- | c'bag fa^de f4- | fb^de e4 [Ad]4 | [^Ge]12 |]
+V:RH2
+x12 | x12 | x2F2 x8 | x12 |
+^A^GFG x8 | x12 | F4 x8 | x12 |
+f6B2 e2d2 | ^c6x6 | x12 | e2d2 ^c6F2 |
+B8 ^A4 | x2B,2 x8 | x12 | x2F2 x4 BAGF |
+E6x6 | ^C2F,2 C2D2 E4- | EGxE x4 B,FB,A, | G,4 x4 G4- |
+GGED x4 A,EA,G, | x8 F4- | F2ED ^CECB, A,2B,2 | ^C2A,B, C2E2 A,2C2 |
+x12 | x3D EA,EF GABG | A12 | G12- |
+GGFE DFD^C B,4- | B,2x2 x8 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x8x2B2 | e2x2 x8 | F2c2 B2A2 ^G2B2 | E4 x4 A2E2 |
+A2x6 a2g2 | f4 x4xcBA | G4 F2G2 x4 | x12 |]
+V:LH1
+E,2E,,2 z2B,2 E2D2 | C6B,2 A,2C2 | B,6A,2 G,2F,2 | E,6F,2 G,2E,2 |
+F,4-F,G,A,G, F,E,^D,E, | ^D,4 z2E,2 C,2A,,2 | B,,2B,2 E2F2 G4- | G2F2 A2G2 F2E2 |
+^D2B,2 E2=D2 ^C2B,2 | ^A,6B,2 ^C2D2 | EDEF G2F2 E2D2 | ^C2B,2 ^A,2F,2 B,2=A,2 |
+G,2E,2 F,4 F,,4 | B,,F,B,A, G,B,G,F, E,B,E,D, | C,G,E,D, C,E,C,B,, A,,B,,C,A,, | B,,G,F,E, D,F,D,^C, B,,F,B,,A,, |
+G,,D,B,,A,, G,,B,,G,,F,, E,,F,,G,,E,, | F,,2F,2 ^A,2B,2 ^C2F,2 | B,4 z2B,,2 ^C,2D,2 | E,4 z2F,2 E,2D,2 |
+^C,4 z2A,,2 B,,2C,2 | [D,F,]4 z2E,2 D,2^C,2 | B,,B,G,F, E,G,E,D, ^C,G,C,B,, | A,,E,^C,B,, A,,C,A,,G,, F,,C,F,,E,, |
+D,,2D,E, F,D,F,G, A,D,A,B, | ^CA,Cz z8 | z2A,,2 D,2E,2 F,4- | F,2E,2 G,2F,2 E,2D,2 |
+^C,2F,,2 B,,2C,2 D,4- | D,2^C,2 E,2D,2 C,2B,,2 | ^A,,4 B,2^C2 D4- | D2[D,B,]2 [=F,D]2[E,C]2 [D,B,]2[C,A,]2 |
+[B,,^G,]2[^G,,E,]2 A,2B,2 C4- | C2[C,A,]2 [E,C]2[D,B,]2 [C,A,]2[A,,G,]2 | F,6[E,G,]2 [F,A,]4- | [F,A,]2[E,G,]2 [A,C]2[G,B,]2 [F,A,]2[E,G,]2 |
+[^D,F,]4 z2B,,2 E,2=D,2 | C,12- | C,CB,A, ^G,B,G,F, E,B,E,D, | C,=F,E,D, C,E,C,B,, A,,E,A,,G,, |
+F,,D,C,B,, A,,C,A,,G,, F,,C,F,,E,, | ^D,,4 z8 | E,,4 B,,8 | E,,12 |]
+V:LH2
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x2F,2 B,,4 x2D,2 | E,2x2 x8 |
+x4 A,,4 x2C,2 | D,2x2 x8 | D,2A,,2 D,2x6 | x12 |
+x12 | x12 | x12 | x12 |
+x12 | x12 | x12 | x12 |]

@@ -1,0 +1,3683 @@
+[
+	{
+		"id": "bach-anna-magdalena-03",
+		"title": "Менуэт",
+		"original": "Menuet",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 113",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "F",
+		"meter": "3/4",
+		"tempo": 120,
+		"bars": 32,
+		"notes": 259,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh113/anna-magdalena-03/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-anna-magdalena-04",
+		"title": "Менуэт",
+		"original": "Menuet",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 114",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 140,
+		"bars": 32,
+		"notes": 204,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh114/anna-magdalena-04/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-anna-magdalena-05",
+		"title": "Менуэт",
+		"original": "Menuet",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 115",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "Gm",
+		"meter": "3/4",
+		"tempo": 140,
+		"bars": 32,
+		"notes": 199,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh115/anna-magdalena-05/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-anna-magdalena-07",
+		"title": "Менуэт",
+		"original": "Menuet",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 116",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 125,
+		"bars": 40,
+		"notes": 310,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh116/anna-magdalena-07/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bwv-117a",
+		"title": "Полонез",
+		"original": "Polonaise in F major",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 117a",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "F",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 16,
+		"notes": 228,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV117a/BWV-117a/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-117b",
+		"title": "Полонез",
+		"original": "Polonaise in F major",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 117b",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "F",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 16,
+		"notes": 235,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh117b/BWV-117b/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-118",
+		"title": "Менуэт",
+		"original": "Minuet in B-flat major",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 118",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "Bb",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 26,
+		"notes": 225,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh118/BWV-118/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-121",
+		"title": "Менуэт",
+		"original": "Minuet in C minor",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 121",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "Cm",
+		"meter": "3/4",
+		"tempo": 108,
+		"bars": 24,
+		"notes": 149,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh121/BWV-121/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-air",
+		"title": "Ария",
+		"original": "Air",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 131",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 2,
+		"key": "F",
+		"meter": "4/4",
+		"tempo": 128,
+		"bars": 16,
+		"notes": 97,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh131/air/",
+			"license": "Creative Commons Attribution-ShareAlike 2.5",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bach-applicatio",
+		"title": "Applicatio (аппликатурное упражнение)",
+		"original": "Applicatio",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 994",
+		"collection": "Нотная тетрадь Вильгельма Фридемана Баха",
+		"style": "classical",
+		"level": 2,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 85,
+		"bars": 8,
+		"notes": 113,
+		"voices": 6,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV994/bach-applicatio/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-prelude-bwv924a",
+		"title": "Маленькая прелюдия",
+		"original": "Prelude",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 924a",
+		"collection": "Маленькие прелюдии",
+		"style": "classical",
+		"level": 3,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 72,
+		"bars": 14,
+		"notes": 228,
+		"voices": 5,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV924a/bach-prelude-bwv924a/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-anna-magdalena-20a",
+		"title": "Ария",
+		"original": "Aria",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 515",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 3,
+		"key": "Dm",
+		"meter": "3/4",
+		"tempo": 105,
+		"bars": 16,
+		"notes": 97,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV515/anna-magdalena-20a/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bwv-516",
+		"title": "Ария",
+		"original": "Aria “Warum betrübst du dich”",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 516",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 3,
+		"key": "Fm",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 17,
+		"notes": 131,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV516/BWV-516/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-119",
+		"title": "Полонез",
+		"original": "Polonaise in G minor",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 119",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 3,
+		"key": "Bb",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 16,
+		"notes": 148,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh119/BWV-119/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-anna-magdalena-22",
+		"title": "Мюзет",
+		"original": "Musette",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 126",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 3,
+		"key": "D",
+		"meter": "2/4",
+		"tempo": 120,
+		"bars": 20,
+		"notes": 171,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh126/anna-magdalena-22/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bwv-127",
+		"title": "Марш",
+		"original": "March in E-flat major",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 127",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 3,
+		"key": "Eb",
+		"meter": "2/2",
+		"tempo": 96,
+		"bars": 29,
+		"notes": 357,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh127/BWV-127/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-128",
+		"title": "Полонез",
+		"original": "Polonaise in D minor",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 128",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 3,
+		"key": "Dm",
+		"meter": "3/4",
+		"tempo": 72,
+		"bars": 18,
+		"notes": 163,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh128/BWV-128/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-691",
+		"title": "Chorale prelude “Wer nur den lieben Gott läßt walten”",
+		"original": "Chorale prelude “Wer nur den lieben Gott läßt walten”",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV Anh. 691",
+		"collection": "Нотная тетрадь Анны Магдалены Бах",
+		"style": "classical",
+		"level": 3,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 10,
+		"notes": 179,
+		"voices": 5,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWVAnh691/BWV-691/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-259",
+		"title": "Ach, was soll ich Sünder machen",
+		"original": "Ach, was soll ich Sünder machen",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 259",
+		"collection": "Хоралы",
+		"style": "classical",
+		"level": 3,
+		"key": "G",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 12,
+		"notes": 228,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV259/bwv-259/",
+			"license": "Creative Commons Attribution-ShareAlike 4.0",
+			"edition": "Johann Philipp Kirnberger, Carl Philipp Emanuel Bach"
+		}
+	},
+	{
+		"id": "bach-bwv-269",
+		"title": "Aus meines Herzens Grunde (Chorale 1)",
+		"original": "Aus meines Herzens Grunde (Chorale 1)",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 269",
+		"collection": "Хоралы",
+		"style": "classical",
+		"level": 3,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 72,
+		"bars": 22,
+		"notes": 222,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV269/bwv_269/",
+			"license": "Public Domain",
+			"edition": "Editions de J.P Kimberger - C.P.E Bach"
+		}
+	},
+	{
+		"id": "bach-bwv347",
+		"title": "Ich dank dir, lieber Herre",
+		"original": "Ich dank dir, lieber Herre",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 347",
+		"collection": "Хоралы",
+		"style": "classical",
+		"level": 3,
+		"key": "A",
+		"meter": "4/4",
+		"tempo": 72,
+		"bars": 14,
+		"notes": 225,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV347/bwv347/",
+			"license": "Public Domain",
+			"edition": "Editions de J.P Kimberger - C.P.E Bach"
+		}
+	},
+	{
+		"id": "bach-bwv-510",
+		"title": "Chorale setting \"Gib dich zufrieden und sei stille\" in F major",
+		"original": "Chorale setting \"Gib dich zufrieden und sei stille\" in F major",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 510",
+		"collection": "Хоралы",
+		"style": "classical",
+		"level": 3,
+		"key": "F",
+		"meter": "2/2",
+		"tempo": 240,
+		"bars": 24,
+		"notes": 107,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV510/BWV-510/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-511",
+		"title": "Chorale setting \"Gib dich zufrieden und sei stille\" in D minor",
+		"original": "Chorale setting \"Gib dich zufrieden und sei stille\" in D minor",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 511",
+		"collection": "Хоралы",
+		"style": "classical",
+		"level": 3,
+		"key": "Dm",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 11,
+		"notes": 125,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV511/BWV-511/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bwv-512",
+		"title": "Chorale setting \"Gib dich zufrieden und sei stille\" in E minor",
+		"original": "Chorale setting \"Gib dich zufrieden und sei stille\" in E minor",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 512",
+		"collection": "Хоралы",
+		"style": "classical",
+		"level": 3,
+		"key": "Em",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 11,
+		"notes": 135,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV512/BWV-512/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Ausgabe 1851-1899 Band 43 (1894)"
+		}
+	},
+	{
+		"id": "bach-bach-praeludium-02",
+		"title": "Маленькая прелюдия",
+		"original": "Praeludium 2",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 926",
+		"collection": "Маленькие прелюдии",
+		"style": "classical",
+		"level": 4,
+		"key": "Dm",
+		"meter": "3/4",
+		"tempo": 140,
+		"bars": 48,
+		"notes": 414,
+		"voices": 3,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV926/bach-praeludium-02/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-praeludium-10",
+		"title": "Маленькая прелюдия",
+		"original": "Praeludium 10",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 928",
+		"collection": "Маленькие прелюдии",
+		"style": "classical",
+		"level": 4,
+		"key": "F",
+		"meter": "4/4",
+		"tempo": 85,
+		"bars": 24,
+		"notes": 653,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV928/bach-praeludium-10/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-prelude-9",
+		"title": "Маленькая прелюдия",
+		"original": "Petite Prélude No. 9",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 928",
+		"collection": "Маленькие прелюдии",
+		"style": "classical",
+		"level": 4,
+		"key": "F",
+		"meter": "4/4",
+		"tempo": 69,
+		"bars": 24,
+		"notes": 656,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV928/prelude_9/",
+			"license": "Public Domain",
+			"edition": "Edition Peters Nr. 200a"
+		}
+	},
+	{
+		"id": "bach-wtk1-prelude1",
+		"title": "Прелюдия № 1 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 846",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 4,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 35,
+		"notes": 549,
+		"voices": 3,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-prelude1/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bach-english-suite-1-bourree-1",
+		"title": "Бурре I",
+		"original": "English Suite I: Bourree I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 806",
+		"collection": "Английские сюиты",
+		"style": "classical",
+		"level": 5,
+		"key": "A",
+		"meter": "2/2",
+		"tempo": 184,
+		"bars": 51,
+		"notes": 574,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV806/bach-english-suite-1-bourree-1/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-english-suite-1-bourree-2",
+		"title": "Бурре II",
+		"original": "English Suite I: Bourree II",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 806",
+		"collection": "Английские сюиты",
+		"style": "classical",
+		"level": 5,
+		"key": "Am",
+		"meter": "2/2",
+		"tempo": 184,
+		"bars": 37,
+		"notes": 434,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV806/bach-english-suite-1-bourree-2/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-english-suite-2-bourree-1",
+		"title": "Бурре I",
+		"original": "English Suite II: Bourree I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 807",
+		"collection": "Английские сюиты",
+		"style": "classical",
+		"level": 5,
+		"key": "Am",
+		"meter": "2/2",
+		"tempo": 184,
+		"bars": 58,
+		"notes": 714,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV807/bach-english-suite-2-bourree-1/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-english-suite-2-bourree-2",
+		"title": "Бурре II",
+		"original": "English Suite II: Bourree II",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 807",
+		"collection": "Английские сюиты",
+		"style": "classical",
+		"level": 5,
+		"key": "A",
+		"meter": "2/2",
+		"tempo": 184,
+		"bars": 25,
+		"notes": 297,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV807/bach-english-suite-2-bourree-2/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-01",
+		"title": "Инвенция № 1",
+		"original": "Invention 1",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 772",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 80,
+		"bars": 22,
+		"notes": 458,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV772/bach-invention-01/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-02",
+		"title": "Инвенция № 2",
+		"original": "Invention 2",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 773",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Cm",
+		"meter": "4/4",
+		"tempo": 64,
+		"bars": 27,
+		"notes": 634,
+		"voices": 2,
+		"remarks": [
+			"черновик: 2 нот из 634 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV773/bach-invention-02/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-03",
+		"title": "Инвенция № 3",
+		"original": "Invention 3",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 774",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "D",
+		"meter": "3/8",
+		"tempo": 80,
+		"bars": 60,
+		"notes": 495,
+		"voices": 2,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV774/bach-invention-03/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-04",
+		"title": "Инвенция № 4",
+		"original": "Invention 4",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 775",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Dm",
+		"meter": "3/8",
+		"tempo": 90,
+		"bars": 52,
+		"notes": 443,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV775/bach-invention-04/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-05",
+		"title": "Инвенция № 5",
+		"original": "Invention 5",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 776",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Eb",
+		"meter": "4/4",
+		"tempo": 105,
+		"bars": 32,
+		"notes": 733,
+		"voices": 2,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV776/bach-invention-05/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-06",
+		"title": "Инвенция № 6",
+		"original": "Invention 6",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 777",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "E",
+		"meter": "3/8",
+		"tempo": 40,
+		"bars": 62,
+		"notes": 547,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV777/bach-invention-06/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-07",
+		"title": "Инвенция № 7",
+		"original": "Invention 7",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 778",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Em",
+		"meter": "4/4",
+		"tempo": 90,
+		"bars": 23,
+		"notes": 473,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV778/bach-invention-07/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-08",
+		"title": "Инвенция № 8",
+		"original": "Invention 8",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 779",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "F",
+		"meter": "3/4",
+		"tempo": 90,
+		"bars": 34,
+		"notes": 598,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV779/bach-invention-08/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-09",
+		"title": "Инвенция № 9",
+		"original": "Invention 9",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 780",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Fm",
+		"meter": "3/4",
+		"tempo": 94,
+		"bars": 34,
+		"notes": 558,
+		"voices": 2,
+		"remarks": [
+			"черновик: 5 нот из 558 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV780/bach-invention-09/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-10",
+		"title": "Инвенция № 10",
+		"original": "Invention 10",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 781",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "G",
+		"meter": "9/8",
+		"tempo": 172,
+		"bars": 32,
+		"notes": 439,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV781/bach-invention-10/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-11",
+		"title": "Инвенция № 11",
+		"original": "Invention 11",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 782",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Gm",
+		"meter": "4/4",
+		"tempo": 85,
+		"bars": 23,
+		"notes": 568,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV782/bach-invention-11/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-12",
+		"title": "Инвенция № 12",
+		"original": "Invention 12",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 783",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "A",
+		"meter": "12/8",
+		"tempo": 108,
+		"bars": 21,
+		"notes": 685,
+		"voices": 3,
+		"remarks": [
+			"черновик: 1 нот из 685 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV783/bach-invention-12/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-13",
+		"title": "Инвенция № 13",
+		"original": "Invention 13",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 784",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 100,
+		"bars": 25,
+		"notes": 564,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV784/bach-invention-13/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-14",
+		"title": "Инвенция № 14",
+		"original": "Invention 14",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 785",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Bb",
+		"meter": "4/4",
+		"tempo": 65,
+		"bars": 20,
+		"notes": 592,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV785/bach-invention-14/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bach-invention-15",
+		"title": "Инвенция № 15",
+		"original": "Invention 15",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 786",
+		"collection": "Двухголосные инвенции",
+		"style": "classical",
+		"level": 5,
+		"key": "Bm",
+		"meter": "4/4",
+		"tempo": 105,
+		"bars": 22,
+		"notes": 477,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV786/bach-invention-15/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bwv-988-aria",
+		"title": "Гольдберг-вариации: Ария",
+		"original": "Goldberg Variations - Aria",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 6,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 400,
+		"voices": 5,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-aria/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bwv-454",
+		"title": "Ermuntre dich, mein schwacher Geist",
+		"original": "Ermuntre dich, mein schwacher Geist",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "Schmellis Gesangbuch, No. 16",
+		"collection": "Другое",
+		"style": "classical",
+		"level": 6,
+		"key": "F",
+		"meter": "3/4",
+		"tempo": 70,
+		"bars": 23,
+		"notes": 122,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV454/bwv_454/",
+			"license": "Public Domain",
+			"edition": "Franz Wullner edition, 1893 (on IMSLP)"
+		}
+	},
+	{
+		"id": "bach-bwv-462",
+		"title": "Gott, wie gross ist deine Güte",
+		"original": "Gott, wie gross ist deine Güte",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "Schmellis Gesangbuch, No. 26",
+		"collection": "Другое",
+		"style": "classical",
+		"level": 6,
+		"key": "Bb",
+		"meter": "4/4",
+		"tempo": 70,
+		"bars": 16,
+		"notes": 175,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV462/bwv_462/",
+			"license": "Public Domain",
+			"edition": "Franz Wullner edition, 1893 (on IMSLP)"
+		}
+	},
+	{
+		"id": "bach-fugue-c-major",
+		"title": "Фуга до мажор",
+		"original": "Fugue in C major",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 952",
+		"collection": "Отдельные фуги",
+		"style": "classical",
+		"level": 6,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 34,
+		"notes": 806,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV952/fugue-c-major/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-arioso",
+		"title": "Ариозо",
+		"original": "Arioso",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1056",
+		"collection": "Переложения",
+		"style": "classical",
+		"level": 6,
+		"key": "G",
+		"meter": "4/4",
+		"tempo": 31,
+		"bars": 22,
+		"notes": 718,
+		"voices": 5,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1056/arioso/",
+			"license": "Creative Commons Attribution 3.0",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv-1006a-1",
+		"title": "Prélude",
+		"original": "BWV 1006a - Prélude",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1006a",
+		"collection": "Сюита ми мажор BWV 1006a",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 139,
+		"notes": 1742,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_1/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1879 Band 42"
+		}
+	},
+	{
+		"id": "bach-bwv-1006a-2",
+		"title": "Loure",
+		"original": "BWV 1006a - Loure",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1006a",
+		"collection": "Сюита ми мажор BWV 1006a",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "6/4",
+		"tempo": 60,
+		"bars": 25,
+		"notes": 352,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_2/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1879 Band 42"
+		}
+	},
+	{
+		"id": "bach-bwv-1006a-3",
+		"title": "Gavotte en Rondeau",
+		"original": "BWV 1006a - Gavotte en Rondeau",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1006a",
+		"collection": "Сюита ми мажор BWV 1006a",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 101,
+		"notes": 867,
+		"voices": 4,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_3/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1879 Band 42"
+		}
+	},
+	{
+		"id": "bach-bwv-1006a-4",
+		"title": "Menuet I",
+		"original": "BWV 1006a - Menuet I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1006a",
+		"collection": "Сюита ми мажор BWV 1006a",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 34,
+		"notes": 245,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_4/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1879 Band 42"
+		}
+	},
+	{
+		"id": "bach-bwv-1006a-5",
+		"title": "Menuet II",
+		"original": "BWV 1006a - Menuet II",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1006a",
+		"collection": "Сюита ми мажор BWV 1006a",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 255,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_5/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1879 Band 42"
+		}
+	},
+	{
+		"id": "bach-bwv-1006a-6",
+		"title": "Bourrée",
+		"original": "BWV 1006a - Bourrée",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1006a",
+		"collection": "Сюита ми мажор BWV 1006a",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 37,
+		"notes": 355,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_6/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1879 Band 42"
+		}
+	},
+	{
+		"id": "bach-bwv-1006a-7",
+		"title": "Жига",
+		"original": "BWV 1006a - Gigue",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1006a",
+		"collection": "Сюита ми мажор BWV 1006a",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "6/8",
+		"tempo": 60,
+		"bars": 33,
+		"notes": 435,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1006a/bwv-1006a_7/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1879 Band 42"
+		}
+	},
+	{
+		"id": "bach-bwv787",
+		"title": "Синфония № 1",
+		"original": "Sinfonia 1",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 787",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 70,
+		"bars": 21,
+		"notes": 557,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV787/bwv787/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv788",
+		"title": "Синфония № 2",
+		"original": "Sinfonia 2",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 788",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Cm",
+		"meter": "12/8",
+		"tempo": 120,
+		"bars": 32,
+		"notes": 732,
+		"voices": 4,
+		"remarks": [
+			"черновик: 4 нот из 732 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV788/bwv788/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv789",
+		"title": "Синфония № 3",
+		"original": "Sinfonia 3",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 789",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "D",
+		"meter": "4/4",
+		"tempo": 70,
+		"bars": 25,
+		"notes": 665,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV789/bwv789/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv790",
+		"title": "Синфония № 4",
+		"original": "Sinfonia 4",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 790",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Dm",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 23,
+		"notes": 547,
+		"voices": 3,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV790/bwv790/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv791",
+		"title": "Синфония № 5",
+		"original": "Sinfonia 5",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 791",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Eb",
+		"meter": "3/4",
+		"tempo": 55,
+		"bars": 38,
+		"notes": 427,
+		"voices": 3,
+		"remarks": [
+			"черновик: 1 нот из 427 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV791/bwv791/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv792",
+		"title": "Синфония № 6",
+		"original": "Sinfonia 6",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 792",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "9/8",
+		"tempo": 130,
+		"bars": 41,
+		"notes": 503,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV792/bwv792/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv793",
+		"title": "Синфония № 7",
+		"original": "Sinfonia 7",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 793",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Em",
+		"meter": "3/4",
+		"tempo": 80,
+		"bars": 44,
+		"notes": 725,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV793/bwv793/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv794",
+		"title": "Синфония № 8",
+		"original": "Sinfonia 8",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 794",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "F",
+		"meter": "4/4",
+		"tempo": 80,
+		"bars": 23,
+		"notes": 557,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV794/bwv794/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv795",
+		"title": "Синфония № 9",
+		"original": "Sinfonia 9",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 795",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Fm",
+		"meter": "4/4",
+		"tempo": 70,
+		"bars": 35,
+		"notes": 650,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV795/bwv795/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv796",
+		"title": "Синфония № 10",
+		"original": "Sinfonia 10",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 796",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 70,
+		"bars": 33,
+		"notes": 623,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV796/bwv796/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv797",
+		"title": "Синфония № 11",
+		"original": "Sinfonia 11",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 797",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Gm",
+		"meter": "3/8",
+		"tempo": 60,
+		"bars": 72,
+		"notes": 518,
+		"voices": 4,
+		"remarks": [
+			"черновик: 1 нот из 518 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV797/bwv797/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv798",
+		"title": "Синфония № 12",
+		"original": "Sinfonia 12",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 798",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "A",
+		"meter": "4/4",
+		"tempo": 80,
+		"bars": 31,
+		"notes": 757,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV798/bwv798/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv799",
+		"title": "Синфония № 13",
+		"original": "Sinfonia 13",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 799",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Am",
+		"meter": "3/8",
+		"tempo": 55,
+		"bars": 64,
+		"notes": 630,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV799/bwv799/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv800",
+		"title": "Синфония № 14",
+		"original": "Sinfonia 14",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 800",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Bb",
+		"meter": "4/4",
+		"tempo": 80,
+		"bars": 24,
+		"notes": 613,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV800/bwv800/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv801",
+		"title": "Синфония № 15",
+		"original": "Sinfonia 15",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 801",
+		"collection": "Трёхголосные синфонии",
+		"style": "classical",
+		"level": 6,
+		"key": "Bm",
+		"meter": "9/16",
+		"tempo": 60,
+		"bars": 39,
+		"notes": 670,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV801/bwv801/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv847a",
+		"title": "Прелюдия № 2 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium II",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 847",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Cm",
+		"meter": "4/4",
+		"tempo": 120,
+		"bars": 38,
+		"notes": 1082,
+		"voices": 5,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/bwv847a/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv848a",
+		"title": "Прелюдия № 3 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium III",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 848",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "C#",
+		"meter": "3/8",
+		"tempo": 144,
+		"bars": 104,
+		"notes": 810,
+		"voices": 3,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848a/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv849a",
+		"title": "Прелюдия № 4 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium IV",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 849",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "C#m",
+		"meter": "3/2",
+		"tempo": 108,
+		"bars": 39,
+		"notes": 660,
+		"voices": 8,
+		"remarks": [
+			"черновик: 1 нот из 660 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"смена размера (6/4, 3/2) — тактовые черты могут стоять не там",
+			"украшения записаны короткими нотами"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849a/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv851a",
+		"title": "Прелюдия № 6 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium VI",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 851",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Dm",
+		"meter": "4/4",
+		"tempo": 66,
+		"bars": 26,
+		"notes": 784,
+		"voices": 5,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851a/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv853a",
+		"title": "Прелюдия № 8 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium VIII",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 853",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Ebm",
+		"meter": "3/2",
+		"tempo": 80,
+		"bars": 40,
+		"notes": 680,
+		"voices": 5,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853a/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv854-praeludium-ix-rh",
+		"title": "Прелюдия № 9 (ХТК I)",
+		"original": "Praeludium IX",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 854",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "E",
+		"meter": "12/8",
+		"tempo": 100,
+		"bars": 24,
+		"notes": 423,
+		"voices": 4,
+		"remarks": [
+			"черновик: 4 нот из 423 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV854/BWV854_Praeludium_IX_rh/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv855a",
+		"title": "Прелюдия № 10 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium X",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 855",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Em",
+		"meter": "4/4",
+		"tempo": 66,
+		"bars": 41,
+		"notes": 1143,
+		"voices": 5,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855a/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv856-praeludium11",
+		"title": "Прелюдия № 11 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium XI",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 856",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "F",
+		"meter": "12/8",
+		"tempo": 104,
+		"bars": 18,
+		"notes": 572,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Praeludium11/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv857-praeludium12",
+		"title": "Прелюдия № 12 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium XII",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 857",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Fm",
+		"meter": "4/4",
+		"tempo": 72,
+		"bars": 22,
+		"notes": 527,
+		"voices": 5,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Praeludium12/",
+			"license": "Creative Commons Attribution-ShareAlike 4.0",
+			"edition": "Bach-Gesellschaft Ausgabe, Band 14, Breitkopf und Härtel, 1866, Plate B.W.XIV, pp.44-45"
+		}
+	},
+	{
+		"id": "bach-bwv860-praeludium15",
+		"title": "Прелюдия № 15 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium XV",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 860",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "G",
+		"meter": "4/4",
+		"tempo": 66,
+		"bars": 19,
+		"notes": 608,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Praeludium15/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv861-praeludium16",
+		"title": "Прелюдия № 16 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium XVI",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 861",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Gm",
+		"meter": "4/4",
+		"tempo": 27,
+		"bars": 19,
+		"notes": 534,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Praeludium16/",
+			"license": "Public Domain",
+			"edition": "Bach Gesselschaft Edition (1866)"
+		}
+	},
+	{
+		"id": "bach-bach-prelude17",
+		"title": "Прелюдия № 17 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium XVII",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 862",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Ab",
+		"meter": "3/4",
+		"tempo": 108,
+		"bars": 44,
+		"notes": 660,
+		"voices": 3,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-prelude17/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft edition, 1866"
+		}
+	},
+	{
+		"id": "bach-bwv865-praeludium20",
+		"title": "Прелюдия № 20 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium XX",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 865",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "Am",
+		"meter": "9/8",
+		"tempo": 106,
+		"bars": 28,
+		"notes": 608,
+		"voices": 6,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Praeludium20/",
+			"license": "Public Domain",
+			"edition": "Bach Gesselschaft Edition (1866)"
+		}
+	},
+	{
+		"id": "bach-bwv869-praeludium24",
+		"title": "Прелюдия № 24 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Praeludium 24",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 869",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 6,
+		"key": "D",
+		"meter": "4/4",
+		"tempo": 90,
+		"bars": 47,
+		"notes": 720,
+		"voices": 4,
+		"remarks": [
+			"черновик: 2 нот из 720 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/BWV869_Praeludium24/",
+			"license": "Creative Commons Attribution-ShareAlike 4.0",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bach-english-suite-2-prelude",
+		"title": "Жига",
+		"original": "English Suite II: Gigue",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 807",
+		"collection": "Английские сюиты",
+		"style": "classical",
+		"level": 7,
+		"key": "Am",
+		"meter": "6/8",
+		"tempo": 285,
+		"bars": 79,
+		"notes": 785,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV807/bach-english-suite-2-prelude/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-wtk1-fugue1",
+		"title": "Фуга № 1 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 846",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 66,
+		"bars": 27,
+		"notes": 728,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-fugue1/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-fuga2",
+		"title": "Фуга № 2 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga II",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 847",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "Cm",
+		"meter": "4/4",
+		"tempo": 76,
+		"bars": 31,
+		"notes": 751,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/fuga2/",
+			"license": "Creative Commons Attribution-ShareAlike 4.0",
+			"edition": "Edition Peters"
+		}
+	},
+	{
+		"id": "bach-bwv848b",
+		"title": "Фуга № 3 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga III",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 848",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "C#",
+		"meter": "4/4",
+		"tempo": 96,
+		"bars": 55,
+		"notes": 1387,
+		"voices": 5,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848b/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv849b",
+		"title": "Фуга № 4 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga IV",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 849",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "C#m",
+		"meter": "2/2",
+		"tempo": 112,
+		"bars": 115,
+		"notes": 1290,
+		"voices": 6,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849b/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv851-fugue06",
+		"title": "Фуга № 6 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga VI",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 851",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "Dm",
+		"meter": "3/4",
+		"tempo": 82,
+		"bars": 44,
+		"notes": 714,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851_fugue06/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv853b",
+		"title": "Фуга № 8 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga VIII",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 853",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "D#m",
+		"meter": "4/4",
+		"tempo": 74,
+		"bars": 87,
+		"notes": 1378,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853b/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv855b",
+		"title": "Фуга № 10 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga X",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 855",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "Em",
+		"meter": "3/4",
+		"tempo": 120,
+		"bars": 42,
+		"notes": 811,
+		"voices": 2,
+		"remarks": [
+			"черновик: 1 нот из 811 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855b/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv856-fugue11",
+		"title": "Фуга № 11 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga XI",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 856",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "F",
+		"meter": "3/8",
+		"tempo": 92,
+		"bars": 73,
+		"notes": 668,
+		"voices": 4,
+		"remarks": [
+			"черновик: 1 нот из 668 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Fugue11/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv857-fuga12",
+		"title": "Фуга № 12 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga XII",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 857",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "Fm",
+		"meter": "4/4",
+		"tempo": 68,
+		"bars": 58,
+		"notes": 1325,
+		"voices": 5,
+		"remarks": [
+			"черновик: 1 нот из 1325 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Fuga12/",
+			"license": "Creative Commons Attribution-ShareAlike 4.0",
+			"edition": "Bach-Gesellschaft Ausgabe, Band 14, Breitkopf und Härtel, 1866, Plate B.W.XIV, pp.46-47"
+		}
+	},
+	{
+		"id": "bach-bwv860-fuga15",
+		"title": "Фуга № 15 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga XV",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 860",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "G",
+		"meter": "6/8",
+		"tempo": 68,
+		"bars": 86,
+		"notes": 1691,
+		"voices": 5,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Fuga15/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv861-fuga16",
+		"title": "Фуга № 16 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga XVI",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 861",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "Gm",
+		"meter": "4/4",
+		"tempo": 68,
+		"bars": 34,
+		"notes": 747,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Fuga16/",
+			"license": "Public Domain",
+			"edition": "Bach Gesellschaft Edition (1866)"
+		}
+	},
+	{
+		"id": "bach-bach-fugue17",
+		"title": "Фуга № 17 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga XVII",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 862",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "Ab",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 35,
+		"notes": 884,
+		"voices": 5,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-fugue17/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft edition, 1866"
+		}
+	},
+	{
+		"id": "bach-bwv865-fuga20",
+		"title": "Фуга № 20 (ХТК I)",
+		"original": "Das Wohltemperierte Clavier I, Fuga XX",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 865",
+		"collection": "Хорошо темперированный клавир, том I",
+		"style": "classical",
+		"level": 7,
+		"key": "Am",
+		"meter": "4/4",
+		"tempo": 76,
+		"bars": 87,
+		"notes": 2376,
+		"voices": 6,
+		"remarks": [
+			"черновик: 1 нот из 2376 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Fuga20/",
+			"license": "Public Domain",
+			"edition": "Bach Gesselschaft Edition (1866)"
+		}
+	},
+	{
+		"id": "bach-wtk2prelude1",
+		"title": "Прелюдия № 1 (ХТК II)",
+		"original": "Das Wohltemperierte Clavier II, Praeludium I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 870",
+		"collection": "Хорошо темперированный клавир, том II",
+		"style": "classical",
+		"level": 7,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 70,
+		"bars": 34,
+		"notes": 833,
+		"voices": 6,
+		"remarks": [
+			"черновик: 2 нот из 833 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2prelude1/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft, Leipzig: Breitkopf und Härtel, 1866"
+		}
+	},
+	{
+		"id": "bach-wtk2-prelude2",
+		"title": "Прелюдия № 2 (ХТК II)",
+		"original": "Das Wohltemperierte Clavier II, Praeludium II",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 871",
+		"collection": "Хорошо темперированный клавир, том II",
+		"style": "classical",
+		"level": 7,
+		"key": "Cm",
+		"meter": "4/4",
+		"tempo": 120,
+		"bars": 28,
+		"notes": 692,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-prelude2/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bwv875a",
+		"title": "Прелюдия № 6 (ХТК II)",
+		"original": "Das Wohltemperierte Clavier II, Praeludium VI",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 875",
+		"collection": "Хорошо темперированный клавир, том II",
+		"style": "classical",
+		"level": 7,
+		"key": "Dm",
+		"meter": "3/4",
+		"tempo": 120,
+		"bars": 61,
+		"notes": 1079,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV875/bwv875a/",
+			"license": "Public Domain",
+			"edition": "Bach Gesellschaft Ausgabe 1851-1899 Band 14 (1866)"
+		}
+	},
+	{
+		"id": "bach-duetto",
+		"title": "Дуэт II",
+		"original": "Duetto II (from the Clavierübung Part III)",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 803",
+		"collection": "Четыре дуэта (Clavierübung III)",
+		"style": "classical",
+		"level": 7,
+		"key": "F",
+		"meter": "2/4",
+		"tempo": 106,
+		"bars": 149,
+		"notes": 1408,
+		"voices": 3,
+		"remarks": [
+			"черновик: 1 нот из 1408 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"украшения записаны короткими нотами"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV803/duetto/",
+			"license": "Public Domain",
+			"edition": "Edition Peters"
+		}
+	},
+	{
+		"id": "bach-bach-duet3",
+		"title": "Дуэт III",
+		"original": "Duetto III",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 804",
+		"collection": "Четыре дуэта (Clavierübung III)",
+		"style": "classical",
+		"level": 7,
+		"key": "G",
+		"meter": "12/8",
+		"tempo": 60,
+		"bars": 39,
+		"notes": 1364,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV804/Bach-Duet3/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Edition / Ernst Naumann 1890"
+		}
+	},
+	{
+		"id": "bach-bach-duet4",
+		"title": "Дуэт IV",
+		"original": "Duetto IV",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 805",
+		"collection": "Четыре дуэта (Clavierübung III)",
+		"style": "classical",
+		"level": 7,
+		"key": "Am",
+		"meter": "2/2",
+		"tempo": 120,
+		"bars": 108,
+		"notes": 1076,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV805/Bach-Duet4/",
+			"license": "Public Domain",
+			"edition": "Bach-Gesellschaft Edition / Ernst Naumann 1890"
+		}
+	},
+	{
+		"id": "bach-bach-duet1",
+		"title": "Дуэт I",
+		"original": "Duetto I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV802",
+		"collection": "Четыре дуэта (Clavierübung III)",
+		"style": "classical",
+		"level": 7,
+		"key": "Em",
+		"meter": "3/8",
+		"tempo": 30,
+		"bars": 73,
+		"notes": 989,
+		"voices": 2,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV802/Bach-Duet1/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition / Ernst Naumann 1890"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v15",
+		"title": "Гольдберг-вариации: вариация 15",
+		"original": "Goldberg Variations - 15",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "Bb",
+		"meter": "2/4",
+		"tempo": 33,
+		"bars": 32,
+		"notes": 523,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v15/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v01",
+		"title": "Гольдберг-вариации: вариация 1",
+		"original": "Goldberg Variations - 1",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 551,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v01/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v03",
+		"title": "Гольдберг-вариации: вариация 3",
+		"original": "Goldberg Variations - 3",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "12/8",
+		"tempo": 60,
+		"bars": 16,
+		"notes": 600,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v03/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v04",
+		"title": "Гольдберг-вариации: вариация 4",
+		"original": "Goldberg Variations - 4",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/8",
+		"tempo": 60,
+		"bars": 34,
+		"notes": 268,
+		"voices": 5,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v04/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v05",
+		"title": "Гольдберг-вариации: вариация 5",
+		"original": "Goldberg Variations - 5",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 130,
+		"bars": 32,
+		"notes": 517,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v05/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v06",
+		"title": "Гольдберг-вариации: вариация 6",
+		"original": "Goldberg Variations - 6",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/8",
+		"tempo": 60,
+		"bars": 36,
+		"notes": 386,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v06/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v07",
+		"title": "Гольдберг-вариации: вариация 7",
+		"original": "Goldberg Variations - 7",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "6/8",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 355,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v07/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v08",
+		"title": "Гольдберг-вариации: вариация 8",
+		"original": "Goldberg Variations - 8",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 95,
+		"bars": 32,
+		"notes": 644,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v08/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v09",
+		"title": "Гольдберг-вариации: вариация 9",
+		"original": "Goldberg Variations - 9",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 16,
+		"notes": 365,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v09/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v10",
+		"title": "Гольдберг-вариации: вариация 10",
+		"original": "Goldberg Variations - 10",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "2/2",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 321,
+		"voices": 5,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v10/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v11",
+		"title": "Гольдберг-вариации: вариация 11",
+		"original": "Goldberg Variations - 11",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "12/16",
+		"tempo": 93,
+		"bars": 32,
+		"notes": 615,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v11/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v12",
+		"title": "Гольдберг-вариации: вариация 12",
+		"original": "Goldberg Variations - 12",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 94,
+		"bars": 32,
+		"notes": 632,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v12/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v13",
+		"title": "Гольдберг-вариации: вариация 13",
+		"original": "Goldberg Variations - 13",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 794,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v13/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 153 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v14",
+		"title": "Гольдберг-вариации: вариация 14",
+		"original": "Goldberg Variations - 14",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 638,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v14/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v16",
+		"title": "Гольдберг-вариации: вариация 16",
+		"original": "Goldberg Variations - 16",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "2/2",
+		"tempo": 60,
+		"bars": 30,
+		"notes": 639,
+		"voices": 5,
+		"remarks": [
+			"смена размера (3/8, 2/2, 4/4) — тактовые черты могут стоять не там",
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v16/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v18",
+		"title": "Гольдберг-вариации: вариация 18",
+		"original": "Goldberg Variations - 18",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "2/2",
+		"tempo": 192,
+		"bars": 32,
+		"notes": 305,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v18/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v19",
+		"title": "Гольдберг-вариации: вариация 19",
+		"original": "Goldberg Variations - 19",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/8",
+		"tempo": 69,
+		"bars": 32,
+		"notes": 340,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v19/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v20",
+		"title": "Гольдберг-вариации: вариация 20",
+		"original": "Goldberg Variations - 20",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 607,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v20/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v21",
+		"title": "Гольдберг-вариации: вариация 21",
+		"original": "Goldberg Variations - 21",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "Bb",
+		"meter": "4/4",
+		"tempo": 34,
+		"bars": 16,
+		"notes": 458,
+		"voices": 4,
+		"remarks": [
+			"черновик: 1 нот из 458 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v21/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v22",
+		"title": "Гольдберг-вариации: вариация 22",
+		"original": "Goldberg Variations - 22",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "2/2",
+		"tempo": 180,
+		"bars": 32,
+		"notes": 274,
+		"voices": 5,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v22/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v23",
+		"title": "Гольдберг-вариации: вариация 23",
+		"original": "Goldberg Variations - 23",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 85,
+		"bars": 32,
+		"notes": 704,
+		"voices": 3,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v23/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v24",
+		"title": "Гольдберг-вариации: вариация 24",
+		"original": "Goldberg Variations - 24",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "9/8",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 604,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v24/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v25",
+		"title": "Гольдберг-вариации: вариация 25",
+		"original": "Goldberg Variations - 25",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "Gm",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 34,
+		"notes": 714,
+		"voices": 3,
+		"remarks": [
+			"черновик: 3 нот из 714 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"смена тональности — знаки при ключе по первой",
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v25/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v26",
+		"title": "Гольдберг-вариации: вариация 26",
+		"original": "Goldberg Variations - 26",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 85,
+		"bars": 32,
+		"notes": 838,
+		"voices": 4,
+		"remarks": [
+			"смена размера (18/16, 3/4) — тактовые черты могут стоять не там",
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v26/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v27",
+		"title": "Гольдберг-вариации: вариация 27",
+		"original": "Goldberg Variations - 27",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "6/8",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 489,
+		"voices": 2,
+		"remarks": [
+			"черновик: 1 нот из 489 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v27/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v28",
+		"title": "Гольдберг-вариации: вариация 28",
+		"original": "Goldberg Variations - 28",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 60,
+		"bars": 32,
+		"notes": 983,
+		"voices": 4,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v28/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v29",
+		"title": "Гольдберг-вариации: вариация 29",
+		"original": "Goldberg Variations - 29",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "3/4",
+		"tempo": 84,
+		"bars": 32,
+		"notes": 717,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v29/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-bwv-988-v30",
+		"title": "Гольдберг-вариации: вариация 30",
+		"original": "Goldberg Variations - 30",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 988",
+		"collection": "Гольдберг-вариации",
+		"style": "classical",
+		"level": 8,
+		"key": "G",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 16,
+		"notes": 377,
+		"voices": 5,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v30/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": "Bach-Gesellschaft Edition 1853 Band 3"
+		}
+	},
+	{
+		"id": "bach-ricercare",
+		"title": "Музыкальное приношение: Ричеркар на 3",
+		"original": "Musicalisches Opfer, Ricercare",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1079",
+		"collection": "Поздние циклы",
+		"style": "classical",
+		"level": 8,
+		"key": "Cm",
+		"meter": "2/2",
+		"tempo": 120,
+		"bars": 185,
+		"notes": 2310,
+		"voices": 4,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1079/ricercare/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-ricercare6",
+		"title": "Музыкальное приношение: Ричеркар на 6",
+		"original": "Musikalisches Opfer, Ricercare a 6",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1079",
+		"collection": "Поздние циклы",
+		"style": "classical",
+		"level": 8,
+		"key": "Cm",
+		"meter": "2/2",
+		"tempo": 120,
+		"bars": 206,
+		"notes": 2693,
+		"voices": 6,
+		"remarks": [
+			"черновик: 5 нот из 2693 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1079/ricercare6/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-contrapunctusxii",
+		"title": "Искусство фуги: Канон в октаву",
+		"original": "Die Kunst der Fuge, Contrapunctus XII - Canon alla Ottava",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1080",
+		"collection": "Поздние циклы",
+		"style": "classical",
+		"level": 8,
+		"key": "Dm",
+		"meter": "9/16",
+		"tempo": 90,
+		"bars": 179,
+		"notes": 2304,
+		"voices": 4,
+		"remarks": [
+			"черновик: 2 нот из 2304 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"повторы в нотах не показаны — пьеса записана одним проходом",
+			"украшения записаны короткими нотами"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXII/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-contrapunctusxiii",
+		"title": "Искусство фуги: Канон в октаву",
+		"original": "Die Kunst der Fuge, Contrapunctus XIII - Canon alla Duodecima",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1080",
+		"collection": "Поздние циклы",
+		"style": "classical",
+		"level": 8,
+		"key": "Dm",
+		"meter": "2/2",
+		"tempo": 150,
+		"bars": 145,
+		"notes": 1897,
+		"voices": 2,
+		"remarks": [
+			"повторы в нотах не показаны — пьеса записана одним проходом"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIII/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-contrapunctusxiv",
+		"title": "Искусство фуги: Канон в децу",
+		"original": "Die Kunst der Fuge, Contrapunctus XIV - Canon alla Decima",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1080",
+		"collection": "Поздние циклы",
+		"style": "classical",
+		"level": 8,
+		"key": "Dm",
+		"meter": "12/8",
+		"tempo": 110,
+		"bars": 82,
+		"notes": 1396,
+		"voices": 4,
+		"remarks": [
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIV/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-contrapunctusxv",
+		"title": "Искусство фуги: Канон в увеличении",
+		"original": "Die Kunst der Fuge, Contrapunctus XV - Canon per Augmentationem in Contrario Motu",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 1080",
+		"collection": "Поздние циклы",
+		"style": "classical",
+		"level": 8,
+		"key": "Dm",
+		"meter": "2/2",
+		"tempo": 100,
+		"bars": 109,
+		"notes": 1374,
+		"voices": 4,
+		"remarks": [
+			"черновик: 4 нот из 1374 расходятся с исходником (знаки альтерации) — сверить с изданием",
+			"украшения записаны короткими нотами"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXV/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-bwv903fan",
+		"title": "Хроматическая фантазия",
+		"original": "Chromatic Fantasy and Fugue, BWV 903 (Fantasy)",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 903",
+		"collection": "Фантазии и токкаты",
+		"style": "classical",
+		"level": 8,
+		"key": "Dm",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 79,
+		"notes": 1825,
+		"voices": 7,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV903/bwv903fan/",
+			"license": "Public Domain",
+			"edition": "BachGesellschaftAusgabe 1890"
+		}
+	},
+	{
+		"id": "bach-bwv903fug",
+		"title": "Хроматическая фуга",
+		"original": "Chromatic Fantasy and Fugue, BWV 903 (Fugue)",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 903",
+		"collection": "Фантазии и токкаты",
+		"style": "classical",
+		"level": 8,
+		"key": "Dm",
+		"meter": "3/4",
+		"tempo": 100,
+		"bars": 161,
+		"notes": 2579,
+		"voices": 4,
+		"remarks": [
+			"черновик: 1 нот из 2579 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV903/bwv903fug/",
+			"license": "Public Domain",
+			"edition": "BachGesellschaftAusgabe 1890"
+		}
+	},
+	{
+		"id": "bach-bwv910",
+		"title": "Токката фа-диез минор",
+		"original": "Toccata in f sharp minor",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 910",
+		"collection": "Фантазии и токкаты",
+		"style": "classical",
+		"level": 8,
+		"key": "F#m",
+		"meter": "4/4",
+		"tempo": 60,
+		"bars": 197,
+		"notes": 4144,
+		"voices": 6,
+		"remarks": [
+			"смена размера (4/4, 3/2, 6/8) — тактовые черты могут стоять не там",
+			"украшения записаны короткими нотами"
+		],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV910/bwv910/",
+			"license": "Public Domain",
+			"edition": "Bach Gesellschaft Ausgabe, 1853"
+		}
+	},
+	{
+		"id": "bach-wtk2fuga1",
+		"title": "Фуга № 1 (ХТК II)",
+		"original": "Das Wohltemperierte Clavier II, Fuga I",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 870",
+		"collection": "Хорошо темперированный клавир, том II",
+		"style": "classical",
+		"level": 8,
+		"key": "C",
+		"meter": "2/4",
+		"tempo": 60,
+		"bars": 83,
+		"notes": 1030,
+		"voices": 4,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2fuga1/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-wtk2-fugue2",
+		"title": "Фуга № 2 (ХТК II)",
+		"original": "Das Wohltemperierte Clavier II, Fuga II",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 871",
+		"collection": "Хорошо темперированный клавир, том II",
+		"style": "classical",
+		"level": 8,
+		"key": "Cm",
+		"meter": "4/4",
+		"tempo": 58,
+		"bars": 28,
+		"notes": 649,
+		"voices": 6,
+		"remarks": [],
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-fugue2/",
+			"license": "Public Domain",
+			"edition": ""
+		}
+	},
+	{
+		"id": "bach-f9",
+		"title": "Фуга № 9 (ХТК II)",
+		"original": "Das Wohltemperierte Clavier II, Fuga IX",
+		"composer": "Johann Sebastian Bach",
+		"catalog": "BWV 878",
+		"collection": "Хорошо темперированный клавир, том II",
+		"style": "classical",
+		"level": 8,
+		"key": "C",
+		"meter": "4/4",
+		"tempo": 120,
+		"bars": 86,
+		"notes": 1500,
+		"voices": 8,
+		"remarks": [
+			"черновик: 12 нот из 1500 расходятся с исходником (знаки альтерации) — сверить с изданием"
+		],
+		"draft": true,
+		"source": {
+			"name": "Mutopia Project",
+			"url": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/f9/",
+			"license": "Creative Commons Attribution-ShareAlike 3.0",
+			"edition": ""
+		}
+	}
+]

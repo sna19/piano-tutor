@@ -1,0 +1,111 @@
+:root {
+	--bg: #f7f5f0;
+	--surface: #ffffff;
+	--surface2: #efece4;
+	--text: #1d1b26;
+	--muted: #6d6a75;
+	--line: #e2ded4;
+	--accent: #b8862d;
+	--accent-text: #ffffff;
+	--good: #2f7d4f;
+	--bad: #b3412e;
+	--classical: #6c5ce7;
+	--jazz: #c0573b;
+	--blues: #2d6fb8;
+	--pop: #2f9a77;
+	--r1: 10px;
+	--r2: 16px;
+	--tap: 44px;
+	color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: #15141b;
+		--surface: #1f1e27;
+		--surface2: #2a2834;
+		--text: #f1eee6;
+		--muted: #a19eaa;
+		--line: #35333f;
+		--accent: #e0b04c;
+		--accent-text: #15141b;
+		--good: #5cc488;
+		--bad: #e07a63;
+		--classical: #a59bff;
+		--jazz: #f08a6b;
+		--blues: #74a9ec;
+		--pop: #5fd0a8;
+	}
+}
+* {
+	box-sizing: border-box;
+}
+html,
+body {
+	margin: 0;
+	background: var(--bg);
+	color: var(--text);
+	font: 16px/1.45 -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+	-webkit-text-size-adjust: 100%;
+}
+a {
+	color: inherit;
+}
+button {
+	font: inherit;
+	color: inherit;
+}
+h1 {
+	font-size: 28px;
+	margin: 8px 0 4px;
+}
+h2 {
+	font-size: 18px;
+	margin: 20px 0 8px;
+}
+.muted {
+	color: var(--muted);
+}
+.small {
+	font-size: 13px;
+}
+.card {
+	background: var(--surface);
+	border-radius: var(--r2);
+	padding: 14px 16px;
+}
+.chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	min-height: 32px;
+	padding: 0 12px;
+	border: 1px solid var(--line);
+	border-radius: 999px;
+	background: none;
+	font-size: 14px;
+	cursor: pointer;
+}
+.chip.on {
+	background: var(--text);
+	color: var(--bg);
+	border-color: var(--text);
+}
+.btn {
+	min-height: var(--tap);
+	padding: 0 18px;
+	border: none;
+	border-radius: var(--r1);
+	background: var(--accent);
+	color: var(--accent-text);
+	font-weight: 600;
+	cursor: pointer;
+}
+.btn.ghost {
+	background: none;
+	border: 1px solid var(--line);
+	color: var(--text);
+}
+.track-classical { --t: var(--classical); }
+.track-jazz { --t: var(--jazz); }
+.track-blues { --t: var(--blues); }
+.track-pop { --t: var(--pop); }

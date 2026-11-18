@@ -1,0 +1,48 @@
+X:1
+T:Гольдберг-вариации: вариация 15 · BWV 988
+C:И. С. Бах
+M:2/4
+L:1/16
+Q:1/4=33
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Bb
+V:RH1
+zGGF FEED | D4 [D=e]_gg=g | g4-gabc' | d'aa/_a/[=E=a] d4- |
+d2ef eddc | B2DC z2c2 | g/a/_g=ga bc'd'c' | bgd4e2 |
+d2AG G[_Ge][Gd][=Gc] | Bccd deed | [B,d]2GF2=E2D | [_Db]2d=e2f2g |
+a2B2 c2a2 | z=E/D/g/a/g2g2g- | gf/g/ab af_d2 | D4 z_g/=e/g2 |
+z2_G2 =G2A2 | Dd2c2B2A | gG2_A2B2c | B2[_Af]2 g2d2 |
+[Ge][Bd]eg fedc | [Bd]B7 | B_A/G/F/G/A GF/E/F/E/D | E2e/d/c de/f/e/f/g |
+f2_AG _GFdF | E4-E[D=e]Ge | _g4-g[D=g]ab | c'[Cb]ag _g=g_g2- |
+_ga=g2 BAc2 | G3[EA] [DB][=Ec]d=e | _g[E=g][Da]_g =g_g=e/d/c'- | c'_g=ga bc'd'2 |]
+V:RH2
+x8 | xdd=e x4 | x4 G4 | G2_Gx G=GGA |
+B2x4A2 | D/C/Ex6 | x2G4_G2 | G2x3_G=GA |
+BAx6 | G2x4C2 | x6a2 | x2B2 A2_D2 |
+x2D/_D/=D2D2D- | Dx_D=B, D=EA2 | x2D3=E/F/E/D/E | x2g3x3 |
+x8 | x2e2 d2c2 | B2E2 D2G2 | FGx3B2_A |
+x2c2 xB2x | x2FD EFG_A | x8 | xc/d/x6 |
+x_Ax6 | xccd ex3 | xD[CE]D ExE2- | ExD2 x2A2 |
+d3c x2GF | EDCx3_G/=G/x | x8 | x8 |]
+V:LH1
+G,2G,,2 z2G,2- | G,_G,/=E,/G,2 zCB,A, | G,_DD/=D/_D z2E2 | D_D=D2 zCB,A, |
+G,/_G,/=G,C,G, C_G,G,=G, | G,_G,=G,A, B,A,G,A, | B,DB,C D2D2 | G,2B,,/C,/D,/B,,/ G,,2z2 |
+z_G,=G,A, B,2A,2 | G,_G,2=E, G,/A,/=G,2_G, | G,A,B,A, G,/A,/G,F,/G,/F, | =E,F,G,E, _D,=D,E,_D, |
+F,/=E,/D,G,4_G,2 | B,2=E,2 A,2_D,2 | D,2F,=E, F,2A,2 | zC/B,/A,/G,/A, D,4 |
+D,EED DCCB, | B,_G,G,=G, G,D,D,2- | D,C,/B,,/C,F,, F,B,,E,2- | E,D,/C,/D,/C,/B,, E,G,,_A,,B,, |
+C,,G,,C,B,, _A,,G,,A,,2- | _A,,_A,B,A, G,F,E,F, | G,_A,B,2 B,,3A, | G,F,F,E, F,G,G,_A, |
+C,2=B,,2 zA,,B,,G,, | C,2C2 z2CB, | A,B,zB, A,B,CG, | G,2_G,=G, A,B,/C/D/E/C |
+B,/D/CB,/C/A, G,/A,/F,E,/F,/D, | C,E,/D,/E,_G,, =G,,2zA,- | A,z2[E,C] B,A,G,_G, | G,4 G,,4 |]
+V:LH2
+x8 | x6D,2 | E,2=E,2 x4 | x8 |
+x8 | x4 D,2E,2 | B,,2x6 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x6C,2- | C,x7 | x8 |
+x8 | x7C, | D,2x2 C,2D,2 | xD,/C,/B,,/C,/A,, x4 |]

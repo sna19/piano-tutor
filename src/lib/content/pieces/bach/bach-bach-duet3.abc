@@ -1,0 +1,32 @@
+X:1
+T:Дуэт III · BWV 804
+C:И. С. Бах
+M:12/8
+L:1/16
+Q:1/4=60
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:G
+V:RH1
+z6 GFEDB2 A2z4 GFEDc2 | B2z4 dBAGec dBAGcA cBAGAF | GDEFGA BdcBcA BGABcd egfed^c | adefga bagfge fagfed ^cdefg2- |
+gefd^cd G2=f4- fde=cBc F2e4- | ecdBAB EBcAGA DABGFG CGAFEF | B,DEFGA BdcBAG FGABcd eagfed | gdefga bgfgca BgfgAc FGABc2- |
+c2B2z2 dBAGe2 d2z4 cBAGg2 | f2z4 gfedbg afedge gfede^c | d7FGEDE c7EFD^CD | B7E^DEFG A2B2c3BAGFE |
+^DEFGA3FGEDE B,EGEDE B,EGE=DE | ^CDEFG3EFDCD A,DFDCD A,DFD=CD | B,CDE=F3E^DEAE cA^GA^dA f2B2A2 | GB^c^def gbagfe dcdefg afedcB |
+egfeaf gbagaf gbagfe ^defBa2- | a2g2z2 BGFEc2 B2z4 AGFEe2 | ^d2z4 e=d^cBge fdcBec edcBc^A | B7^ABd^ce d2B2c2 d2^g2b2 |
+d7^GAcBd c2A2B2 c2f2a2 | c7ABGFG EBcAGA FcdBAB | GdecBc Ae=fdcd B2g4- gcfedc | BcBAG=F EGFEDC B,CDEFG AdcBAG |
+cGABcd eg=fefd ec'bc'af gcBcf2- | =fdecBc ^f2a2c'3cdBAB E2d4- | dBcA^GA eBcAGA fcdBAB gdecBc | agfedc BdcBAG FedcBA GFEDB2 |
+A2z4 zA,B,CDE FGABcd GFEDc2 | B2z4 z12 dBAGec | dBAGcA BdcBcA BGFEAF GBAGAF | GEDC=FD EGFEFD EFGADF EABcEG |
+FGABEG FBcdFA GABcFA GcdeGB | AGABcd cBAG=f2 e2z4 d^cBAg2 | f2z4 afedc'2 bgabeg cfgadf | Bde=fBd GBcdGB DGABDG B,DE=FB,D |
+G,2z4 EDCB,=F2 E2z4 G^FEDc2 | c2z4 cBAGec dBAGcA cBAGAF | G16z8 |]
+V:LH1
+G,,2B,,2D,2 G,2B,2G,2 D,2F,2A,2 D2F,2D,2 | G,2D,2B,,2 G,,2B,,2C,2 B,,2E,2F,2 G,2D2D,2 | G,2z4 D,B,,A,,G,,E,2 D,2z4 C,B,,A,,G,,G,2 | F,2z4 G,F,E,D,B,G, A,F,E,D,G,E, G,F,E,D,E,^C, |
+D,2D2A,2 B,CDB,G,B, C,2C2G,2 A,B,CA,F,A, | B,,2B,2F,2 G,2A,2E,2 F,2G,2D,2 E,2F,2D,2 | G,2z4 G,,F,,E,,D,,B,,2 A,,2z4 G,,F,,E,,D,,C,2 | B,,2z4 D,B,,A,,G,,E,C, D,B,,A,,G,,C,A,, C,B,,A,,G,,A,,F,, |
+G,,D,,E,,F,,G,,A,, B,,D,C,B,,C,A,, B,,G,,A,,B,,C,D, E,G,F,E,D,^C, | A,D,E,F,G,A, B,A,G,F,G,E, F,A,G,F,E,D, ^C,D,E,F,G,2- | G,E,F,D,^C,D, B,7D,E,=C,B,,C, A,6- | A,F,G,E,^D,E, C7B,A,G,F,E, D,2E,2C,2 |
+B,,2B,A,G,F, E,2E,,2F,,2 G,,2B,,2A,,2 G,,2E,,2E,2 | A,,B,,^C,D,E,C, D,2D,,2E,,2 F,,2A,,2G,,2 F,,2D,,2D,2 | G,,A,,B,,C,D,B,, C,2C2F,2 A,2^D,2F,2 B,,^C,D,E,F,=D, | E,2E,,2z2 E,^D,^C,B,,G,2 F,2z4 E,D,C,B,,A,2 |
+G,2z4 B,G,F,E,CA, B,G,F,E,A,F, A,G,F,E,F,^D, | E,B,,^C,^D,E,F, G,B,A,G,A,F, G,E,F,G,A,B, ^CE^DCB,^A, | FB,^C^DEF GFE=DEC D2D,2G,2 E,2F,2F,,2 | B,,F,^G,^A,B,^C DCDB,A,B, F,B,DB,A,B, =F,B,DB,=A,B, |
+E,B,EDCB, A,B,CA,^G,A, E,A,CA,G,A, ^D,A,CA,G,A, | D,A,DCB,A, G,2G,,2B,,2 C,2A,,2C,2 D,2B,,2D,2 | E,2C,2E,2 =F,2A,,2F,3E,F,B,,A,,B,, E,2A,2F,2 | G,2G,,2z2 C,B,,A,,G,,E,2 D,2z4 C,B,,A,,G,,=F,2 |
+E,2z4 G,E,D,C,A,=F, G,E,D,C,F,D, F,E,D,C,D,B,, | C,2C2G,2 A,B,CA,G,F, B,2B,,2F,2 ^G,A,B,G,F,E, | A,,2A,2B,2 C2A,2C2 D2B,2D2 E2C2A,2 | F,2D,2z2 G,F,E,D,B,2 A,2z4 B,DCB,A,G, |
+F,EDCB,A, G,F,E,D,C2 B,2z4 zD,C,D,E,F, | G,A,B,CDE DB,A,G,EC DB,A,G,CA, B,DCB,CA, | B,G,F,E,A,F, G,B,A,G,A,F, G,B,A,G,CA, B,G,F,E,F,^D, | E,G,=F,E,A,F, G,E,D,C,D,B,, C,2C2B,2 C2A,2C2 |
+D,2D2^C2 D2B,2D2 E,2E2^D2 E2=C2E2 | F,2E,2D,2 G,2C,B,,A,,G,, C,G,A,B,CD E2D,^C,B,,A,, | D,A,B,^CDE F2G,F,E,D, G,2E,2C,2 A,,2D,2D,,2 | G,,2z4 zDE=FB,D G,B,CDG,B, D,=F,G,A,D,F, |
+B,,D,E,=F,B,,D, G,,2A,,2B,,2 C,D,E,^F,G,A, B,DCB,A,G, | F,A,G,F,E,D, G,2E,2C,2 G,2B,,2E,2 C,2D,2D,,2 | G,,16z8 |]

@@ -1,0 +1,56 @@
+X:1
+T:Синфония № 15 · BWV 801
+C:И. С. Бах
+M:9/16
+L:1/16
+Q:1/4=60
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Bm
+V:RH1
+B F F G F F B F F | c F F G F F c F F | d/B/ d/f/ b/f/ d/f/ d/B/ d/B/ F/B/ F/D/ F/D/ | B, z3 B c d c B |
+^A4 B c B c A | B/F/ B/d/ f/d/ B/d/ B/F/ B/F/ D/F/ D/B,/ D/B,/ | d8-d- | d B B c B B e B B |
+c8-c- | c A A B A A d A A | B/d/ B/G/ B/G/ E3 e/g/ e/c/ e/c/ | A/c/ A/F/ A/F/ D3 d/f/ d/B/ d/B/ |
+G/B/ G/E/ G/E/ C/E/ C/A,/ C/A,/ A F G | F3 B, A, A, D A, A, | E A, A, B, A, A, E A, A, | F/D/ F/A/ d/B/ ^G/B/ G/E/ G/E/ B,/E/ B,/z3/2 |
+A E E F E E A E E | B E E F E E B E E | c/A/ c/e/ a/f/ ^d/f/ d/B/ d/B/ F/B/ F/^D/ F/D/ | E3 =C B, B, G3- |
+G E E F E E A E E | F8-F- | F D D E D D G D D | E8-E- |
+E C C D C C F C C | D/B,/ D/F/ D/F/ B/F/ B/d/ B/d/ g3 | C/A,/ C/E/ C/E/ A/E/ A/c/ A/c/ f3 | B,/G,/ B,/D/ B,/D/ G/D/ G/B/ G/B/ e3- |
+e F F G F F e F F | d8-d- | d B B =c B B g B B | [F^A]3 f6- |
+f/B/ d/f/ b/f/ d/f/ d/B/ d/B/ F/B/ F/D/ F/D/ | d8-d- | d c c ^g c c d c c | e c c ^a [^Ac] [Bd] [ce] [Bd] [Ac] |
+f g e d3 c2 B | B8-B- | B3 z6 |]
+V:RH2
+x8x | x8x | x8x | x8x |
+x8x | x8x | B F F G F F B F F | ^G8-G |
+A E E F E E A E E | F8-F | G x8 | x8x |
+x8x | D A, A, x6 | x8x | x8x |
+x8x | x8x | x4x =C B, C A, | x B, B, x3 E B, B, |
+C8-C- | C A, A, B, A, A, D A, A, | B,8-B,- | B, x8 |
+x8x | x8x | x8x | x8x |
+x8x | F B, B, D B, B, F B, B, | G8-G | x3 ^A6 |
+x8x | B8-B- | B8-B | ^A3 x6 |
+B6 ^A3 | x8x | x8x |]
+V:LH1
+B,,3 z B, C D C B, | ^A,4 B, C B, C A, | B,3 z6 | B, F, F, G, F, F, B, F, F, |
+C F, F, G, F, F, C F, F, | D/B,/ D/F/ B/F/ D/F/ D/B,/ D/B,/ F,/B,/ F,/D,/ F,/D,/ | B,,3 z B, C D C B, | E3 z E, F, ^G, F, E, |
+A,3 z A,, B,, C, B,, A,, | D,3 z D,, E,, F,, E,, D,, | G,,3 G,/B,/ G,/E,/ G,/E,/ C,/E,/ C,/A,,/ C,/A,,/ | F,,3 F,/A,/ F,/D,/ F,/D,/ B,,/D,/ B,,/G,,/ B,,/G,,/ |
+E,,3 E,/G,/ E,/C,/ E,/C,/ A,,/C,/ A,,/F,,/ A,,/F,,/ | D,,3 z D,, E,, F,, E,, D,, | C,,3 z A,, B,, C, B,, A,, | D,4 E, F, E, F, B,/^G,/ |
+[C,E,]3 z A, B, C B, A, | ^G,4 A, B, A, B, G, | A,4 B, z4 | G,3 z E, F, G, F, E, |
+A,3 z A,, B,, C, B,, A,, | D,3 z D, E, F, E, D, | G,3 z G, F, E, F, G, | C,3 A, [C,^G,] [B,,G,] [^A,,C] [B,,G,] [C,G,] |
+^A,8-A, | B, z2 D,/B,,/ D,/F,/ D,/F,/ B,/G,/ B,/E/ B,/E/ | A3 C,/A,,/ C,/E,/ C,/E,/ A,/F,/ A,/D/ A,/D/ | G/B/ G/D/ G/D/ B,/D/ B,/G,/ B,/G,/ E,/G,/ E,/C,/ E,/C,/ |
+^A,,4 B,, C, F,, B,, A,, | B,,3 z3 B,,3 | E,8-E,- | E,8-E, |
+D,2 z7 | B,/G,/ B,/D/ G/D/ B,/D/ B,/G,/ B,/G,/ D,/G,/ D,/B,,/ D,/B,,/ | =F,,3 z6 | F,,3 z E, F, G, F, E, |
+D,2 E, F,2 E, F,2 F,, | B,,8-B,,- | B,,3 z6 |]
+V:LH2
+x8x | x8x | x8x | x8x |
+x8x | x8x | x8x | x8x |
+x8x | x8x | x8x | x8x |
+x8x | x8x | x8x | x7x/^G,/ D, |
+x8x | E,3 x6 | A,,3 F,6 | x8x |
+x8x | x8x | x8x | x ^G, G, x6 |
+F,,3 x F, E, D, E, F, | B,,3 x6 | x8x | x8x |
+x8x | x8x | x8x | x8x |
+x8x | x8x | x8x | x8x |
+x8x | x8x | x8x |]

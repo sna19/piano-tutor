@@ -1,0 +1,42 @@
+X:1
+T:Инвенция № 3 · BWV 774
+C:И. С. Бах
+M:3/8
+L:1/16
+Q:1/4=80
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:D
+V:RH1
+DE | FEGFED | AGFEFD | A2B2cd |
+c3/2B/A2cd | ecfdcB | ecdBA^G | ecfdcB |
+ecdBA^G | cBdcBA | f2^G2A2- | ABB3A |
+A4z2 | z2e2a2- | aBc^def | gfagfe |
+b2B2z2 | z2F2B2- | B^ABcde | fegfed |
+edfedc | dcedcB | c2^A2B2- | Bcc3B- |
+BF^G^ABc | dcedcB | g6- | g6- |
+gEF^GAB | cBdcBA | f6- | f6- |
+fBedcB | cBdcBA | ^G2E2AB | cBdcBA |
+f3^GAG | AdB3A | A3cde | F2G2A2 |
+B2c2d2- | dcedcd | edcBAG | FEGFED |
+AGFEFD | A2B2cd | c2A2d2 | d2D2d2 |
+d2D2d2 | d2D2d2 | d2D2de | fegfed |
+b2c2d2- | dee3d | d2D2G2- | GA,B,CDE |
+FEGFED | B3CDC | DGE3D | D6 |]
+V:LH1
+z2 | z6 | z4D,E, | F,E,G,F,E,D, |
+A,G,F,E,F,D, | A,2A,,2A,2 | A,2A,,2A,2 | A,2A,,2A,2 |
+A,2A,,2A,2 | A,2B,2C2 | DCEDCB, | CDE2E,2 |
+A,E,F,^G,A,B, | CB,DCB,A, | E2E,2z2 | z2B,2E2- |
+EF,^G,^A,B,C | DCEDCB, | F2F,2E2 | D2B^AB2 |
+C2^A^GA2 | BAGFED | EDFEDC | DEF2F,2 |
+B,2F,2D,2 | B,,4z2 | zB,,C,^D,E,F, | G,F,A,G,F,E, |
+A,6- | A,6- | A,A,,B,,C,D,E, | F,E,G,F,E,D, |
+^G,3E,F,G, | A,^G,F,E,D,F, | E,D,C,B,,C,A,, | A,2F,2C,2 |
+D,C,E,D,C,B,, | C,D,E,2E,,2 | A,,C,D,E,F,G, | A,G,B,A,G,F, |
+G,F,A,G,F,E, | F,E,G,F,E,D, | A,2A,,2z2 | z6 |
+z4D,E, | F,E,G,F,E,D, | A,G,F,E,F,D, | A,F,B,G,F,E, |
+A,F,G,E,D,C, | A,F,B,G,F,E, | A,F,G,E,D,C, | D,2E,2F,2 |
+G,F,A,G,F,E, | F,G,A,2A,,2 | B,,A,,=C,B,,A,,G,, | D,6- |
+D,C,B,,A,,G,,F,, | G,,F,,A,,G,,F,,E,, | F,,G,,A,,4 | D,,6 |]

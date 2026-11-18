@@ -1,0 +1,44 @@
+X:1
+T:Прелюдия № 2 (ХТК II) · BWV 871
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=120
+%%score {(RH1 RH2 RH3) | LH1}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:RH3 clef=treble stem=down
+V:LH1 clef=bass
+K:Cm
+V:RH1
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | xGc2 x12 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x2G2 c8-ccx2 | x16 | x3d e2[=Bd]2 x8 |]
+V:RH2
+zGFG AFEF GEDE FDCD | E2c2 F2c2 E2c2 D2=B2 | CEGc Dc=B=A DGBd EdcB | EAce Fedc FBdf Gfed |
+e[Ac][GB][Ac] d[GB][FA][GB] cBAG FEDC | d[GB][FA][GB] c[FA][EG][FA] BAGF E_DCB, | c[FA][EG][FA] B[EG][DF][EG] A[DF][CE][DF] A2A2 | AGFG A2A2 Adfe dcBA |
+GBeg fefd eBAB cAGA | BGFG AFEF GEDE C2A2 | B,2G2 A,2F2 G,B,EG2FED | E4 [GB]2[FA]2 [B,EG]8 |
+zB=AB eBAB fBAB aBAB | g2e2 c=Bc2 f2d2 B=AB2 | eEDE GEDE BEDE _dEDE | c2A2 F=EF2 B2G2 EDE2 |
+Ac=Bc _dcBc GcBc dcBc | Fcd=e fB=AB gfed cB_AG | AF=EF cAGA fe_dc BAGF | GEDE BGFG e_dcB AGF=E |
+F2=A2 B2c2 _d2=e2 f2g2 | c=efa Bgfe Acef G_dcB | AGF=E FAC_E DAFD B,z3 | GFED EG=B,D CGEC A,z3 |
+FEDC DFAC =B,FDB, G,B,CD | E4-EBAG FGAF z2BA | GABG C_dcB ABcA De=dc | =BGc4z2 [EGc]8 |]
+V:RH3
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x3F EE2D x8 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x12 D2x2 | x16 | x4xG2F x8 |]
+V:LH1
+C,2C2 F,2C2 E,2C2 D,2=B,2 | C,G,F,G, A,F,E,F, G,E,D,E, F,D,C,D, | E,2C,2 F,2D,2 G,2F,2 G,2E,2 | A,2G,2 =A,2F,2 B,2A,2 =B,2G,2 |
+Cz3 B,z3 A,2z6 | B,z3 A,z3 G,2z6 | A,z3 G,z3 F,z3 E,CB,C | DB,A,B, CA,G,A, B,,2B,2 z2D,2 |
+E,2C,2 A,,2B,,2 E,,2E,2 A,2E,2 | G,,2E,2 F,,2D,2 E,G,F,G, A,F,E,F, | G,E,D,E, F,D,C,D, E,2G,2 A,2B,2 | C2A,2 B,2B,,2 zE,B,,G,, E,,4 |
+E,2F,2 G,2E,2 D,2C,2 D,2B,,2 | E,G,A,G, A,,G,A,G, D,F,G,F, G,,F,G,F, | C,2C2 B,2A,2 G,2F,2 G,2E,2 | A,C_DC _D,CDC G,B,CB, C,B,CB, |
+F,2A,2 F,2_D,2 =E,2G,2 _E,2C,2 | D,2F,2 _D,2B,2 C,2=D,2 =E,2C,2 | F,A,G,A, E,CB,C _D,2F,2 B,2_D2 | E,G,F,G, _D,B,A,B, C,2E,2 A,2C2 |
+_D,F,E,F, _G,F,E,F, B,,F,=G,A, G,F,=E,F, | A,,2F,,2 C,2C,,2 F,,2A,,2 B,,2C,2 | F,2G,2 A,2F,2 B,2B,,2 zA,G,F, | E,2F,2 G,2E,2 A,2A,,2 zG,F,E, |
+D,2E,2 F,2D,2 G,2G,,2 zF,E,D, | C,D,E,C, A,,G,F,E, D,E,F,D, B,,A,G,F, | E,2D,2 E,2=E,2 F,2E,2 F,2_G,2 | G,F,E,F, G,2G,,2 C,,C,E,G, C4 |]

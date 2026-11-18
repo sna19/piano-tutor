@@ -1,0 +1,48 @@
+X:1
+T:Синфония № 2 · BWV 788
+C:И. С. Бах
+M:12/8
+L:1/16
+Q:1/4=120
+%%score {(RH1 RH2) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:Cm
+V:RH1
+c2G2e2 e2c2g2 g6 G6 | c2d2e2 f2g2a2 =B2a2g2 f2e2d2 | e6 c8=B2c2 d2e2f2 | [Ce]2[Df]2[Ee]2 [Fd]2[Ge]2[Ac]2 g12- |
+g4g2 c4e2 F4FG ABAGFE | D4f2 B4d2 E4EF GAGFED | e24- | e4f2 d8gfed cdcB=AG |
+_G2=ag_g=e d_edcB=A B12 | =A6 _g6 =g6 A2B2G2 | d2c2B2 =A2G2_G2 =G4B2 B2G2d2 | d6 _G4z2 =G4B2 c2d2e2 |
+_G2e2d2 c2B2=A2 B4B2 B2=G2d2 | E4cd efedcB =A4A2 A2F2c2 | D4Bc dedcB=A G4G2 G2E2[GB]2 | F4F2 F2D2[GB]2 E4E2 F2G2[F=A]2 |
+[B,D]4d2 B8-B2e2 c6- | c6 B8=A2G2 _G6 | G2D2B2 B2G2_d2 d12- | _d2B2=e2 e2c2g2 a12- |
+a7bagfe dedcBc defgab | c'bagfe fgac'ba g12- | g4g2 g2e2[ec']2 f12- | f4f2 f2d2[d=b]2 e12- |
+e2agfe dedc=B=A B6 c6 | f16e4d2f2 | =B6 c6 [Fd]4c6B2 | [Ec]4g2 c4e2 A4FG ABAGFE |
+D2z2[Df]2 B4[Fd]2 GBcdef gagfed | c24- | c6 =B2c2d2 G12- | G4ef g2[Ec]2[D=B]2 [=Ec]12 |]
+V:RH2
+x24 | x24 | C2G,2E2 E2C2G2 G6 G,6 | x12 =B,2A2G2 F2E2D2 |
+E4x2 x7CDEx8 | x12xB,CDx8 | C4x6c2 B8-B2c2 | A8-A2B2 G4x8 |
+x16x2 G6 | _G2=E2D2 c2B2=A2 B2c2B2 x6 | x14D2x2 D4x2 | =A4x2 D6 x2A2x8 |
+x12 G2D2x8 | xG=ABx8 F2C2x8 | xFG=Ax8 E2B,2x8 | D2B,2x8 C2D2x8 |
+x8x2G2 E8-E2=A2 | _G2dxB=A =GAGFED E8=A,2C2 | B,4x12B2 G4B2 | =E4x2 x7fe_dcB ABAGF_E |
+D2B,2F2 F2D2A2 A12- | A2F2d2 d2B2d2 e12- | e2c8x2 d12- | d2=B8x2 c12- |
+c4x2 x8GFED CDCB,A,G, | A,4A4F2=B4G2c2 A6- | A2G2F2 E2D2C2 x4E2 D6 | x12xCDEx8 |
+x6 D2B,2x2 E2B,2G2 G2E2B2 | A6 x4A2 G8-G2A2 | F12-FG,=A,=B,CD EDCDEF | x=Bcdx2 x16x2 |]
+V:LH1
+C,6 C6 =B,2=A,2G,2 F2E2D2 | E4C2 A,4F,2 G,4=A,2 =B,4G,2 | C4z2 z16z2 | z24 |
+C2G,2E2 E2C2G2 A,6 z6 | B,2F,2D2 D2B,2F2 G,6 z6 | A,2E,2C2 C2A,2E2 G,2E,2B,2 B,2G,2E2 | F,2G,2A,2 B,2C2D2 E,6 E6 |
+D6 _G,6 =G,2D,2B,2 B,2G,2D2 | D6 D,6 G,2=A,2B,2 C2D2E2 | _G,2E2D2 C2B,2=A,2 B,6 =G,6- | G,2_G,2=G,2 =A,2B,2C2 B,2C2B,2 A,2B,2G,2 |
+D2C2B,2 =A,2G,2_G,2 =G,4D2 G,4B,2 | C,4z12C2 F,4=A,2 | B,,4z8 B,,12- | B,,16-B,,2 =A,,6- |
+=A,,2D,C,B,,A,, G,,A,,G,,F,,E,,D,, C,,2E,D,C,B,, A,,B,,A,,G,,_G,,=E,, | D,,6 z3G,,=A,,B,, C,B,,C,D,E,C, D,E,D,C,B,,A,, | G,,4z2 z8B,A,G,F, =E,F,E,D,C,B,, | A,,F,=E,D,C,B,, A,,B,,A,,G,,F,,=E,, F,,4z8 |
+z16G2 F4E2 | D4A2 G4F2 EG,A,B,CD EFEDCB, | A,12-A,F,G,=A,=B,C DEDCB,A, | G,12-G,E,F,G,=A,=B, CDC_B,_A,G, |
+F,16-F,2 E,6- | E,G,F,E,D,C, =B,,C,B,,=A,,G,,F,, E,,6 F,,6 | G,,6 =A,,6 =B,,2G,,2C,2 _A,,2F,,2G,,2 | C,2G,,2E,2 E,2C,2G,2 F,2C,2A,2 A,2F,2C2 |
+B,4z2 z16z2 | F,2C,2A,2 A,2F,2C2 E,2C,2G,2 G,2E,2C2 | D,2E,2F,2 G,2=A,2=B,2 E,12- | E,G,F,E,D,C, G,4G,,2 C,,12 |]
+V:LH2
+x24 | x24 | x24 | x24 |
+x24 | x24 | x24 | x24 |
+x24 | x24 | x24 | x24 |
+x24 | x24 | x24 | x24 |
+x24 | x24 | x24 | x24 |
+x24 | x24 | x24 | x24 |
+x24 | x24 | x24 | x24 |
+x2F,2x2 x16x2 | x24 | x24 | x24 |]

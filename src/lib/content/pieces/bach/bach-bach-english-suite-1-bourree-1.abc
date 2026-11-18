@@ -1,0 +1,53 @@
+X:1
+T:Бурре I · BWV 806
+C:И. С. Бах
+M:2/2
+L:1/16
+Q:1/4=184
+%%score {RH1 | (LH1 LH2)}
+V:RH1 clef=treble
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:A
+V:RH1
+E4 | A2G2B2A2 c2B2A2G2 | A4E4 C2E2A2B2 | c2B2d2c2 e2d2c2B2 |
+d2c2B2c2 A2B2c2d2 | e7/2=g/f4 g6a2 | f7/2a/g4 a6b2 | g2a2g2a2 a6ga |
+b8 z4E4 | A2G2B2A2 c2B2A2G2 | A4E4 C2E2A2B2 | c2B2d2c2 e2d2c2B2 |
+d2c2B2c2 A2G2B2A2 | c2B2A2G2 F2E2G2F2 | A2G2F2E2 ^D2C2E2D2 | F2B,2B4 G4F2E2 |
+E12E4 | A2G2B2A2 c2B2A2G2 | E12E4 | B2A2c2B2 d2c2e4 |
+c4B2c2 A2B2c2d2 | e2d2f2e2 =g2f2a4 | f4e2f2 d4f4 | f2d2c2B2 d2c2e2d2 |
+e2c2B2^A2 c2B2d2c2 | e2d2c2B2 d2c2B2^A2 | B12B4 | f2e2g2f2 a2g2b4 |
+g4f2g2 e4E4 | B2A2c2B2 d2c2e4 | c4B2c2 A2B2c2d2 | e2c2B2A2 e2d2f2e2 |
+=g2c2B2A2 d2c2e2d2 | f2c2B2A2 e2d2f2e2 | =g2c2B2A2 d2c2e2d2 | f2d2c2B2 f2e2g2f2 |
+a2^d2c2B2 e2d2f2e2 | g2^d2c2B2 f2e2g2f2 | a2^d2c2B2 e2d2f2e2 | g2f2e2f2 g2f2a2g2 |
+b2a2g2f2 a2g2f2e2 | a6b2 g6a2 | a12e4 | e2c2B2A2 c2B2d2c2 |
+d2B2A2G2 B2A2c2B2 | d2c2B2A2 c2B2A2G2 | A2E2F2G2 A2B2c2d2 | e2c2B2A2 c2B2d2c2 |
+d2B2A2G2 B2A2c2B2 | d2c2B2A2 c2B2A2G2 | A12z4 |]
+V:LH1
+z4 | z16 | z12E,4 | A,2G,2B,2A,2 C2B,2A,2G,2 |
+A,4E,4 C,2E,2A,2B,2 | C2B,2D2C2 E2D2C2A,2 | D2C2E2D2 F2E2^D2B,2 | E2F2E2D2 C2B,2C2A,2 |
+E2^D2F2E2 G2F2E2=D2 | C2B,2D2C2 E2D2C2B,2 | C2D2C2B,2 A,4E,4 | A,2G,2B,2A,2 C2B,2A,2G,2 |
+A,4E,4 C,4E,4 | A,,4E,4 A,2G,2B,2A,2 | C2B,2A,2G,2 F,2E,2G,2F,2 | A,2G,2F,2E,2 B,4B,,4 |
+E,2^D,2F,2E,2 G,2F,2E,2=D,2 | C,4B,,2C,2 A,,4z4 | E,12z4 | z12E,4 |
+A,2G,2B,2A,2 C2B,2E4 | C4B,2C2 A,4A,,4 | D,2C,2E,2D,2 F,2D,2D4 | =G,,8 z4C4 |
+F,,8 z4B,4 | =G,4D,4 E,4F,4 | B,,2^A,,2C,2B,,2 D,2C,2E,4 | ^D,8 z4B,,4 |
+E,2^D,2F,2E,2 G,2F,2A,4 | G,8 z4E,4 | A,2G,2B,2A,2 C2B,2E4 | C4D4 C4B,4 |
+A,4A,4 A,4A,4 | A,4A,4 A,4A,4 | A,4=G,4 F,4E,4 | D,4E,4 D,4C,4 |
+B,,4B,,4 B,,4B,,4 | B,,4B,,4 B,,4B,,4 | B,,4A,,4 G,,4F,,4 | E,,4E,,4 E,,4E,,4 |
+D,,4D,,4 D,,4D,4 | C,4D,4 E,4E,,4 | A,,2E,2F,2G,2 A,2B,2C4 | F,,8 z4B,4 |
+E,,8 z4A,4 | F,4C,4 D,4E,4 | A,,2G,,2A,,2B,,2 C,2D,2E,2C,2 | F,8 z4B,,4 |
+E,8 z4A,,4 | F,,4C,,4 D,,4E,,4 | A,,,12z4 |]
+V:LH2
+x4 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x4B,,4 E,,4x4 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x16 | x16 | x4E,,4 A,,4x4 |]

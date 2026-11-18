@@ -1,0 +1,33 @@
+X:1
+T:Chorale prelude “Wer nur den lieben Gott läßt walten” · BWV Anh. 691
+C:И. С. Бах
+M:4/4
+L:1/16
+Q:1/4=60
+%%score {(RH1 RH2 RH3) | (LH1 LH2)}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:RH3 clef=treble stem=down
+V:LH1 clef=bass stem=up
+V:LH2 clef=bass stem=down
+K:C
+V:RH1
+E4 | ABAB B3A/B/ c4 Bc/d/cB | AABc B3A ^G3^F E2=G2 | GFEF F3E E4 zABc |
+cBcd ^G3A A4 z4 | B2-B/c/A/B/ cdcd d3c/d/ e4 | ef/g/fe aBcd Gfed/c/ c4 | egfe dcBc c3B cBA^G/G/ |
+A2cB c2de c2BA A4- | A2z2 z12 |]
+V:RH2
+x4 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x12xE3- | E2x2 x12 |]
+V:RH3
+x4 | x16 | x16 | x16 |
+x16 | x16 | x16 | x16 |
+x14C2- | C2x2 x12 |]
+V:LH1
+[A,,C,]2[B,,D,]2 | [C,E,]2A,4[E,^G,]2 A,6E2- | E2D4C2 B,2A,2 ^G,2[E,B,]2 | C6B,4A,^G, A,4 |
+D2C2 [E,B,]4 A,4 z4 | ^G,,4 A,,4 B,,4 C,4- | C,2A,2 F,2^F,2 C2B,2 C,4 | C4 B,4 A,6[E,D]2 |
+[^F,C]2[^G,B,]2 A,6G,2 A,,4- | A,,2z2 z12 |]
+V:LH2
+x4 | x2F,2 D,2x2 x3C D2G,2 | F,3E, D,4 E,6x2 | A,4 D,2G,2 C,4 F,2E,2 |
+D,4 x6A,,2 x4 | x2E,4F,4G,4G,2 | C8 G,4 xG,A,B, | x2A,4^G,2 x2C,2 D,2x2 |
+x6D,2 E,4 x3E, | A,2x2 x12 |]

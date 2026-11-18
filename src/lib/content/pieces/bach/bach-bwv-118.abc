@@ -1,0 +1,26 @@
+X:1
+T:Менуэт · BWV Anh. 118
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=60
+%%score {RH1 | LH1}
+V:RH1 clef=treble
+V:LH1 clef=bass
+K:Bb
+V:RH1
+B4 B4 F3G/F/ | E8 D4 | C4 c6de/B/ | A8 B4 |
+c4 F4 e4 | d2c2 B2A2 B4 | efg2 f2e2 d2e2 | c12 |
+c12 | A4 A3B B3A/B/ | c4 B2A2 G2F2 | B4 A2G2 A2F2 |
+G2F2 =E2D2 E2C2 | C2D2 =E2F2 G2A2 | B4 =e4 efg2 | c4 B2A2 G2A2 |
+F12 | F4 B4 Bcd2 | F4 c4 cde2 | d2f2 e2d2 c2B2 |
+A4 G2A2 F4 | B4 B4 A4 | G4 F2E2 D4 | e4 d4 c4 |
+B12 | B12 |]
+V:LH1
+B,,2C,2 D,2C,2 D,2B,,2 | C,2B,,2 C,2F,,2 B,,4 | E,,2G,2 F,2E,2 D,2C,2 | F,2C,2 E,2D,2 C,2B,,2 |
+A,,2C,2 B,,2A,,2 G,,2F,,2 | B,,4 C,4 D,4 | G,,4 A,,4 B,,4 | F,,2E,,2 F,,2G,,2 A,,2F,,2 |
+F,,4 A,,4 C,4 | F,2E,2 D,2C,2 D,2B,,2 | F,2F,,2 G,,2A,,2 B,,2C,2 | D,4 =E,4 F,4 |
+C,4 C4 B,4 | A,4 G,4 F,4 | =E,2D,2 C,2B,,2 A,,2G,,2 | A,,4 B,,4 C,4 |
+F,,2C,2 F,2D,2 E,2C,2 | D,2F,2 E,2D,2 C,2B,,2 | A,,2C,2 B,,2A,,2 G,,2F,,2 | B,,4 G,,4 E,,4 |
+F,,2F,2 E,2D,2 E,2C,2 | D,2C,2 D,2B,,2 C,2D,2 | E,2F,2 G,2A,2 B,2A,2 | G,4 E,4 F,4 |
+B,,2A,,2 B,,2C,2 D,2E,2 | B,,12 |]

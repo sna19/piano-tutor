@@ -1,0 +1,44 @@
+X:1
+T:Синфония № 5 · BWV 791
+C:И. С. Бах
+M:3/4
+L:1/16
+Q:1/4=55
+%%score {(RH1 RH2) | LH1}
+V:RH1 clef=treble stem=up
+V:RH2 clef=treble stem=down
+V:LH1 clef=bass
+K:Eb
+V:RH1
+z7B e3f | d7[Fc] [B_d]3[ce] | [Ac]7[Gc] [Af]3[Bg] | [Ge]7[Gd] [ce]3[df] |
+d7d g3g | c7c f3f | B4 e8- | e4 d8 |
+[Ge]7g c3c | c12- | c4 =B3[ce] [df]4- | [df]3[ce] [ce]4 d3c |
+c4 z3G c3d | =A7[Bc] f3g | d7[ce] [df]3[eg] | [ce]3[Bd] [Bd]4 c3B |
+B4 z3b a3b | g7[ea] b4- | b3g =e3[_df] g4- | g3f _d3[Gc] [Af]3[Bg] |
+[c=e]7[ce] [fa]3[_ea] | a4 g3f b3b | b4 [c=e]3[Be] [Af]3[Ge] | [Af]3[Bg] [Af]4 [G=e]3[Af] |
+f4 z3c f3e | _d12- | _d7[ca] d4 | d3[Ac] [Ac]4 B3A |
+A7E A3B | G7[B,F] [EG]3[FA] | [DB]7[CF] [_DB]3[Ec] | [CA]7[CG] [FA]3[GB] |
+[EG]7[DG] [Ec]3[Fc] | c4 B8- | B4 A8- | A7G c3c |
+F7F B3c | [EG]12 |]
+V:RH2
+x12 | x12 | x12 | x12 |
+B12- | B4 A8- | A7G c3c | F7F B3c |
+x12 | x7a d3d | d7x x4 | x8 =B4 |
+x12 | x8 c4- | c4 B3x x4 | x8 =A4 |
+x12 | x8 _d3e | c7x B3c | A7x x4 |
+x12 | _d12- | _d4 x8 | x12 |
+A7x x4 | x7f b3a | g7x B4- | B3x x4 G4 |
+x12 | x12 | x12 | x12 |
+x12 | D7D G3G | C7C F3F | B,4 E8- |
+E4 D8 | x12 |]
+V:LH1
+zE,G,B, E4 C4 | zB,,D,F, B,4 G,4 | zA,,C,E, A,4 F,4 | zC,E,G, C4 =A,4 |
+zB,,D,F, B,4 E,4 | zA,,C,E, A,4 D,4 | zG,,B,,D, G,4 A,4 | zB,,F,A, B,4 B,,4 |
+zE,,G,,B,, E,4 C,4 | zA,,C,E, A,4 F,4 | zF,A,C F4 z=B,=A,G, | CG,A,F, G,4 G,,4 |
+zC,,E,,G,, C,4 E,,4 | zF,,=A,,C, F,4 A,,4 | zB,,D,F, B,4 G,4 | zG,=A,B, F,4 F,,4 |
+zB,,D,F, B,4 D,4 | zE,G,B, E4 G,4 | zA,,C,E, A,4 =E,4 | zF,,A,,C, F,4 _D,4 |
+zC,=E,G, C4 A,4 | zB,,_D,F, B,4 G,4 | zC,,=E,,G,, C,4 _D,4 | z_D,C,B,, C,4 C,,4 |
+zF,,A,,C, F,4 A,,4 | zB,,_D,F, B,4 D,4 | zE,G,B, E4 zG,F,E, | A,E,F,_D, E,4 E,,4 |
+zA,,C,E, A,4 F,4 | zE,,G,,B,, E,4 C,4 | zB,,D,F, B,4 G,4 | zA,,C,E, A,4 F,4 |
+zC,E,G, C4 =A,4 | zB,,D,F, B,4 E,4 | zA,,C,E, A,4 D,4 | zG,,B,,D, G,4 A,4 |
+zB,,F,A, B,4 B,,4 | E,,12 |]
