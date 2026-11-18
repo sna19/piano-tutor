@@ -45,3 +45,12 @@ export const progress = sqliteTable(
 	},
 	(t) => [primaryKey({ columns: [t.ref] })]
 );
+
+/** «Мои ноты»: the student's own PDF scores (e.g. bought ones); the files live in /data/library, never in the repository. */
+export const library = sqliteTable('library', {
+	id: integer('id').primaryKey({ autoIncrement: true }),
+	title: text('title').notNull(),
+	fileName: text('file_name').notNull(),
+	size: integer('size').notNull(),
+	createdAt: createdAt()
+});

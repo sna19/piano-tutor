@@ -23,7 +23,7 @@
 
 <svelte:head><title>Ноты · Пианино</title></svelte:head>
 
-<h1>Ноты</h1>
+<header class="hd"><h1>Ноты</h1><a class="chip" href="/pieces/mine">Мои ноты (PDF)</a></header>
 <p class="muted small">{PIECES.length} пьес Баха из изданий в общественном достоянии. Ваш уровень — {data.settings.level}; джаз, блюз и поп появятся в следующих этапах.</p>
 
 <input class="search" type="search" placeholder="Название, BWV, сборник" bind:value={q} aria-label="Поиск" />
@@ -57,6 +57,15 @@
 </ul>
 
 <style>
+	.hd {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 8px;
+	}
+	.hd a {
+		text-decoration: none;
+	}
 	.search {
 		width: 100%;
 		min-height: var(--tap);

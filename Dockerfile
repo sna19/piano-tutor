@@ -12,7 +12,8 @@ RUN npm run build && npm prune --omit=dev
 
 FROM node:22-bookworm-slim
 WORKDIR /app
-ENV NODE_ENV=production DATA_DIR=/data PORT=3000 MIGRATIONS_DIR=/app/drizzle
+# BODY_SIZE_LIMIT: «Мои ноты» takes PDFs up to 30 MB
+ENV NODE_ENV=production DATA_DIR=/data PORT=3000 MIGRATIONS_DIR=/app/drizzle BODY_SIZE_LIMIT=31M
 COPY --from=build /app/build ./build
 COPY --from=build /app/node_modules ./node_modules
 COPY --from=build /app/package.json ./
